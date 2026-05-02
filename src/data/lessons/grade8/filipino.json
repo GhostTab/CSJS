@@ -1,0 +1,977 @@
+{
+  "grade": 8,
+  "subject": "Filipino",
+  "subjectId": "filipino",
+  "lessons": [
+    {
+      "id": "florante-at-laura-tauhan",
+      "title": "Florante at Laura: Tauhan",
+      "description": "Learn Florante at Laura: Tauhan with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa Florante at Laura: Tauhan",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Florante at Laura: Tauhan para sa Grade 8."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Sa Florante at Laura, mahalaga ang mga tauhan dahil sa kanila ipinapakita ang tunggalian, damdamin, at aral ng akda. Si Florante ay karaniwang iniuugnay sa kabutihan, katapangan, at pagdurusa. Si Laura naman ay mahalagang tauhan na kaugnay ng pag-ibig, katapatan, at suliraning kinakaharap ni Florante.\n\nMay iba pang tauhan na nagpapalalim sa kuwento. Halimbawa, si Aladin ay nagpapakita ng pagkakaibigan at malasakit kahit mula sa ibang panig, samantalang si Adolfo ay halimbawa ng kasakiman at pagtataksil. Sa paghahambing ng mga tauhan, mas nauunawaan ang mensahe ng akda.\n\nMahalaga ang pagsusuri sa tauhan ng Florante at Laura dahil dito makikita ang mga pagpapahalagang tulad ng katapatan, katarungan, at paglaban sa kasamaan. Natututuhan din ng mag-aaral na hindi lang pangalan ang tauhan, kundi daluyan ng aral at pananaw sa lipunan.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Florante at Laura: Tauhan: Sa Florante at Laura, mahalaga ang mga tauhan dahil sa kanila ipinapakita ang tunggalian, damdamin, at aral ng akda. Si Florante ay karaniwang iniuugnay sa kabutihan, katapangan, at pagdurusa. Si Laura naman ay mahalagang tauhan na kaugnay ng pag-ibig, katapatan, at suliraning kinakaharap ni Florante."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Florante at Laura: Tauhan.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa Florante at Laura: Tauhan.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Florante at Laura: Tauhan covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang tauhan o konsepto sa ipinapakita nitong aral.",
+        "items": [
+          {
+            "term": "Florante",
+            "answer": "Kabutihan, katapangan, at pagdurusa."
+          },
+          {
+            "term": "Laura",
+            "answer": "Pag-ibig, katapatan, at suliraning kinakaharap ni Florante."
+          },
+          {
+            "term": "Aladin",
+            "answer": "Pagkakaibigan at malasakit kahit mula sa ibang panig."
+          },
+          {
+            "term": "Adolfo",
+            "answer": "Kasakiman at pagtataksil."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Bakit mahalaga ang mga tauhan sa Florante at Laura?",
+          "choices": [
+            "Ipinapakita nila ang tunggalian, damdamin, at aral ng akda",
+            "Pampahaba lang sila ng pamagat",
+            "Wala silang kaugnayan sa mensahe",
+            "Ginagamit lang sila sa bilang"
+          ],
+          "answer": "Ipinapakita nila ang tunggalian, damdamin, at aral ng akda",
+          "explanation": "Sa tauhan makikita ang pangunahing aral at tunggalian."
+        },
+        {
+          "question": "Ano ang karaniwang iniuugnay kay Florante?",
+          "choices": [
+            "Kabutihan, katapangan, at pagdurusa",
+            "Kasakiman at pagtataksil",
+            "Kawalan ng malasakit",
+            "Pag-iwas sa katarungan"
+          ],
+          "answer": "Kabutihan, katapangan, at pagdurusa",
+          "explanation": "Si Florante ang pangunahing tauhang dumaranas ng pagsubok."
+        },
+        {
+          "question": "Ano ang ipinapakita ni Aladin?",
+          "choices": [
+            "Pagkakaibigan at malasakit",
+            "Pagtataksil lamang",
+            "Pagkagahaman",
+            "Paglimot sa kapwa"
+          ],
+          "answer": "Pagkakaibigan at malasakit",
+          "explanation": "Tumutulong si Aladin kahit mula siya sa ibang panig."
+        },
+        {
+          "question": "Aling tauhan ang halimbawa ng kasakiman at pagtataksil?",
+          "choices": [
+            "Adolfo",
+            "Florante",
+            "Laura",
+            "Aladin"
+          ],
+          "answer": "Adolfo",
+          "explanation": "Si Adolfo ay nagpapakita ng masamang hangarin."
+        },
+        {
+          "question": "Ano ang natututuhan sa pagsusuri ng tauhan?",
+          "choices": [
+            "Ang tauhan ay daluyan ng aral at pananaw sa lipunan",
+            "Pangalan lang ang mahalaga",
+            "Hindi kailangan ang mensahe",
+            "Walang kaugnayan ang tauhan sa akda"
+          ],
+          "answer": "Ang tauhan ay daluyan ng aral at pananaw sa lipunan",
+          "explanation": "Nagpapakita ang mga tauhan ng pagpapahalaga at pananaw."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 Filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "florante",
+          "laura",
+          "tauhan"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagsulat-ng-sanaysay",
+      "title": "Pagsulat ng Sanaysay",
+      "description": "Learn Pagsulat ng Sanaysay with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa Pagsulat ng Sanaysay",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagsulat ng Sanaysay para sa Grade 8."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang pagsulat ng sanaysay ay paraan ng pagpapahayag ng sariling kaisipan tungkol sa isang paksa. May panimula, katawan, at wakas ang maayos na sanaysay. Sa panimula ipinapakilala ang paksa, sa katawan inilalahad ang paliwanag at halimbawa, at sa wakas binubuod ang pangunahing ideya.\n\nHalimbawa, kung ang paksa ay kahalagahan ng disiplina sa paaralan, maaaring simulan ang sanaysay sa paliwanag kung ano ang disiplina. Sa katawan, magbigay ng halimbawa tulad ng pagpasok sa oras at pagsunod sa tuntunin. Sa wakas, ipakita kung bakit nakatutulong ito sa pagkatuto.\n\nMahalaga ang pagsulat ng sanaysay dahil natututo ang mag-aaral na mag-isip nang malinaw at magpahayag nang may kaayusan. Nagagamit ito sa paaralan, talumpati, opinyon, at iba pang sitwasyong kailangan ang maayos na paliwanag.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Pagsulat ng Sanaysay: Ang pagsulat ng sanaysay ay paraan ng pagpapahayag ng sariling kaisipan tungkol sa isang paksa. May panimula, katawan, at wakas ang maayos na sanaysay. Sa panimula ipinapakilala ang paksa, sa katawan inilalahad ang paliwanag at halimbawa, at sa wakas binubuod ang pangunahing ideya."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagsulat ng Sanaysay.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa Pagsulat ng Sanaysay.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Pagsulat ng Sanaysay covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Pagsulat ng Sanaysay.",
+        "items": [
+          "Identify how paraan is defined in Pagsulat ng Sanaysay.",
+          "Describe the key pagpapahayag step taught in the discussion.",
+          "Apply sariling in a concrete situation from the lesson.",
+          "Explain the kaisipan based reason why Pagsulat ng Sanaysay matters."
+        ],
+        "correctOrder": [
+          "Identify how paraan is defined in Pagsulat ng Sanaysay.",
+          "Describe the key pagpapahayag step taught in the discussion.",
+          "Apply sariling in a concrete situation from the lesson.",
+          "Explain the kaisipan based reason why Pagsulat ng Sanaysay matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang pagsulat ng sanaysay?",
+          "choices": [
+            "Paraan ng pagpapahayag ng sariling kaisipan tungkol sa paksa",
+            "Paglista lamang ng salita",
+            "Pagguhit ng tauhan",
+            "Pagsagot sa equation"
+          ],
+          "answer": "Paraan ng pagpapahayag ng sariling kaisipan tungkol sa paksa",
+          "explanation": "Ang sanaysay ay nagpapaliwanag ng kaisipan tungkol sa paksa."
+        },
+        {
+          "question": "Ano ang tungkulin ng panimula?",
+          "choices": [
+            "Ipakilala ang paksa",
+            "Tapusin ang sanaysay",
+            "Itago ang pangunahing ideya",
+            "Magbigay ng wakas agad"
+          ],
+          "answer": "Ipakilala ang paksa",
+          "explanation": "Sa panimula unang ipinapakita ang paksa."
+        },
+        {
+          "question": "Ano ang nilalaman ng katawan?",
+          "choices": [
+            "Paliwanag at halimbawa",
+            "Pamagat lamang",
+            "Bantas lamang",
+            "Pangalan ng mambabasa"
+          ],
+          "answer": "Paliwanag at halimbawa",
+          "explanation": "Sa katawan pinauunlad ang ideya gamit ang detalye."
+        },
+        {
+          "question": "Ano ang tungkulin ng wakas?",
+          "choices": [
+            "Buodin ang pangunahing ideya",
+            "Magbukas ng bagong walang kaugnayang paksa",
+            "Alisin ang paliwanag",
+            "Palitan ang pamagat"
+          ],
+          "answer": "Buodin ang pangunahing ideya",
+          "explanation": "Ang wakas ang nagsasara at nagbubuod ng sanaysay."
+        },
+        {
+          "question": "True or False: paraan is a key lesson concept in Pagsulat ng Sanaysay.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies paraan as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 Filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=hh-aa_ql5z4",
+        "title": "Mga dapat tandaan sa pagsulat ng Sanaysay #Filipino #Grade10 #MaestraRejina",
+        "keywords": [
+          "pagsulat",
+          "sanaysay"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "tekstong-naratibo",
+      "title": "Tekstong Naratibo",
+      "description": "Learn Tekstong Naratibo with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Tekstong Naratibo",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Tekstong Naratibo para sa Grade 8."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Tekstong Naratibo ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Tekstong Naratibo sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Tekstong Naratibo, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Tekstong Naratibo dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Tekstong Naratibo: Tekstong Naratibo ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Tekstong Naratibo sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Tekstong Naratibo, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Tekstong Naratibo.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Tekstong Naratibo.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Naratibo at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Naratibo at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Naratibo at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Naratibo at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Tekstong Naratibo."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Tekstong Naratibo sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Tekstong Naratibo",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Tekstong Naratibo?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Tekstong Naratibo at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Tekstong Naratibo at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Tekstong Naratibo at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Tekstong Naratibo?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Tekstong Naratibo?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Tekstong Naratibo at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Tekstong Naratibo at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Tekstong Naratibo?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Tekstong Naratibo ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=FcARqage8YQ",
+        "title": "TEKSTONG NARATIBO / NARATIV",
+        "keywords": [
+          "tekstong",
+          "naratibo"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "tekstong-impormatibo",
+      "title": "Tekstong Impormatibo",
+      "description": "Learn Tekstong Impormatibo with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Tekstong Impormatibo",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Tekstong Impormatibo para sa Grade 8."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Tekstong Impormatibo ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Tekstong Impormatibo sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Tekstong Impormatibo, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Tekstong Impormatibo dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Tekstong Impormatibo: Tekstong Impormatibo ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Tekstong Impormatibo sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Tekstong Impormatibo, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Tekstong Impormatibo.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Tekstong Impormatibo.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Impormatibo at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Impormatibo at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Impormatibo at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Tekstong Impormatibo at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Tekstong Impormatibo."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Tekstong Impormatibo.",
+        "items": [
+          "Identify how mahalagang is defined in Tekstong Impormatibo.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Tekstong Impormatibo matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Tekstong Impormatibo.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Tekstong Impormatibo matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Tekstong Impormatibo?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Tekstong Impormatibo at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Tekstong Impormatibo at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Tekstong Impormatibo at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Tekstong Impormatibo?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Tekstong Impormatibo?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Tekstong Impormatibo at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Tekstong Impormatibo at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Tekstong Impormatibo?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Tekstong Impormatibo.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=FMdRh2RAH6k",
+        "title": "TEKSTONG IMPORMATIBO / IMPORMATIB",
+        "keywords": [
+          "tekstong",
+          "impormatibo"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagsusuri-ng-tauhan",
+      "title": "Pagsusuri ng Tauhan",
+      "description": "Learn Pagsusuri ng Tauhan with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagsusuri ng Tauhan",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagsusuri ng Tauhan para sa Grade 8."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagsusuri ng Tauhan ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsusuri ng Tauhan sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagsusuri ng Tauhan, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagsusuri ng Tauhan dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Pagsusuri ng Tauhan: Pagsusuri ng Tauhan ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsusuri ng Tauhan sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagsusuri ng Tauhan, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagsusuri ng Tauhan.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagsusuri ng Tauhan.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Tauhan at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Tauhan at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Tauhan at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Tauhan at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagsusuri ng Tauhan."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Pagsusuri ng Tauhan sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Pagsusuri ng Tauhan",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagsusuri ng Tauhan?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagsusuri ng Tauhan at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagsusuri ng Tauhan at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagsusuri ng Tauhan at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagsusuri ng Tauhan?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagsusuri ng Tauhan?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagsusuri ng Tauhan at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagsusuri ng Tauhan at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagsusuri ng Tauhan?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Pagsusuri ng Tauhan ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "pagsusuri",
+          "tauhan"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagpapalawak-ng-pangungusap",
+      "title": "Pagpapalawak ng Pangungusap",
+      "description": "Learn Pagpapalawak ng Pangungusap with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagpapalawak ng Pangungusap",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagpapalawak ng Pangungusap para sa Grade 8."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagpapalawak ng Pangungusap ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagpapalawak ng Pangungusap sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagpapalawak ng Pangungusap, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagpapalawak ng Pangungusap dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Pagpapalawak ng Pangungusap: Pagpapalawak ng Pangungusap ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagpapalawak ng Pangungusap sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagpapalawak ng Pangungusap, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagpapalawak ng Pangungusap.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagpapalawak ng Pangungusap.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagpapalawak ng Pangungusap at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagpapalawak ng Pangungusap at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagpapalawak ng Pangungusap at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagpapalawak ng Pangungusap at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagpapalawak ng Pangungusap."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Pagpapalawak ng Pangungusap.",
+        "items": [
+          "Identify how mahalagang is defined in Pagpapalawak ng Pangungusap.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Pagpapalawak ng Pangungusap matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Pagpapalawak ng Pangungusap.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Pagpapalawak ng Pangungusap matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagpapalawak ng Pangungusap?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagpapalawak ng Pangungusap at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagpapalawak ng Pangungusap at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagpapalawak ng Pangungusap at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagpapalawak ng Pangungusap?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagpapalawak ng Pangungusap?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagpapalawak ng Pangungusap at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagpapalawak ng Pangungusap at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagpapalawak ng Pangungusap?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Pagpapalawak ng Pangungusap.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ovGsHUM6cQI",
+        "title": "Pagpapalawak ng Pangungusap",
+        "keywords": [
+          "pagpapalawak",
+          "pangungusap"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

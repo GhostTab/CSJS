@@ -1,0 +1,289 @@
+{
+  "grade": 10,
+  "subject": "ICT",
+  "subjectId": "ict",
+  "lessons": [
+    {
+      "id": "multimedia-production",
+      "title": "Multimedia Production",
+      "description": "Learn Multimedia Production with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Multimedia Production",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Multimedia Production for Grade 10 ICT."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Multimedia Production."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Multimedia Production.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Input",
+            "Process",
+            "Output"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Multimedia Production.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Multimedia Production covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the process for Multimedia Production.",
+        "items": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ],
+        "correctOrder": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Multimedia Production?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 ICT."
+    },
+    {
+      "id": "digital-citizenship",
+      "title": "Digital Citizenship",
+      "description": "Learn Digital Citizenship with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Digital Citizenship",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Digital Citizenship for Grade 10 ICT."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Digital Citizenship."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Digital Citizenship.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Input",
+            "Process",
+            "Output"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Digital Citizenship.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Digital Citizenship covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the process for Digital Citizenship.",
+        "items": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ],
+        "correctOrder": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Digital Citizenship?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 ICT."
+    }
+  ]
+}

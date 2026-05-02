@@ -1,0 +1,301 @@
+{
+  "grade": 7,
+  "subject": "TLE",
+  "subjectId": "tle",
+  "lessons": [
+    {
+      "id": "basic-hand-tools",
+      "title": "Basic Hand Tools",
+      "description": "Learn Basic Hand Tools with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Basic Hand Tools",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Basic Hand Tools for Grade 7 TLE."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Basic Hand Tools."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Basic Hand Tools.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Prepare",
+            "Do",
+            "Evaluate"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Basic Hand Tools.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Basic Hand Tools covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Core idea in Basic Hand Tools",
+            "answer": "Main concept discussed in the lesson"
+          },
+          {
+            "term": "Real-world connection",
+            "answer": "How the concept appears in daily life"
+          },
+          {
+            "term": "Key evidence",
+            "answer": "Information that supports understanding"
+          },
+          {
+            "term": "Lesson application",
+            "answer": "How learners apply what they studied"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Basic Hand Tools?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 TLE."
+    },
+    {
+      "id": "workplace-safety",
+      "title": "Workplace Safety",
+      "description": "Learn Workplace Safety with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Workplace Safety",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Workplace Safety for Grade 7 TLE."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Workplace Safety."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Workplace Safety.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Prepare",
+            "Do",
+            "Evaluate"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Workplace Safety.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Workplace Safety covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Core idea in Workplace Safety",
+            "answer": "Main concept discussed in the lesson"
+          },
+          {
+            "term": "Real-world connection",
+            "answer": "How the concept appears in daily life"
+          },
+          {
+            "term": "Key evidence",
+            "answer": "Information that supports understanding"
+          },
+          {
+            "term": "Lesson application",
+            "answer": "How learners apply what they studied"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Workplace Safety?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 TLE."
+    }
+  ]
+}

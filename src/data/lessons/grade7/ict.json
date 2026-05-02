@@ -1,0 +1,289 @@
+{
+  "grade": 7,
+  "subject": "ICT",
+  "subjectId": "ict",
+  "lessons": [
+    {
+      "id": "computer-system-basics",
+      "title": "Computer System Basics",
+      "description": "Learn Computer System Basics with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Computer System Basics",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Computer System Basics for Grade 7 ICT."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Computer System Basics."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Computer System Basics.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Input",
+            "Process",
+            "Output"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Computer System Basics.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Computer System Basics covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the process for Computer System Basics.",
+        "items": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ],
+        "correctOrder": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Computer System Basics?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 ICT."
+    },
+    {
+      "id": "safe-and-responsible-internet-use",
+      "title": "Safe and Responsible Internet Use",
+      "description": "Learn Safe and Responsible Internet Use with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Safe and Responsible Internet Use",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Safe and Responsible Internet Use for Grade 7 ICT."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Safe and Responsible Internet Use."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Safe and Responsible Internet Use.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Input",
+            "Process",
+            "Output"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Safe and Responsible Internet Use.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Safe and Responsible Internet Use covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the process for Safe and Responsible Internet Use.",
+        "items": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ],
+        "correctOrder": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Safe and Responsible Internet Use?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 ICT."
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+{
+  "grade": 7,
+  "subject": "Science",
+  "subjectId": "science",
+  "lessons": [
+    {
+      "id": "matter-and-its-properties",
+      "title": "Matter and Its Properties",
+      "description": "Learn Matter and Its Properties with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Matter and Its Properties",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Matter and Its Properties for Grade 7 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Matter is anything that has mass and takes up space. Air, water, rocks, books, and the human body are all examples of matter. Matter can be described using properties such as color, shape, mass, volume, texture, and state.\n\nProperties of matter can be physical or chemical. Physical properties can be observed without changing the substance, such as melting point, boiling point, and density. Chemical properties describe how a substance reacts and changes into a new substance, such as iron rusting or paper burning.\n\nMatter and its properties matter in science because they help us identify materials and predict how they behave. When you know a material's properties, you can choose the right material for cooking, building, cleaning, or conducting an experiment.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "transcript": "Narration for Matter and Its Properties: Matter is anything that has mass and takes up space. Air, water, rocks, books, and the human body are all examples of matter. Matter can be described using properties such as color, shape, mass, volume, texture, and state."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Matter and Its Properties.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Matter and Its Properties.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Matter and Its Properties covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each matter concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Matter",
+            "answer": "Anything that has mass and takes up space."
+          },
+          {
+            "term": "Physical property",
+            "answer": "A property observed without changing the substance."
+          },
+          {
+            "term": "Chemical property",
+            "answer": "A property describing how a substance reacts and forms a new substance."
+          },
+          {
+            "term": "Density or boiling point",
+            "answer": "Examples of physical properties."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is matter?",
+          "choices": [
+            "Anything that has mass and takes up space",
+            "Only things that are alive",
+            "Only objects made of metal",
+            "Only invisible gases"
+          ],
+          "answer": "Anything that has mass and takes up space",
+          "explanation": "Matter includes solids, liquids, gases, and anything with mass and volume."
+        },
+        {
+          "question": "Which is a physical property?",
+          "choices": [
+            "Boiling point",
+            "Rusting",
+            "Burning",
+            "Reacting with acid"
+          ],
+          "answer": "Boiling point",
+          "explanation": "Boiling point can be observed without changing the substance into a new one."
+        },
+        {
+          "question": "Which is a chemical property?",
+          "choices": [
+            "Iron rusting",
+            "Color",
+            "Shape",
+            "Texture"
+          ],
+          "answer": "Iron rusting",
+          "explanation": "Rusting forms a new substance."
+        },
+        {
+          "question": "Why are properties of matter useful?",
+          "choices": [
+            "They help identify materials and predict behavior",
+            "They remove the need for observation",
+            "They only name objects",
+            "They make all substances the same"
+          ],
+          "answer": "They help identify materials and predict behavior",
+          "explanation": "Properties explain how materials can be used and tested."
+        },
+        {
+          "question": "Which statement is correct about Matter and Its Properties?",
+          "choices": [
+            "Air is matter..",
+            "The statement about Matter and Its Properties is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Air is matter..",
+          "explanation": "Air has mass and takes up space, so it is matter."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 Science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Tu6JAjmPXyQ",
+        "title": "Science For Kids: Exploring Matter And Its Properties  (Learning Videos For Kids)",
+        "keywords": [
+          "matter",
+          "properties"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "scientific-investigation",
+      "title": "Scientific Investigation",
+      "description": "Learn Scientific Investigation with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Scientific Investigation",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Scientific Investigation for Grade 7 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Scientific investigation is a careful process for answering questions about the natural world. It begins with an observation, such as noticing that one plant grows faster than another. From there, scientists ask a testable question and form a hypothesis, which is a possible explanation that can be checked with evidence.\n\nA fair investigation controls variables so the results are reliable. The independent variable is what is changed, the dependent variable is what is measured, and controlled variables are kept the same. For example, when testing how sunlight affects plant growth, the amount of sunlight changes while the type of plant and amount of water should stay the same.\n\nScientific investigation matters because it teaches students to use evidence instead of guesses. It helps people test claims, solve problems, and explain patterns in health, technology, weather, farming, and daily life.",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg",
+              "alt": "Scientific Investigation visual aid",
+              "caption": "Visual aid for Scientific Investigation.",
+              "source": "curated-catalog"
+            }
+          ],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Scientific Investigation: Scientific investigation is a careful process for answering questions about the natural world. It begins with an observation, such as noticing that one plant grows faster than another. From there, scientists ask a testable question and form a hypothesis, which is a possible explanation that can be checked with evidence."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Scientific Investigation.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Scientific Investigation.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Scientific Investigation covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Scientific Investigation.",
+        "items": [
+          "Identify how careful is defined in Scientific Investigation.",
+          "Describe the key process step taught in the discussion.",
+          "Apply answering in a concrete situation from the lesson.",
+          "Explain the questions based reason why Scientific Investigation matters."
+        ],
+        "correctOrder": [
+          "Identify how careful is defined in Scientific Investigation.",
+          "Describe the key process step taught in the discussion.",
+          "Apply answering in a concrete situation from the lesson.",
+          "Explain the questions based reason why Scientific Investigation matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What begins a scientific investigation?",
+          "choices": [
+            "An observation",
+            "A final answer",
+            "A copied conclusion",
+            "A random guess only"
+          ],
+          "answer": "An observation",
+          "explanation": "Observations lead scientists to ask testable questions."
+        },
+        {
+          "question": "What is a hypothesis?",
+          "choices": [
+            "A testable possible explanation",
+            "A guaranteed fact before testing",
+            "The measured result only",
+            "A variable kept secret"
+          ],
+          "answer": "A testable possible explanation",
+          "explanation": "A hypothesis must be possible to test with evidence."
+        },
+        {
+          "question": "In a sunlight and plant growth test, what is the independent variable?",
+          "choices": [
+            "Amount of sunlight",
+            "Plant growth",
+            "The conclusion",
+            "The title"
+          ],
+          "answer": "Amount of sunlight",
+          "explanation": "The independent variable is what the investigator changes."
+        },
+        {
+          "question": "What is the dependent variable in the same plant test?",
+          "choices": [
+            "Plant growth",
+            "Amount of sunlight",
+            "Type of question",
+            "Notebook color"
+          ],
+          "answer": "Plant growth",
+          "explanation": "The dependent variable is what is measured."
+        },
+        {
+          "question": "True or False: careful is a key lesson concept in Scientific Investigation.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies careful as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 Science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=l_wcCh1D_A4",
+        "title": "Scientific Investigations",
+        "keywords": [
+          "scientific",
+          "investigation"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "cells-and-organization",
+      "title": "Cells and Organization",
+      "description": "Learn Cells and Organization with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Cells and Organization",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Cells and Organization for Grade 7 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Cells and Organization is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Cells and Organization works and why it appears in real classroom and community situations.\n\nA strong understanding of Cells and Organization requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nCells and Organization matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Cells and Organization: Cells and Organization is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Cells and Organization works and why it appears in real classroom and community situations. A strong understanding of Cells and Organization requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Cells and Organization.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Cells and Organization.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Cells and Organization and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Cells and Organization and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Cells and Organization and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Cells and Organization and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Cells and Organization."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Cells and Organization concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Cells and Organization concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Cells and Organization",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Cells and Organization?",
+          "choices": [
+            "It gives a clear explanation of Cells and Organization and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Cells and Organization and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Cells and Organization with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Cells and Organization?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Cells and Organization?",
+          "choices": [
+            "An example directly tied to Cells and Organization and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Cells and Organization and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Cells and Organization?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Cells and Organization?",
+          "choices": [
+            "Answers in Cells and Organization should include evidence and explanation..",
+            "The statement about Cells and Organization is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Cells and Organization should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "cells",
+          "organization"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "plant-and-animal-adaptations",
+      "title": "Plant and Animal Adaptations",
+      "description": "Learn Plant and Animal Adaptations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Plant and Animal Adaptations",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Plant and Animal Adaptations for Grade 7 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Plant and Animal Adaptations is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Plant and Animal Adaptations works and why it appears in real classroom and community situations.\n\nA strong understanding of Plant and Animal Adaptations requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nPlant and Animal Adaptations matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Plant and Animal Adaptations: Plant and Animal Adaptations is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Plant and Animal Adaptations works and why it appears in real classroom and community situations. A strong understanding of Plant and Animal Adaptations requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Plant and Animal Adaptations.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Plant and Animal Adaptations.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Plant and Animal Adaptations and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Plant and Animal Adaptations and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Plant and Animal Adaptations and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Plant and Animal Adaptations and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Plant and Animal Adaptations."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Plant and Animal Adaptations.",
+        "items": [
+          "Identify how topic is defined in Plant and Animal Adaptations.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Plant and Animal Adaptations matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Plant and Animal Adaptations.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Plant and Animal Adaptations matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Plant and Animal Adaptations?",
+          "choices": [
+            "It gives a clear explanation of Plant and Animal Adaptations and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Plant and Animal Adaptations and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Plant and Animal Adaptations with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Plant and Animal Adaptations?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Plant and Animal Adaptations?",
+          "choices": [
+            "An example directly tied to Plant and Animal Adaptations and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Plant and Animal Adaptations and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Plant and Animal Adaptations?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Plant and Animal Adaptations.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JPR8yM38ZwY",
+        "title": "Plant and Animal Adaptations in Different Biomes",
+        "keywords": [
+          "plant",
+          "animal",
+          "adaptations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "heat-transfer",
+      "title": "Heat Transfer",
+      "description": "Learn Heat Transfer with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Heat Transfer",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Heat Transfer for Grade 7 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Heat Transfer is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Heat Transfer works and why it appears in real classroom and community situations.\n\nA strong understanding of Heat Transfer requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nHeat Transfer matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/87236/pexels-photo-87236.jpeg",
+              "alt": "Heat Transfer visual aid",
+              "caption": "Visual aid for Heat Transfer.",
+              "source": "curated-catalog"
+            }
+          ],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Heat Transfer: Heat Transfer is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Heat Transfer works and why it appears in real classroom and community situations. A strong understanding of Heat Transfer requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Heat Transfer.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Heat Transfer.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Heat Transfer and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Heat Transfer and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Heat Transfer and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Heat Transfer and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Heat Transfer."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Heat Transfer concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Heat Transfer concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Heat Transfer",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Heat Transfer?",
+          "choices": [
+            "It gives a clear explanation of Heat Transfer and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Heat Transfer and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Heat Transfer with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Heat Transfer?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Heat Transfer?",
+          "choices": [
+            "An example directly tied to Heat Transfer and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Heat Transfer and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Heat Transfer?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Heat Transfer?",
+          "choices": [
+            "Answers in Heat Transfer should include evidence and explanation..",
+            "The statement about Heat Transfer is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Heat Transfer should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Me60Ti0E_rY",
+        "title": "Heat Transfer – Conduction, Convection and Radiation",
+        "keywords": [
+          "heat",
+          "transfer"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "weather-and-climate-basics",
+      "title": "Weather and Climate Basics",
+      "description": "Learn Weather and Climate Basics with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Weather and Climate Basics",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Weather and Climate Basics for Grade 7 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Weather and Climate Basics is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Weather and Climate Basics works and why it appears in real classroom and community situations.\n\nA strong understanding of Weather and Climate Basics requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nWeather and Climate Basics matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Weather and Climate Basics: Weather and Climate Basics is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Weather and Climate Basics works and why it appears in real classroom and community situations. A strong understanding of Weather and Climate Basics requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Weather and Climate Basics.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Weather and Climate Basics.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Weather and Climate Basics and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Weather and Climate Basics and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Weather and Climate Basics and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Weather and Climate Basics and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Weather and Climate Basics."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Weather and Climate Basics.",
+        "items": [
+          "Identify how topic is defined in Weather and Climate Basics.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Weather and Climate Basics matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Weather and Climate Basics.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Weather and Climate Basics matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Weather and Climate Basics?",
+          "choices": [
+            "It gives a clear explanation of Weather and Climate Basics and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Weather and Climate Basics and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Weather and Climate Basics with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Weather and Climate Basics?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Weather and Climate Basics?",
+          "choices": [
+            "An example directly tied to Weather and Climate Basics and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Weather and Climate Basics and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Weather and Climate Basics?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Weather and Climate Basics.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "weather",
+          "climate",
+          "basics"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

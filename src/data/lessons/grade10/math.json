@@ -1,0 +1,973 @@
+{
+  "grade": 10,
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "lessons": [
+    {
+      "id": "statistics-and-probability",
+      "title": "Statistics and Probability",
+      "description": "Learn Statistics and Probability with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Statistics and Probability",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Statistics and Probability for Grade 10 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Statistics is the study of collecting, organizing, analyzing, and interpreting data. Measures such as mean, median, mode, and range help describe a data set. For example, the mean gives an average, while the median shows the middle value when the data are arranged in order.\n\nProbability measures how likely an event is to happen. It is often written as a fraction, decimal, or percent from 0 to 1, where 0 means impossible and 1 means certain. If a bag has 3 red balls and 2 blue balls, the probability of choosing a red ball is 3 out of 5.\n\nStatistics and probability matter because they help people make decisions using evidence instead of guesses. They are used in surveys, weather forecasts, games, health studies, business planning, and everyday risk decisions.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Statistics and Probability: Statistics is the study of collecting, organizing, analyzing, and interpreting data. Measures such as mean, median, mode, and range help describe a data set. For example, the mean gives an average, while the median shows the middle value when the data are arranged in order."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Statistics and Probability.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Statistics and Probability into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Statistics and Probability covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each statistics or probability term with its meaning.",
+        "items": [
+          {
+            "term": "Mean",
+            "answer": "The average of a data set."
+          },
+          {
+            "term": "Median",
+            "answer": "The middle value when data are arranged in order."
+          },
+          {
+            "term": "Probability",
+            "answer": "A measure of how likely an event is to happen."
+          },
+          {
+            "term": "Range from 0 to 1",
+            "answer": "The scale where 0 means impossible and 1 means certain."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does statistics study?",
+          "choices": [
+            "Collecting, organizing, analyzing, and interpreting data",
+            "Only drawing shapes",
+            "Only solving spelling rules",
+            "Removing all numbers"
+          ],
+          "answer": "Collecting, organizing, analyzing, and interpreting data",
+          "explanation": "Statistics is the study of working with data."
+        },
+        {
+          "question": "What does the median show?",
+          "choices": [
+            "The middle value in ordered data",
+            "The total of all values",
+            "The largest value only",
+            "The smallest value only"
+          ],
+          "answer": "The middle value in ordered data",
+          "explanation": "Median is found after arranging values in order."
+        },
+        {
+          "question": "If a bag has 3 red balls and 2 blue balls, what is the probability of red?",
+          "choices": [
+            "3 out of 5",
+            "2 out of 5",
+            "5 out of 3",
+            "1 out of 5"
+          ],
+          "answer": "3 out of 5",
+          "explanation": "There are 3 red balls out of 5 total balls."
+        },
+        {
+          "question": "What probability means impossible?",
+          "choices": [
+            "0",
+            "1",
+            "50%",
+            "100%"
+          ],
+          "answer": "0",
+          "explanation": "A probability of 0 means the event cannot happen."
+        },
+        {
+          "question": "Why are statistics and probability useful?",
+          "choices": [
+            "They support decisions using evidence",
+            "They replace all evidence with guesses",
+            "They only name the lesson",
+            "They avoid data"
+          ],
+          "answer": "They support decisions using evidence",
+          "explanation": "Data and likelihood help people reason carefully."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 Mathematics.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=s7Y4nfbatAY",
+        "title": "UNDERSTANDING OF PROBABILITY || GRADE 11 STATISTICS AND PROBABILITY Q3",
+        "keywords": [
+          "statistics",
+          "probability"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "sequences-and-series",
+      "title": "Sequences and Series",
+      "description": "Learn Sequences and Series with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Sequences and Series",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Sequences and Series for Grade 10 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Sequences are ordered lists of numbers that follow a pattern. An arithmetic sequence adds the same number each time, such as 4, 7, 10, 13. A geometric sequence multiplies by the same number each time, such as 3, 6, 12, 24.\n\nA series is the sum of the terms in a sequence. For example, the sequence 2, 4, 6, 8 has a related series 2 + 4 + 6 + 8. Formulas help find a specific term or a total without listing every number one by one.\n\nSequences and series matter because they model repeated growth, savings plans, patterns in designs, and many real-life processes. Recognizing the pattern tells you whether to add, multiply, or use a formula.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Sequences and Series: Sequences are ordered lists of numbers that follow a pattern. An arithmetic sequence adds the same number each time, such as 4, 7, 10, 13. A geometric sequence multiplies by the same number each time, such as 3, 6, 12, 24."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Sequences and Series.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Sequences and Series into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Sequences and Series covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Sequences and Series.",
+        "items": [
+          "Identify how ordered is defined in Sequences and Series.",
+          "Describe the key lists step taught in the discussion.",
+          "Apply numbers in a concrete situation from the lesson.",
+          "Explain the follow based reason why Sequences and Series matters."
+        ],
+        "correctOrder": [
+          "Identify how ordered is defined in Sequences and Series.",
+          "Describe the key lists step taught in the discussion.",
+          "Apply numbers in a concrete situation from the lesson.",
+          "Explain the follow based reason why Sequences and Series matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a sequence?",
+          "choices": [
+            "An ordered list of numbers that follows a pattern",
+            "The sum of unrelated words",
+            "A single random number",
+            "A paragraph title"
+          ],
+          "answer": "An ordered list of numbers that follows a pattern",
+          "explanation": "Sequences list terms in order."
+        },
+        {
+          "question": "Which sequence is arithmetic?",
+          "choices": [
+            "4, 7, 10, 13",
+            "3, 6, 12, 24",
+            "1, 4, 9, 16",
+            "2, 5, 11, 23"
+          ],
+          "answer": "4, 7, 10, 13",
+          "explanation": "It adds 3 each time."
+        },
+        {
+          "question": "Which sequence is geometric?",
+          "choices": [
+            "3, 6, 12, 24",
+            "4, 7, 10, 13",
+            "1, 2, 3, 4",
+            "10, 8, 6, 4"
+          ],
+          "answer": "3, 6, 12, 24",
+          "explanation": "It multiplies by 2 each time."
+        },
+        {
+          "question": "What is a series?",
+          "choices": [
+            "The sum of sequence terms",
+            "Only the first term",
+            "A variable with no pattern",
+            "A drawing of a line"
+          ],
+          "answer": "The sum of sequence terms",
+          "explanation": "A series adds the terms of a sequence."
+        },
+        {
+          "question": "True or False: ordered is a key lesson concept in Sequences and Series.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies ordered as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 Mathematics.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Tj89FA-d0f8",
+        "title": "Sequences and Series (Arithmetic & Geometric) Quick Review",
+        "keywords": [
+          "sequences",
+          "series"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "trigonometric-identities-intro",
+      "title": "Trigonometric Identities Intro",
+      "description": "Learn Trigonometric Identities Intro with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Trigonometric Identities Intro",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Trigonometric Identities Intro for Grade 10 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Trigonometric Identities Intro is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Trigonometric Identities Intro works and why it appears in real classroom and community situations.\n\nA strong understanding of Trigonometric Identities Intro requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nTrigonometric Identities Intro matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Trigonometric Identities Intro: Trigonometric Identities Intro is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Trigonometric Identities Intro works and why it appears in real classroom and community situations. A strong understanding of Trigonometric Identities Intro requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Trigonometric Identities Intro.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Trigonometric Identities Intro.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Trigonometric Identities Intro and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Trigonometric Identities Intro and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Trigonometric Identities Intro and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Trigonometric Identities Intro and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Trigonometric Identities Intro."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Trigonometric Identities Intro concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Trigonometric Identities Intro definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Trigonometric Identities Intro",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Trigonometric Identities Intro?",
+          "choices": [
+            "It gives a clear explanation of Trigonometric Identities Intro and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Trigonometric Identities Intro and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Trigonometric Identities Intro with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Trigonometric Identities Intro?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Trigonometric Identities Intro?",
+          "choices": [
+            "An example directly tied to Trigonometric Identities Intro and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Trigonometric Identities Intro and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Trigonometric Identities Intro?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Trigonometric Identities Intro?",
+          "choices": [
+            "Answers in Trigonometric Identities Intro should include evidence and explanation..",
+            "The statement about Trigonometric Identities Intro is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Trigonometric Identities Intro should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "trigonometric",
+          "identities",
+          "intro"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "binomial-theorem-basics",
+      "title": "Binomial Theorem Basics",
+      "description": "Learn Binomial Theorem Basics with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Binomial Theorem Basics",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Binomial Theorem Basics for Grade 10 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Binomial Theorem Basics is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Binomial Theorem Basics works and why it appears in real classroom and community situations.\n\nA strong understanding of Binomial Theorem Basics requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nBinomial Theorem Basics matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Binomial Theorem Basics: Binomial Theorem Basics is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Binomial Theorem Basics works and why it appears in real classroom and community situations. A strong understanding of Binomial Theorem Basics requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Binomial Theorem Basics.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Binomial Theorem Basics.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Binomial Theorem Basics and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Binomial Theorem Basics and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Binomial Theorem Basics and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Binomial Theorem Basics and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Binomial Theorem Basics."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Binomial Theorem Basics.",
+        "items": [
+          "Identify how topic is defined in Binomial Theorem Basics.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Binomial Theorem Basics matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Binomial Theorem Basics.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Binomial Theorem Basics matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Binomial Theorem Basics?",
+          "choices": [
+            "It gives a clear explanation of Binomial Theorem Basics and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Binomial Theorem Basics and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Binomial Theorem Basics with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Binomial Theorem Basics?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Binomial Theorem Basics?",
+          "choices": [
+            "An example directly tied to Binomial Theorem Basics and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Binomial Theorem Basics and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Binomial Theorem Basics?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Binomial Theorem Basics.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "binomial",
+          "theorem",
+          "basics"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "normal-distribution-concepts",
+      "title": "Normal Distribution Concepts",
+      "description": "Learn Normal Distribution Concepts with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Normal Distribution Concepts",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Normal Distribution Concepts for Grade 10 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Normal Distribution Concepts is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Normal Distribution Concepts works and why it appears in real classroom and community situations.\n\nA strong understanding of Normal Distribution Concepts requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nNormal Distribution Concepts matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Normal Distribution Concepts: Normal Distribution Concepts is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Normal Distribution Concepts works and why it appears in real classroom and community situations. A strong understanding of Normal Distribution Concepts requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Normal Distribution Concepts.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Normal Distribution Concepts.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Normal Distribution Concepts and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Normal Distribution Concepts and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Normal Distribution Concepts and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Normal Distribution Concepts and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Normal Distribution Concepts."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Normal Distribution Concepts concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Normal Distribution Concepts definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Normal Distribution Concepts",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Normal Distribution Concepts?",
+          "choices": [
+            "It gives a clear explanation of Normal Distribution Concepts and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Normal Distribution Concepts and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Normal Distribution Concepts with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Normal Distribution Concepts?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Normal Distribution Concepts?",
+          "choices": [
+            "An example directly tied to Normal Distribution Concepts and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Normal Distribution Concepts and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Normal Distribution Concepts?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Normal Distribution Concepts?",
+          "choices": [
+            "Answers in Normal Distribution Concepts should include evidence and explanation..",
+            "The statement about Normal Distribution Concepts is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Normal Distribution Concepts should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "normal",
+          "distribution",
+          "concepts"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "mathematical-modeling",
+      "title": "Mathematical Modeling",
+      "description": "Learn Mathematical Modeling with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Mathematical Modeling",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Mathematical Modeling for Grade 10 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Mathematical Modeling is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Mathematical Modeling works and why it appears in real classroom and community situations.\n\nA strong understanding of Mathematical Modeling requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nMathematical Modeling matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+            "transcript": "Narration for Mathematical Modeling: Mathematical Modeling is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Mathematical Modeling works and why it appears in real classroom and community situations. A strong understanding of Mathematical Modeling requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Mathematical Modeling.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Mathematical Modeling.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Mathematical Modeling and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Mathematical Modeling and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Mathematical Modeling and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Mathematical Modeling and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Mathematical Modeling."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Mathematical Modeling.",
+        "items": [
+          "Identify how topic is defined in Mathematical Modeling.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Mathematical Modeling matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Mathematical Modeling.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Mathematical Modeling matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Mathematical Modeling?",
+          "choices": [
+            "It gives a clear explanation of Mathematical Modeling and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Mathematical Modeling and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Mathematical Modeling with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Mathematical Modeling?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Mathematical Modeling?",
+          "choices": [
+            "An example directly tied to Mathematical Modeling and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Mathematical Modeling and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Mathematical Modeling?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Mathematical Modeling.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 math.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=vOU_HTGXt8Q",
+        "title": "What is Mathematical Modeling?",
+        "keywords": [
+          "mathematical",
+          "modeling"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

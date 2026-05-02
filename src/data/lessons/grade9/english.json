@@ -1,0 +1,978 @@
+{
+  "grade": 9,
+  "subject": "English",
+  "subjectId": "english",
+  "lessons": [
+    {
+      "id": "reading-comprehension",
+      "title": "Reading Comprehension",
+      "description": "Learn Reading Comprehension with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Reading Comprehension",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Reading Comprehension for Grade 9 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Reading comprehension is the ability to understand, interpret, and respond to a text. It includes knowing what the text says directly and also understanding deeper meanings, such as the author's purpose, tone, and implied ideas.\n\nStrong comprehension uses strategies before, during, and after reading. Previewing the title helps you predict the topic, asking questions keeps you focused, and summarizing checks whether you understood the main points. Evidence from the text should support your answers.\n\nReading comprehension matters because almost every subject requires careful reading. When you comprehend well, you can learn new information, evaluate arguments, follow instructions, and explain your ideas clearly.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Reading Comprehension: Reading comprehension is the ability to understand, interpret, and respond to a text. It includes knowing what the text says directly and also understanding deeper meanings, such as the author's purpose, tone, and implied ideas. Strong comprehension uses strategies before, during, and after reading."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Reading Comprehension.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Reading Comprehension.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Reading Comprehension covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each reading comprehension strategy with its use.",
+        "items": [
+          {
+            "term": "Previewing",
+            "answer": "Looking at the title or features before reading to predict the topic."
+          },
+          {
+            "term": "Asking questions",
+            "answer": "Staying focused while reading."
+          },
+          {
+            "term": "Summarizing",
+            "answer": "Checking understanding after reading."
+          },
+          {
+            "term": "Text evidence",
+            "answer": "Details from the text that support answers."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is reading comprehension?",
+          "choices": [
+            "Understanding, interpreting, and responding to a text",
+            "Reading words without meaning",
+            "Only counting paragraphs",
+            "Only naming punctuation marks"
+          ],
+          "answer": "Understanding, interpreting, and responding to a text",
+          "explanation": "Comprehension includes direct and deeper understanding."
+        },
+        {
+          "question": "What can previewing the title help you do?",
+          "choices": [
+            "Predict the topic",
+            "Skip the text",
+            "Change the author purpose",
+            "Remove evidence"
+          ],
+          "answer": "Predict the topic",
+          "explanation": "Previewing gives clues before reading."
+        },
+        {
+          "question": "Why ask questions during reading?",
+          "choices": [
+            "To stay focused",
+            "To avoid the text",
+            "To erase details",
+            "To memorize without meaning"
+          ],
+          "answer": "To stay focused",
+          "explanation": "Questions guide attention and thinking."
+        },
+        {
+          "question": "What does summarizing check?",
+          "choices": [
+            "Whether you understood the main points",
+            "Only the number of words",
+            "Only the font style",
+            "Whether the title is long"
+          ],
+          "answer": "Whether you understood the main points",
+          "explanation": "A summary shows the important ideas."
+        },
+        {
+          "question": "Why use text evidence?",
+          "choices": [
+            "To support answers from the text",
+            "To guess randomly",
+            "To ignore details",
+            "To replace reading"
+          ],
+          "answer": "To support answers from the text",
+          "explanation": "Evidence proves where an answer comes from."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 English.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=W7BW9gv_OkU",
+        "title": "Reading comprehension skills | Reading comprehension strategies | Free English lessons online",
+        "keywords": [
+          "reading",
+          "comprehension"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "argumentative-writing",
+      "title": "Argumentative Writing",
+      "description": "Learn Argumentative Writing with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Argumentative Writing",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Argumentative Writing for Grade 9 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Argumentative writing presents a clear claim and supports it with reasons and evidence. The claim is the writer's position on an issue. Evidence may include facts, examples, expert opinions, or data that help prove the claim is reasonable.\n\nA strong argument also explains how the evidence supports the claim. It may include a counterargument, which is an opposing view, and a rebuttal, which answers that opposing view. For example, if the claim is that students need more reading time, evidence could show how reading improves vocabulary and comprehension.\n\nArgumentative writing matters because it teaches students to defend ideas logically instead of only stating opinions. It is useful in essays, debates, proposals, reviews, and real-life decision making.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Argumentative Writing: Argumentative writing presents a clear claim and supports it with reasons and evidence. The claim is the writer's position on an issue. Evidence may include facts, examples, expert opinions, or data that help prove the claim is reasonable."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Argumentative Writing.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Argumentative Writing.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Argumentative Writing covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Argumentative Writing.",
+        "items": [
+          "Identify how presents is defined in Argumentative Writing.",
+          "Describe the key clear step taught in the discussion.",
+          "Apply claim in a concrete situation from the lesson.",
+          "Explain the supports based reason why Argumentative Writing matters."
+        ],
+        "correctOrder": [
+          "Identify how presents is defined in Argumentative Writing.",
+          "Describe the key clear step taught in the discussion.",
+          "Apply claim in a concrete situation from the lesson.",
+          "Explain the supports based reason why Argumentative Writing matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a claim in argumentative writing?",
+          "choices": [
+            "The writer position on an issue",
+            "A random detail with no purpose",
+            "The title only",
+            "A sentence without a point"
+          ],
+          "answer": "The writer position on an issue",
+          "explanation": "The claim states what the writer argues."
+        },
+        {
+          "question": "Which can be used as evidence?",
+          "choices": [
+            "Facts, examples, expert opinions, or data",
+            "Only guesses",
+            "Only decorations",
+            "Only unrelated stories"
+          ],
+          "answer": "Facts, examples, expert opinions, or data",
+          "explanation": "Evidence supports the claim."
+        },
+        {
+          "question": "What is a counterargument?",
+          "choices": [
+            "An opposing view",
+            "The final punctuation mark",
+            "A repeated title",
+            "An unrelated example"
+          ],
+          "answer": "An opposing view",
+          "explanation": "A counterargument presents another side."
+        },
+        {
+          "question": "What does a rebuttal do?",
+          "choices": [
+            "Answers the opposing view",
+            "Deletes the claim",
+            "Avoids evidence",
+            "Changes the topic"
+          ],
+          "answer": "Answers the opposing view",
+          "explanation": "A rebuttal explains why the counterargument does not defeat the claim."
+        },
+        {
+          "question": "True or False: presents is a key lesson concept in Argumentative Writing.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies presents as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 English.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=b7-mh2vhqm8",
+        "title": "What is an Argumentative Writing? | Argumentative structure and tips",
+        "keywords": [
+          "argumentative",
+          "writing"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "analyzing-arguments",
+      "title": "Analyzing Arguments",
+      "description": "Learn Analyzing Arguments with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Analyzing Arguments",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Analyzing Arguments for Grade 9 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Analyzing Arguments is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Analyzing Arguments works and why it appears in real classroom and community situations.\n\nA strong understanding of Analyzing Arguments requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nAnalyzing Arguments matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Analyzing Arguments: Analyzing Arguments is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Analyzing Arguments works and why it appears in real classroom and community situations. A strong understanding of Analyzing Arguments requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Analyzing Arguments.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Analyzing Arguments.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Analyzing Arguments and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Analyzing Arguments and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Analyzing Arguments and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Analyzing Arguments and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Analyzing Arguments."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Analyzing Arguments concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Analyzing Arguments definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Analyzing Arguments",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Analyzing Arguments?",
+          "choices": [
+            "It gives a clear explanation of Analyzing Arguments and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Analyzing Arguments and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Analyzing Arguments with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Analyzing Arguments?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Analyzing Arguments?",
+          "choices": [
+            "An example directly tied to Analyzing Arguments and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Analyzing Arguments and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Analyzing Arguments?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Analyzing Arguments?",
+          "choices": [
+            "Answers in Analyzing Arguments should include evidence and explanation..",
+            "The statement about Analyzing Arguments is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Analyzing Arguments should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 english.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Y_OJIwQZJh8",
+        "title": "Identifying and analyzing arguments",
+        "keywords": [
+          "analyzing",
+          "arguments"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "evaluating-claims",
+      "title": "Evaluating Claims",
+      "description": "Learn Evaluating Claims with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Evaluating Claims",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Evaluating Claims for Grade 9 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Evaluating Claims is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Evaluating Claims works and why it appears in real classroom and community situations.\n\nA strong understanding of Evaluating Claims requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nEvaluating Claims matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Evaluating Claims: Evaluating Claims is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Evaluating Claims works and why it appears in real classroom and community situations. A strong understanding of Evaluating Claims requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Evaluating Claims.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Evaluating Claims.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Evaluating Claims and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Evaluating Claims and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Evaluating Claims and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Evaluating Claims and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Evaluating Claims."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Evaluating Claims.",
+        "items": [
+          "Identify how topic is defined in Evaluating Claims.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Evaluating Claims matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Evaluating Claims.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Evaluating Claims matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Evaluating Claims?",
+          "choices": [
+            "It gives a clear explanation of Evaluating Claims and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Evaluating Claims and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Evaluating Claims with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Evaluating Claims?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Evaluating Claims?",
+          "choices": [
+            "An example directly tied to Evaluating Claims and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Evaluating Claims and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Evaluating Claims?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Evaluating Claims.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "evaluating",
+          "claims"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "formal-debate-writing",
+      "title": "Formal Debate Writing",
+      "description": "Learn Formal Debate Writing with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Formal Debate Writing",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Formal Debate Writing for Grade 9 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Formal Debate Writing is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Formal Debate Writing works and why it appears in real classroom and community situations.\n\nA strong understanding of Formal Debate Writing requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nFormal Debate Writing matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Formal Debate Writing: Formal Debate Writing is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Formal Debate Writing works and why it appears in real classroom and community situations. A strong understanding of Formal Debate Writing requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Formal Debate Writing.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Formal Debate Writing.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Formal Debate Writing and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Formal Debate Writing and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Formal Debate Writing and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Formal Debate Writing and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Formal Debate Writing."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Formal Debate Writing concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Formal Debate Writing definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Formal Debate Writing",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Formal Debate Writing?",
+          "choices": [
+            "It gives a clear explanation of Formal Debate Writing and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Formal Debate Writing and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Formal Debate Writing with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Formal Debate Writing?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Formal Debate Writing?",
+          "choices": [
+            "An example directly tied to Formal Debate Writing and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Formal Debate Writing and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Formal Debate Writing?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Formal Debate Writing?",
+          "choices": [
+            "Answers in Formal Debate Writing should include evidence and explanation..",
+            "The statement about Formal Debate Writing is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Formal Debate Writing should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "formal",
+          "debate",
+          "writing"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "research-notes-and-citation",
+      "title": "Research Notes and Citation",
+      "description": "Learn Research Notes and Citation with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Research Notes and Citation",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Research Notes and Citation for Grade 9 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Research Notes and Citation is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Research Notes and Citation works and why it appears in real classroom and community situations.\n\nA strong understanding of Research Notes and Citation requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nResearch Notes and Citation matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Research Notes and Citation: Research Notes and Citation is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Research Notes and Citation works and why it appears in real classroom and community situations. A strong understanding of Research Notes and Citation requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Research Notes and Citation.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Research Notes and Citation.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Research Notes and Citation and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Research Notes and Citation and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Research Notes and Citation and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Research Notes and Citation and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Research Notes and Citation."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Research Notes and Citation.",
+        "items": [
+          "Identify how topic is defined in Research Notes and Citation.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Research Notes and Citation matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Research Notes and Citation.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Research Notes and Citation matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Research Notes and Citation?",
+          "choices": [
+            "It gives a clear explanation of Research Notes and Citation and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Research Notes and Citation and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Research Notes and Citation with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Research Notes and Citation?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Research Notes and Citation?",
+          "choices": [
+            "An example directly tied to Research Notes and Citation and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Research Notes and Citation and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Research Notes and Citation?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Research Notes and Citation.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "research",
+          "notes",
+          "citation"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

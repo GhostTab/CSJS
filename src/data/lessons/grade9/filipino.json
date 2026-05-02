@@ -1,0 +1,984 @@
+{
+  "grade": 9,
+  "subject": "Filipino",
+  "subjectId": "filipino",
+  "lessons": [
+    {
+      "id": "noli-me-tangere-paksa",
+      "title": "Noli Me Tangere: Paksa",
+      "description": "Suriin ang mga paksa at suliraning panlipunan sa Noli Me Tangere gamit ang halimbawa, gawain, at pagsusulit.",
+      "estimatedTime": "25 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang pangunahing paksa ng Noli Me Tangere.",
+        "Matukoy ang mga suliraning panlipunan na ipinakita sa nobela.",
+        "Maiugnay ang paksa ng nobela sa tunay na kalagayan ng lipunan.",
+        "Masagot ang mga tanong tungkol sa aral at mensahe ng akda."
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Ang Noli Me Tangere ay tumatalakay sa mga suliraning panlipunan noong panahon ng kolonyalismong Espanyol."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang Noli Me Tangere ay nobela ni Jose Rizal na tumatalakay sa kalagayan ng lipunan noong panahon ng pananakop ng Espanya. Ang paksa nito ay nakatuon sa pang-aabuso, kawalan ng katarungan, maling paggamit ng kapangyarihan, at pagnanais ng pagbabago.\n\nHalimbawa, sa nobela makikita ang hidwaan sa pagitan ng mga makapangyarihan at ng karaniwang mamamayan. Ang karanasan nina Crisostomo Ibarra, Maria Clara, Sisa, Basilio, at Crispin ay nagpapakita ng iba't ibang anyo ng pagdurusa at pag-asa sa lipunan.\n\nMahalaga ang pag-unawa sa paksa ng Noli Me Tangere dahil ipinapakita nito kung paano ginagamit ang panitikan upang magmulat ng kamalayan. Natutulungan ang mag-aaral na makita ang ugnayan ng akda, kasaysayan, at mga isyung panlipunan.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Noli Me Tangere: Paksa: Ang Noli Me Tangere ay nobela ni Jose Rizal na tumatalakay sa kalagayan ng lipunan noong panahon ng pananakop ng Espanya. Ang paksa nito ay nakatuon sa pang-aabuso, kawalan ng katarungan, maling paggamit ng kapangyarihan, at pagnanais ng pagbabago. Halimbawa, sa nobela makikita ang hidwaan sa pagitan ng mga makapangyarihan at ng karaniwang mamamayan."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Sinusundan ng visual cards ang ugnayan ng paksa at suliraning panlipunan.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Kapangyarihan",
+            "Edukasyon",
+            "Pagkakapantay",
+            "Kamalayan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Paksa: Pang-aabuso ng mga makapangyarihan. Paliwanag: Ipinakita sa nobela kung paano inaabuso ng ilang nasa kapangyarihan ang mahihirap.",
+            "Paksa: Kahalagahan ng edukasyon. Paliwanag: Ipinakita ni Crisostomo Ibarra ang hangarin na makapagpatayo ng paaralan para sa kabataan.",
+            "Paksa: Pagmamahal sa bayan. Paliwanag: Ipinapakita ng nobela ang paggising ng kamalayan ng mga Pilipino tungkol sa kalagayan ng bansa."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya o pinag-uusapan sa isang akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan na may tauhan, tagpuan, banghay, at suliranin."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop o pagkontrol ng isang bansa sa ibang bansa."
+            },
+            {
+              "word": "Kamalayang panlipunan",
+              "meaning": "Pag-unawa sa mga isyu at kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Ipinapakita ng Noli Me Tangere ang mga suliraning panlipunan at ang papel ng edukasyon at kamalayang pambansa sa pagbabago ng lipunan."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang paksa ng Noli Me Tangere sa paliwanag.",
+        "items": [
+          {
+            "term": "Pang-aabuso",
+            "answer": "Maling paggamit ng kapangyarihan sa lipunan."
+          },
+          {
+            "term": "Kawalan ng katarungan",
+            "answer": "Hindi patas na pagtrato sa mamamayan."
+          },
+          {
+            "term": "Crisostomo Ibarra",
+            "answer": "Tauhang kaugnay ng pag-asa sa edukasyon at pagbabago."
+          },
+          {
+            "term": "Kamalayang panlipunan",
+            "answer": "Pagmulat sa suliranin ng lipunan gamit ang panitikan."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang pangunahing tinatalakay ng Noli Me Tangere?",
+          "choices": [
+            "Kalagayan ng lipunan noong panahon ng pananakop ng Espanya",
+            "Paraan ng pagluluto",
+            "Uri ng pangungusap lamang",
+            "Tuntunin sa palakasan"
+          ],
+          "answer": "Kalagayan ng lipunan noong panahon ng pananakop ng Espanya",
+          "explanation": "Nakatuon ang nobela sa mga suliraning panlipunan sa panahon ng Espanya."
+        },
+        {
+          "question": "Aling suliranin ang binigyang-diin sa paksa ng nobela?",
+          "choices": [
+            "Pang-aabuso at kawalan ng katarungan",
+            "Pagpili ng damit",
+            "Pag-aayos ng numero",
+            "Paglalaro ng musika"
+          ],
+          "answer": "Pang-aabuso at kawalan ng katarungan",
+          "explanation": "Ipinapakita ng nobela ang maling paggamit ng kapangyarihan."
+        },
+        {
+          "question": "Sino ang tauhang kaugnay ng pag-asa sa edukasyon at pagbabago?",
+          "choices": [
+            "Crisostomo Ibarra",
+            "Adolfo",
+            "Aladin",
+            "Simoun lamang"
+          ],
+          "answer": "Crisostomo Ibarra",
+          "explanation": "Si Ibarra ay may adhikain para sa edukasyon at pagbabago."
+        },
+        {
+          "question": "Bakit mahalagang pag-aralan ang paksa ng Noli Me Tangere?",
+          "choices": [
+            "Upang makita ang ugnayan ng akda, kasaysayan, at isyung panlipunan",
+            "Upang alisin ang kasaysayan",
+            "Upang hindi na magbasa",
+            "Upang palitan ang lahat ng tauhan"
+          ],
+          "answer": "Upang makita ang ugnayan ng akda, kasaysayan, at isyung panlipunan",
+          "explanation": "Ginagamit ang panitikan upang magmulat ng kamalayan."
+        },
+        {
+          "question": "Ano ang nagagawa ng panitikan ayon sa aralin?",
+          "choices": [
+            "Nagmumulat ng kamalayan sa lipunan",
+            "Nag-aalis ng mensahe",
+            "Nagpapalit ng numero",
+            "Nagbabawal ng pag-unawa"
+          ],
+          "answer": "Nagmumulat ng kamalayan sa lipunan",
+          "explanation": "Ang nobela ay nagpapakita ng mga suliranin upang pag-isipan ng mambabasa."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "noli",
+          "tangere",
+          "paksa"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "talumpati",
+      "title": "Talumpati",
+      "description": "Learn Talumpati with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa Talumpati",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Talumpati para sa Grade 9."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang talumpati ay pormal na pagpapahayag ng ideya, paninindigan, o damdamin sa harap ng tagapakinig. Layunin nitong magpaliwanag, manghikayat, magbigay-impormasyon, o magbigay-inspirasyon. Kailangan itong may malinaw na paksa, maayos na daloy, at angkop na wika.\n\nMay tatlong mahalagang bahagi ang talumpati: panimula, katawan, at wakas. Sa panimula kinukuha ang atensyon ng tagapakinig, sa katawan inilalahad ang mga punto at halimbawa, at sa wakas binibigyang-diin ang pangunahing mensahe o panawagan.\n\nMahalaga ang talumpati dahil ginagamit ito sa paaralan, pamayanan, seremonya, at usaping panlipunan. Sa pamamagitan nito, natututo ang mag-aaral na magsalita nang may paninindigan, ebidensya, at paggalang sa tagapakinig.",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg",
+              "alt": "Talumpati visual aid",
+              "caption": "Visual aid for Talumpati.",
+              "source": "curated-catalog"
+            }
+          ],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Talumpati: Ang talumpati ay pormal na pagpapahayag ng ideya, paninindigan, o damdamin sa harap ng tagapakinig. Layunin nitong magpaliwanag, manghikayat, magbigay-impormasyon, o magbigay-inspirasyon. Kailangan itong may malinaw na paksa, maayos na daloy, at angkop na wika."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Talumpati.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa Talumpati.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Talumpati covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Talumpati.",
+        "items": [
+          "Identify how pormal is defined in Talumpati.",
+          "Describe the key pagpapahayag step taught in the discussion.",
+          "Apply ideya in a concrete situation from the lesson.",
+          "Explain the paninindigan based reason why Talumpati matters."
+        ],
+        "correctOrder": [
+          "Identify how pormal is defined in Talumpati.",
+          "Describe the key pagpapahayag step taught in the discussion.",
+          "Apply ideya in a concrete situation from the lesson.",
+          "Explain the paninindigan based reason why Talumpati matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang talumpati?",
+          "choices": [
+            "Pormal na pagpapahayag ng ideya, paninindigan, o damdamin sa harap ng tagapakinig",
+            "Maikling listahan ng numero",
+            "Tahimik na pagbabasa lamang",
+            "Uri ng equation"
+          ],
+          "answer": "Pormal na pagpapahayag ng ideya, paninindigan, o damdamin sa harap ng tagapakinig",
+          "explanation": "Ang talumpati ay sinasabi sa tagapakinig upang magpahayag ng mensahe."
+        },
+        {
+          "question": "Alin ang layunin ng talumpati?",
+          "choices": [
+            "Manghikayat o magbigay-impormasyon",
+            "Magkubli ng paksa",
+            "Tanggalin ang paninindigan",
+            "Iwasan ang tagapakinig"
+          ],
+          "answer": "Manghikayat o magbigay-impormasyon",
+          "explanation": "Maaaring manghikayat, magpaliwanag, o magbigay-inspirasyon ang talumpati."
+        },
+        {
+          "question": "Ano ang tungkulin ng panimula sa talumpati?",
+          "choices": [
+            "Kunin ang atensyon ng tagapakinig",
+            "Burahin ang mensahe",
+            "Tapusin agad ang talumpati",
+            "Magbigay ng walang kaugnayang datos"
+          ],
+          "answer": "Kunin ang atensyon ng tagapakinig",
+          "explanation": "Panimula ang nagbubukas at humihikayat makinig."
+        },
+        {
+          "question": "Ano ang tungkulin ng katawan ng talumpati?",
+          "choices": [
+            "Ilahad ang mga punto at halimbawa",
+            "Ilagay lamang ang pamagat",
+            "Itago ang panawagan",
+            "Ulitin lang ang pangalan"
+          ],
+          "answer": "Ilahad ang mga punto at halimbawa",
+          "explanation": "Sa katawan pinauunlad ang mensahe."
+        },
+        {
+          "question": "True or False: pormal is a key lesson concept in Talumpati.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies pormal as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "talumpati"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "elemento-ng-talumpati",
+      "title": "Elemento ng Talumpati",
+      "description": "Learn Elemento ng Talumpati with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Elemento ng Talumpati",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Elemento ng Talumpati para sa Grade 9."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Elemento ng Talumpati ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Elemento ng Talumpati sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Elemento ng Talumpati, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Elemento ng Talumpati dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Elemento ng Talumpati: Elemento ng Talumpati ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Elemento ng Talumpati sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Elemento ng Talumpati, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Elemento ng Talumpati.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Elemento ng Talumpati.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Talumpati at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Talumpati at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Talumpati at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Talumpati at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Elemento ng Talumpati."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Elemento ng Talumpati sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Elemento ng Talumpati",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Elemento ng Talumpati?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Elemento ng Talumpati at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Elemento ng Talumpati at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Elemento ng Talumpati at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Elemento ng Talumpati?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Elemento ng Talumpati?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Elemento ng Talumpati at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Elemento ng Talumpati at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Elemento ng Talumpati?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Elemento ng Talumpati ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "elemento",
+          "talumpati"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagsusuri-ng-nobela",
+      "title": "Pagsusuri ng Nobela",
+      "description": "Learn Pagsusuri ng Nobela with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagsusuri ng Nobela",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagsusuri ng Nobela para sa Grade 9."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagsusuri ng Nobela ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsusuri ng Nobela sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagsusuri ng Nobela, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagsusuri ng Nobela dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Pagsusuri ng Nobela: Pagsusuri ng Nobela ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsusuri ng Nobela sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagsusuri ng Nobela, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagsusuri ng Nobela.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagsusuri ng Nobela.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Nobela at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Nobela at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Nobela at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Nobela at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagsusuri ng Nobela."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Pagsusuri ng Nobela.",
+        "items": [
+          "Identify how mahalagang is defined in Pagsusuri ng Nobela.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Pagsusuri ng Nobela matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Pagsusuri ng Nobela.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Pagsusuri ng Nobela matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagsusuri ng Nobela?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagsusuri ng Nobela at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagsusuri ng Nobela at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagsusuri ng Nobela at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagsusuri ng Nobela?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagsusuri ng Nobela?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagsusuri ng Nobela at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagsusuri ng Nobela at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagsusuri ng Nobela?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Pagsusuri ng Nobela.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=kyReT8zPFAE",
+        "title": "PAGSUSURI NG NOBELA",
+        "keywords": [
+          "pagsusuri",
+          "nobela"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagsulat-ng-replektibong-sanaysay",
+      "title": "Pagsulat ng Replektibong Sanaysay",
+      "description": "Learn Pagsulat ng Replektibong Sanaysay with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagsulat ng Replektibong Sanaysay",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagsulat ng Replektibong Sanaysay para sa Grade 9."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagsulat ng Replektibong Sanaysay ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsulat ng Replektibong Sanaysay sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagsulat ng Replektibong Sanaysay, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagsulat ng Replektibong Sanaysay dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Pagsulat ng Replektibong Sanaysay: Pagsulat ng Replektibong Sanaysay ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsulat ng Replektibong Sanaysay sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagsulat ng Replektibong Sanaysay, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagsulat ng Replektibong Sanaysay.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagsulat ng Replektibong Sanaysay.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Replektibong Sanaysay at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Replektibong Sanaysay at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Replektibong Sanaysay at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Replektibong Sanaysay at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagsulat ng Replektibong Sanaysay."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Pagsulat ng Replektibong Sanaysay sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Pagsulat ng Replektibong Sanaysay",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagsulat ng Replektibong Sanaysay?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagsulat ng Replektibong Sanaysay at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagsulat ng Replektibong Sanaysay at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagsulat ng Replektibong Sanaysay at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagsulat ng Replektibong Sanaysay?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagsulat ng Replektibong Sanaysay?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagsulat ng Replektibong Sanaysay at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagsulat ng Replektibong Sanaysay at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagsulat ng Replektibong Sanaysay?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Pagsulat ng Replektibong Sanaysay ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1ZOhnXleZRw",
+        "title": "Pagsulat ng Replektibong Sanaysay",
+        "keywords": [
+          "pagsulat",
+          "replektibong",
+          "sanaysay"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "wikang-mapanghikayat",
+      "title": "Wikang Mapanghikayat",
+      "description": "Learn Wikang Mapanghikayat with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Wikang Mapanghikayat",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Wikang Mapanghikayat para sa Grade 9."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Wikang Mapanghikayat ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Wikang Mapanghikayat sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Wikang Mapanghikayat, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Wikang Mapanghikayat dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Wikang Mapanghikayat: Wikang Mapanghikayat ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Wikang Mapanghikayat sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Wikang Mapanghikayat, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Wikang Mapanghikayat.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Wikang Mapanghikayat.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Mapanghikayat at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Mapanghikayat at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Mapanghikayat at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Mapanghikayat at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Wikang Mapanghikayat."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Wikang Mapanghikayat.",
+        "items": [
+          "Identify how mahalagang is defined in Wikang Mapanghikayat.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Wikang Mapanghikayat matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Wikang Mapanghikayat.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Wikang Mapanghikayat matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Wikang Mapanghikayat?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Wikang Mapanghikayat at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Wikang Mapanghikayat at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Wikang Mapanghikayat at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Wikang Mapanghikayat?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Wikang Mapanghikayat?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Wikang Mapanghikayat at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Wikang Mapanghikayat at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Wikang Mapanghikayat?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Wikang Mapanghikayat.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "wikang",
+          "mapanghikayat"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

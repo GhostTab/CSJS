@@ -1,0 +1,971 @@
+{
+  "grade": 9,
+  "subject": "Science",
+  "subjectId": "science",
+  "lessons": [
+    {
+      "id": "ecosystems",
+      "title": "Ecosystems",
+      "description": "Learn Ecosystems with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Ecosystems",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Ecosystems for Grade 9 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ecosystems are communities of living organisms interacting with one another and with nonliving parts of the environment. Plants, animals, microorganisms, water, sunlight, soil, and air all play roles in an ecosystem. A pond, forest, coral reef, or school garden can each be studied as an ecosystem.\n\nEnergy flows through ecosystems through food chains and food webs. Producers such as plants make food using sunlight, consumers eat plants or other animals, and decomposers break down dead matter and return nutrients to the soil. If one part changes, other parts can be affected.\n\nEcosystems matter because living things depend on balanced relationships for survival. Understanding ecosystems helps people protect biodiversity, manage resources, and explain problems such as pollution, habitat loss, and population changes.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Ecosystems: Ecosystems are communities of living organisms interacting with one another and with nonliving parts of the environment. Plants, animals, microorganisms, water, sunlight, soil, and air all play roles in an ecosystem. A pond, forest, coral reef, or school garden can each be studied as an ecosystem."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Ecosystems.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Ecosystems.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Ecosystems covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each ecosystem role with the correct explanation.",
+        "items": [
+          {
+            "term": "Ecosystem",
+            "answer": "Living organisms interacting with nonliving parts of the environment."
+          },
+          {
+            "term": "Producer",
+            "answer": "An organism such as a plant that makes food using sunlight."
+          },
+          {
+            "term": "Consumer",
+            "answer": "An organism that eats plants or other animals."
+          },
+          {
+            "term": "Decomposer",
+            "answer": "An organism that breaks down dead matter and returns nutrients."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is an ecosystem?",
+          "choices": [
+            "A community of organisms interacting with nonliving parts",
+            "A single word in a sentence",
+            "Only a list of numbers",
+            "Only a weather instrument"
+          ],
+          "answer": "A community of organisms interacting with nonliving parts",
+          "explanation": "Ecosystems include living and nonliving interactions."
+        },
+        {
+          "question": "What do producers do?",
+          "choices": [
+            "Make food using sunlight",
+            "Only eat other animals",
+            "Break down dead matter only",
+            "Measure earthquakes"
+          ],
+          "answer": "Make food using sunlight",
+          "explanation": "Plants are producers because they make food through photosynthesis."
+        },
+        {
+          "question": "What is a consumer?",
+          "choices": [
+            "An organism that eats plants or other animals",
+            "A rock in soil",
+            "A ray of sunlight",
+            "A water droplet only"
+          ],
+          "answer": "An organism that eats plants or other animals",
+          "explanation": "Consumers get energy by eating other organisms."
+        },
+        {
+          "question": "Why are decomposers important?",
+          "choices": [
+            "They return nutrients to the soil",
+            "They stop all food webs",
+            "They make sunlight",
+            "They remove energy flow"
+          ],
+          "answer": "They return nutrients to the soil",
+          "explanation": "Decomposers recycle matter in ecosystems."
+        },
+        {
+          "question": "What can happen if one ecosystem part changes?",
+          "choices": [
+            "Other parts can be affected",
+            "Nothing can ever change",
+            "Only the title changes",
+            "All organisms become producers"
+          ],
+          "answer": "Other parts can be affected",
+          "explanation": "Ecosystem parts are connected."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "ecosystems"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "chemical-bonding",
+      "title": "Chemical Bonding",
+      "description": "Learn Chemical Bonding with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Chemical Bonding",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Chemical Bonding for Grade 9 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Chemical bonding is the way atoms join together to form substances. Atoms bond because they become more stable when they gain, lose, or share electrons. The properties of a substance depend on how its atoms are bonded.\n\nIonic bonds form when electrons are transferred, usually between a metal and a nonmetal. For example, sodium and chlorine form sodium chloride, or table salt. Covalent bonds form when atoms share electrons, such as the bonds between hydrogen and oxygen in water.\n\nChemical bonding matters because it explains why substances behave differently. Bonding helps us understand salt, water, plastics, medicines, metals, and many materials used in daily life and technology.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Chemical Bonding: Chemical bonding is the way atoms join together to form substances. Atoms bond because they become more stable when they gain, lose, or share electrons. The properties of a substance depend on how its atoms are bonded."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Chemical Bonding.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Chemical Bonding.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Chemical Bonding covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Chemical Bonding.",
+        "items": [
+          "Identify how atoms is defined in Chemical Bonding.",
+          "Describe the key together step taught in the discussion.",
+          "Apply substances in a concrete situation from the lesson.",
+          "Explain the become based reason why Chemical Bonding matters."
+        ],
+        "correctOrder": [
+          "Identify how atoms is defined in Chemical Bonding.",
+          "Describe the key together step taught in the discussion.",
+          "Apply substances in a concrete situation from the lesson.",
+          "Explain the become based reason why Chemical Bonding matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Why do atoms bond?",
+          "choices": [
+            "To become more stable by gaining, losing, or sharing electrons",
+            "To become unrelated",
+            "To avoid forming substances",
+            "To remove all electrons always"
+          ],
+          "answer": "To become more stable by gaining, losing, or sharing electrons",
+          "explanation": "Bonding is connected to electron stability."
+        },
+        {
+          "question": "What happens in an ionic bond?",
+          "choices": [
+            "Electrons are transferred",
+            "Electrons are shared equally only",
+            "No electrons are involved",
+            "Atoms stop existing"
+          ],
+          "answer": "Electrons are transferred",
+          "explanation": "Ionic bonds form through electron transfer."
+        },
+        {
+          "question": "What kind of bond is in water according to the lesson?",
+          "choices": [
+            "Covalent bond",
+            "Ionic bond",
+            "No bond",
+            "Metallic only"
+          ],
+          "answer": "Covalent bond",
+          "explanation": "Hydrogen and oxygen share electrons in water."
+        },
+        {
+          "question": "Which substance was given as an ionic bonding example?",
+          "choices": [
+            "Sodium chloride",
+            "Pure sunlight",
+            "A paragraph",
+            "A sequence"
+          ],
+          "answer": "Sodium chloride",
+          "explanation": "Sodium and chlorine form table salt through ionic bonding."
+        },
+        {
+          "question": "True or False: atoms is a key lesson concept in Chemical Bonding.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies atoms as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5gEWOh630b8",
+        "title": "Chemical Bonding Explained | Ionic, Covalent and Metallic | GCSE Chemistry",
+        "keywords": [
+          "chemical",
+          "bonding"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "cell-division-and-heredity",
+      "title": "Cell Division and Heredity",
+      "description": "Learn Cell Division and Heredity with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Cell Division and Heredity",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Cell Division and Heredity for Grade 9 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Cell Division and Heredity is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Cell Division and Heredity works and why it appears in real classroom and community situations.\n\nA strong understanding of Cell Division and Heredity requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nCell Division and Heredity matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Cell Division and Heredity: Cell Division and Heredity is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Cell Division and Heredity works and why it appears in real classroom and community situations. A strong understanding of Cell Division and Heredity requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Cell Division and Heredity.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Cell Division and Heredity.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Cell Division and Heredity and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Cell Division and Heredity and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Cell Division and Heredity and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Cell Division and Heredity and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Cell Division and Heredity."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Cell Division and Heredity concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Cell Division and Heredity concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Cell Division and Heredity",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Cell Division and Heredity?",
+          "choices": [
+            "It gives a clear explanation of Cell Division and Heredity and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Cell Division and Heredity and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Cell Division and Heredity with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Cell Division and Heredity?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Cell Division and Heredity?",
+          "choices": [
+            "An example directly tied to Cell Division and Heredity and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Cell Division and Heredity and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Cell Division and Heredity?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Cell Division and Heredity?",
+          "choices": [
+            "Answers in Cell Division and Heredity should include evidence and explanation..",
+            "The statement about Cell Division and Heredity is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Cell Division and Heredity should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "cell",
+          "division",
+          "heredity"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "energy-in-ecosystems",
+      "title": "Energy in Ecosystems",
+      "description": "Learn Energy in Ecosystems with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Energy in Ecosystems",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Energy in Ecosystems for Grade 9 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Energy in Ecosystems is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Energy in Ecosystems works and why it appears in real classroom and community situations.\n\nA strong understanding of Energy in Ecosystems requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nEnergy in Ecosystems matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Energy in Ecosystems: Energy in Ecosystems is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Energy in Ecosystems works and why it appears in real classroom and community situations. A strong understanding of Energy in Ecosystems requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Energy in Ecosystems.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Energy in Ecosystems.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Energy in Ecosystems and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Energy in Ecosystems and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Energy in Ecosystems and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Energy in Ecosystems and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Energy in Ecosystems."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Energy in Ecosystems.",
+        "items": [
+          "Identify how topic is defined in Energy in Ecosystems.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Energy in Ecosystems matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Energy in Ecosystems.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Energy in Ecosystems matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Energy in Ecosystems?",
+          "choices": [
+            "It gives a clear explanation of Energy in Ecosystems and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Energy in Ecosystems and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Energy in Ecosystems with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Energy in Ecosystems?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Energy in Ecosystems?",
+          "choices": [
+            "An example directly tied to Energy in Ecosystems and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Energy in Ecosystems and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Energy in Ecosystems?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Energy in Ecosystems.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=BHn-SQu5450",
+        "title": "Energy in Ecosystems",
+        "keywords": [
+          "energy",
+          "ecosystems"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "acids-bases-and-salts",
+      "title": "Acids Bases and Salts",
+      "description": "Learn Acids Bases and Salts with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Acids Bases and Salts",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Acids Bases and Salts for Grade 9 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Acids Bases and Salts is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Acids Bases and Salts works and why it appears in real classroom and community situations.\n\nA strong understanding of Acids Bases and Salts requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nAcids Bases and Salts matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Acids Bases and Salts: Acids Bases and Salts is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Acids Bases and Salts works and why it appears in real classroom and community situations. A strong understanding of Acids Bases and Salts requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Acids Bases and Salts.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Acids Bases and Salts.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Acids Bases and Salts and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Acids Bases and Salts and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Acids Bases and Salts and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Acids Bases and Salts and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Acids Bases and Salts."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Acids Bases and Salts concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Acids Bases and Salts concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Acids Bases and Salts",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Acids Bases and Salts?",
+          "choices": [
+            "It gives a clear explanation of Acids Bases and Salts and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Acids Bases and Salts and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Acids Bases and Salts with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Acids Bases and Salts?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Acids Bases and Salts?",
+          "choices": [
+            "An example directly tied to Acids Bases and Salts and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Acids Bases and Salts and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Acids Bases and Salts?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Acids Bases and Salts?",
+          "choices": [
+            "Answers in Acids Bases and Salts should include evidence and explanation..",
+            "The statement about Acids Bases and Salts is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Acids Bases and Salts should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "acids",
+          "bases",
+          "salts"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "waves-and-sound",
+      "title": "Waves and Sound",
+      "description": "Learn Waves and Sound with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Waves and Sound",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Waves and Sound for Grade 9 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Waves and Sound is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Waves and Sound works and why it appears in real classroom and community situations.\n\nA strong understanding of Waves and Sound requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nWaves and Sound matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Waves and Sound: Waves and Sound is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Waves and Sound works and why it appears in real classroom and community situations. A strong understanding of Waves and Sound requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Waves and Sound.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Waves and Sound.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Waves and Sound and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Waves and Sound and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Waves and Sound and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Waves and Sound and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Waves and Sound."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Waves and Sound.",
+        "items": [
+          "Identify how topic is defined in Waves and Sound.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Waves and Sound matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Waves and Sound.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Waves and Sound matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Waves and Sound?",
+          "choices": [
+            "It gives a clear explanation of Waves and Sound and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Waves and Sound and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Waves and Sound with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Waves and Sound?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Waves and Sound?",
+          "choices": [
+            "An example directly tied to Waves and Sound and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Waves and Sound and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Waves and Sound?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Waves and Sound.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "waves",
+          "sound"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "grade": 8,
+  "subject": "Science",
+  "subjectId": "science",
+  "lessons": [
+    {
+      "id": "force-and-motion",
+      "title": "Force and Motion",
+      "description": "Learn Force and Motion with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Force and Motion",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Force and Motion for Grade 8 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Force is a push or pull that can change an object's motion. Motion is a change in position over time. When you kick a ball, your foot applies a force that can make the ball start moving, speed up, slow down, or change direction.\n\nBalanced forces do not change an object's motion because the forces cancel out. Unbalanced forces cause a change in motion because one force is stronger than the other. For example, a book resting on a table has balanced forces, but a cart being pushed forward has an unbalanced force.\n\nForce and motion matter because they explain how objects move in sports, transportation, machines, and everyday actions. Understanding these ideas helps you predict what will happen when forces act on an object.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Force and Motion: Force is a push or pull that can change an object's motion. Motion is a change in position over time. When you kick a ball, your foot applies a force that can make the ball start moving, speed up, slow down, or change direction."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Force and Motion.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Force and Motion.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Force and Motion covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each force and motion concept with the correct description.",
+        "items": [
+          {
+            "term": "Force",
+            "answer": "A push or pull that can change motion."
+          },
+          {
+            "term": "Motion",
+            "answer": "A change in position over time."
+          },
+          {
+            "term": "Balanced forces",
+            "answer": "Forces that cancel out and do not change motion."
+          },
+          {
+            "term": "Unbalanced forces",
+            "answer": "Forces that cause a change in motion."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is force?",
+          "choices": [
+            "A push or pull",
+            "A type of color",
+            "A fixed position only",
+            "A unit of time"
+          ],
+          "answer": "A push or pull",
+          "explanation": "A force can change an object motion."
+        },
+        {
+          "question": "What is motion?",
+          "choices": [
+            "A change in position over time",
+            "A substance changing color",
+            "A written conclusion",
+            "A sound only"
+          ],
+          "answer": "A change in position over time",
+          "explanation": "Motion describes position changing as time passes."
+        },
+        {
+          "question": "What happens when forces are balanced?",
+          "choices": [
+            "They cancel out and motion does not change",
+            "The object must speed up",
+            "The object must disappear",
+            "The object becomes a liquid"
+          ],
+          "answer": "They cancel out and motion does not change",
+          "explanation": "Balanced forces have no net force."
+        },
+        {
+          "question": "What kind of force changes motion?",
+          "choices": [
+            "Unbalanced force",
+            "Balanced force",
+            "No force",
+            "Equal opposite forces only"
+          ],
+          "answer": "Unbalanced force",
+          "explanation": "Unbalanced forces can start, stop, speed up, slow down, or turn an object."
+        },
+        {
+          "question": "Which example shows force changing motion?",
+          "choices": [
+            "Kicking a ball forward",
+            "A book resting with balanced forces",
+            "A quiet room",
+            "A still picture"
+          ],
+          "answer": "Kicking a ball forward",
+          "explanation": "The kick applies a force that changes the ball motion."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 Science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=xUCYFof8QyA",
+        "title": "FORCE AND MOTION",
+        "keywords": [
+          "force",
+          "motion"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "earth-and-space-systems",
+      "title": "Earth and Space Systems",
+      "description": "Learn Earth and Space Systems with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Earth and Space Systems",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Earth and Space Systems for Grade 8 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Earth and space systems are connected parts that interact with one another. Earth's atmosphere, geosphere, hydrosphere, and biosphere affect weather, landforms, water, and living things. Space systems include the Sun, Moon, planets, and other objects that influence Earth.\n\nOne important example is the relationship among the Sun, Earth, and Moon. Earth's rotation causes day and night, while Earth's revolution around the Sun helps create the year. The Moon's position affects its phases and can also influence tides.\n\nEarth and space systems matter because they help explain seasons, weather patterns, natural hazards, and changes in the environment. Understanding these systems helps people prepare, conserve resources, and make sense of what they observe in the sky and on Earth.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Earth and Space Systems: Earth and space systems are connected parts that interact with one another. Earth's atmosphere, geosphere, hydrosphere, and biosphere affect weather, landforms, water, and living things. Space systems include the Sun, Moon, planets, and other objects that influence Earth."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Earth and Space Systems.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Earth and Space Systems.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Earth and Space Systems covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Earth and Space Systems.",
+        "items": [
+          "Identify how connected is defined in Earth and Space Systems.",
+          "Describe the key parts step taught in the discussion.",
+          "Apply interact in a concrete situation from the lesson.",
+          "Explain the another based reason why Earth and Space Systems matters."
+        ],
+        "correctOrder": [
+          "Identify how connected is defined in Earth and Space Systems.",
+          "Describe the key parts step taught in the discussion.",
+          "Apply interact in a concrete situation from the lesson.",
+          "Explain the another based reason why Earth and Space Systems matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which set names Earth systems from the discussion?",
+          "choices": [
+            "Atmosphere, geosphere, hydrosphere, and biosphere",
+            "Nouns, verbs, adjectives, and adverbs",
+            "Mean, median, mode, and range",
+            "Claim, reason, evidence, and rebuttal"
+          ],
+          "answer": "Atmosphere, geosphere, hydrosphere, and biosphere",
+          "explanation": "These are interacting Earth systems."
+        },
+        {
+          "question": "What does Earth rotation cause?",
+          "choices": [
+            "Day and night",
+            "The year only",
+            "All tides only",
+            "Chemical bonding"
+          ],
+          "answer": "Day and night",
+          "explanation": "Earth rotation makes places face toward or away from the Sun."
+        },
+        {
+          "question": "What is Earth revolution?",
+          "choices": [
+            "Earth moving around the Sun",
+            "Earth spinning once each day",
+            "The Moon disappearing",
+            "Water changing state"
+          ],
+          "answer": "Earth moving around the Sun",
+          "explanation": "Revolution around the Sun is connected to the year."
+        },
+        {
+          "question": "What can the Moon position affect?",
+          "choices": [
+            "Moon phases and tides",
+            "Only spelling rules",
+            "Only arithmetic sequences",
+            "Only coefficients"
+          ],
+          "answer": "Moon phases and tides",
+          "explanation": "The Moon relationship with Earth affects visible phases and tides."
+        },
+        {
+          "question": "True or False: connected is a key lesson concept in Earth and Space Systems.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies connected as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 Science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "earth",
+          "space",
+          "systems"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "newton-laws-of-motion",
+      "title": "Newton Laws of Motion",
+      "description": "Learn Newton Laws of Motion with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Newton Laws of Motion",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Newton Laws of Motion for Grade 8 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Newton Laws of Motion is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Newton Laws of Motion works and why it appears in real classroom and community situations.\n\nA strong understanding of Newton Laws of Motion requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nNewton Laws of Motion matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Newton Laws of Motion: Newton Laws of Motion is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Newton Laws of Motion works and why it appears in real classroom and community situations. A strong understanding of Newton Laws of Motion requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Newton Laws of Motion.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Newton Laws of Motion.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Newton Laws of Motion and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Newton Laws of Motion and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Newton Laws of Motion and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Newton Laws of Motion and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Newton Laws of Motion."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Newton Laws of Motion concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Newton Laws of Motion concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Newton Laws of Motion",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Newton Laws of Motion?",
+          "choices": [
+            "It gives a clear explanation of Newton Laws of Motion and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Newton Laws of Motion and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Newton Laws of Motion with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Newton Laws of Motion?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Newton Laws of Motion?",
+          "choices": [
+            "An example directly tied to Newton Laws of Motion and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Newton Laws of Motion and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Newton Laws of Motion?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Newton Laws of Motion?",
+          "choices": [
+            "Answers in Newton Laws of Motion should include evidence and explanation..",
+            "The statement about Newton Laws of Motion is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Newton Laws of Motion should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "newton",
+          "laws",
+          "motion"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "work-energy-and-power",
+      "title": "Work Energy and Power",
+      "description": "Learn Work Energy and Power with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Work Energy and Power",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Work Energy and Power for Grade 8 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Work Energy and Power is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Work Energy and Power works and why it appears in real classroom and community situations.\n\nA strong understanding of Work Energy and Power requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nWork Energy and Power matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Work Energy and Power: Work Energy and Power is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Work Energy and Power works and why it appears in real classroom and community situations. A strong understanding of Work Energy and Power requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Work Energy and Power.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Work Energy and Power.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Work Energy and Power and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Work Energy and Power and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Work Energy and Power and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Work Energy and Power and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Work Energy and Power."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Work Energy and Power.",
+        "items": [
+          "Identify how topic is defined in Work Energy and Power.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Work Energy and Power matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Work Energy and Power.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Work Energy and Power matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Work Energy and Power?",
+          "choices": [
+            "It gives a clear explanation of Work Energy and Power and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Work Energy and Power and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Work Energy and Power with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Work Energy and Power?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Work Energy and Power?",
+          "choices": [
+            "An example directly tied to Work Energy and Power and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Work Energy and Power and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Work Energy and Power?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Work Energy and Power.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=eRCthC7X5yk",
+        "title": "Unit 5 Work Energy and Power AS/A Level Physics Cambridge CAIE 9702",
+        "keywords": [
+          "work",
+          "energy",
+          "power"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "earth-layers-and-processes",
+      "title": "Earth Layers and Processes",
+      "description": "Learn Earth Layers and Processes with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Earth Layers and Processes",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Earth Layers and Processes for Grade 8 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Earth Layers and Processes is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Earth Layers and Processes works and why it appears in real classroom and community situations.\n\nA strong understanding of Earth Layers and Processes requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nEarth Layers and Processes matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Earth Layers and Processes: Earth Layers and Processes is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Earth Layers and Processes works and why it appears in real classroom and community situations. A strong understanding of Earth Layers and Processes requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Earth Layers and Processes.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Earth Layers and Processes.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Earth Layers and Processes and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Earth Layers and Processes and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Earth Layers and Processes and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Earth Layers and Processes and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Earth Layers and Processes."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Earth Layers and Processes concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Earth Layers and Processes concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Earth Layers and Processes",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Earth Layers and Processes?",
+          "choices": [
+            "It gives a clear explanation of Earth Layers and Processes and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Earth Layers and Processes and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Earth Layers and Processes with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Earth Layers and Processes?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Earth Layers and Processes?",
+          "choices": [
+            "An example directly tied to Earth Layers and Processes and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Earth Layers and Processes and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Earth Layers and Processes?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Earth Layers and Processes?",
+          "choices": [
+            "Answers in Earth Layers and Processes should include evidence and explanation..",
+            "The statement about Earth Layers and Processes is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Earth Layers and Processes should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "earth",
+          "layers",
+          "processes"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "solar-system-patterns",
+      "title": "Solar System Patterns",
+      "description": "Learn Solar System Patterns with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Solar System Patterns",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Solar System Patterns for Grade 8 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Solar System Patterns is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Solar System Patterns works and why it appears in real classroom and community situations.\n\nA strong understanding of Solar System Patterns requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nSolar System Patterns matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Solar System Patterns: Solar System Patterns is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Solar System Patterns works and why it appears in real classroom and community situations. A strong understanding of Solar System Patterns requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Solar System Patterns.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Solar System Patterns.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Solar System Patterns and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Solar System Patterns and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Solar System Patterns and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Solar System Patterns and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Solar System Patterns."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Solar System Patterns.",
+        "items": [
+          "Identify how topic is defined in Solar System Patterns.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Solar System Patterns matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Solar System Patterns.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Solar System Patterns matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Solar System Patterns?",
+          "choices": [
+            "It gives a clear explanation of Solar System Patterns and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Solar System Patterns and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Solar System Patterns with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Solar System Patterns?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Solar System Patterns?",
+          "choices": [
+            "An example directly tied to Solar System Patterns and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Solar System Patterns and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Solar System Patterns?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Solar System Patterns.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "solar",
+          "system",
+          "patterns"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

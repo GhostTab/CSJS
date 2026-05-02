@@ -1,0 +1,289 @@
+{
+  "grade": 8,
+  "subject": "ICT",
+  "subjectId": "ict",
+  "lessons": [
+    {
+      "id": "productivity-tools",
+      "title": "Productivity Tools",
+      "description": "Learn Productivity Tools with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Productivity Tools",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Productivity Tools for Grade 8 ICT."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Productivity Tools."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Productivity Tools.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Input",
+            "Process",
+            "Output"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Productivity Tools.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Productivity Tools covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the process for Productivity Tools.",
+        "items": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ],
+        "correctOrder": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Productivity Tools?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 ICT."
+    },
+    {
+      "id": "digital-file-management",
+      "title": "Digital File Management",
+      "description": "Learn Digital File Management with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Digital File Management",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Digital File Management for Grade 8 ICT."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Digital File Management."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Digital File Management.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Input",
+            "Process",
+            "Output"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Digital File Management.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Digital File Management covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the process for Digital File Management.",
+        "items": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ],
+        "correctOrder": [
+          "Identify given information",
+          "Choose the correct method",
+          "Apply steps carefully",
+          "Check and interpret the result"
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Digital File Management?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 ICT."
+    }
+  ]
+}

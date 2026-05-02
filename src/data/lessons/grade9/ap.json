@@ -1,0 +1,303 @@
+{
+  "grade": 9,
+  "subject": "Araling Panlipunan",
+  "subjectId": "ap",
+  "lessons": [
+    {
+      "id": "ekonomiks-needs-and-wants",
+      "title": "Ekonomiks: Needs and Wants",
+      "description": "Learn Ekonomiks: Needs and Wants with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Ekonomiks: Needs and Wants",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Ekonomiks: Needs and Wants for Grade 9 Araling Panlipunan."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Ekonomiks: Needs and Wants."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Ekonomiks: Needs and Wants.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Lugar",
+            "Panahon",
+            "Sanhi",
+            "Bunga"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Ekonomiks: Needs and Wants.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Ekonomiks: Needs and Wants covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Core idea in Ekonomiks: Needs and Wants",
+            "answer": "Main concept discussed in the lesson"
+          },
+          {
+            "term": "Real-world connection",
+            "answer": "How the concept appears in daily life"
+          },
+          {
+            "term": "Key evidence",
+            "answer": "Information that supports understanding"
+          },
+          {
+            "term": "Lesson application",
+            "answer": "How learners apply what they studied"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Ekonomiks: Needs and Wants?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Araling Panlipunan."
+    },
+    {
+      "id": "supply-and-demand",
+      "title": "Supply and Demand",
+      "description": "Learn Supply and Demand with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Supply and Demand",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Supply and Demand for Grade 9 Araling Panlipunan."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "You will analyze key concepts, examples, and practical applications of Supply and Demand."
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Supply and Demand.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Lugar",
+            "Panahon",
+            "Sanhi",
+            "Bunga"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify key ideas in Supply and Demand.",
+            "Connect the concept to real life.",
+            "Evaluate one practical application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Concept",
+              "meaning": "Main lesson idea."
+            },
+            {
+              "word": "Example",
+              "meaning": "Sample that clarifies a concept."
+            },
+            {
+              "word": "Application",
+              "meaning": "Use of idea in context."
+            },
+            {
+              "word": "Reflection",
+              "meaning": "Thinking about what was learned."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Supply and Demand covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Core idea in Supply and Demand",
+            "answer": "Main concept discussed in the lesson"
+          },
+          {
+            "term": "Real-world connection",
+            "answer": "How the concept appears in daily life"
+          },
+          {
+            "term": "Key evidence",
+            "answer": "Information that supports understanding"
+          },
+          {
+            "term": "Lesson application",
+            "answer": "How learners apply what they studied"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is a key focus in Supply and Demand?",
+          "choices": [
+            "Understanding the concept and applying it",
+            "Ignoring examples",
+            "Memorizing without meaning",
+            "Skipping feedback"
+          ],
+          "answer": "Understanding the concept and applying it",
+          "explanation": "This lesson emphasizes understanding and application."
+        },
+        {
+          "question": "Why are guided examples important?",
+          "choices": [
+            "They show how ideas work",
+            "They replace all learning",
+            "They remove analysis",
+            "They avoid practice"
+          ],
+          "answer": "They show how ideas work",
+          "explanation": "Examples model correct thinking and process."
+        },
+        {
+          "question": "True or False: Feedback helps improve answers.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "Feedback shows what to improve."
+        },
+        {
+          "question": "What should you do after answering a question?",
+          "choices": [
+            "Review explanation",
+            "Skip to next topic",
+            "Close lesson immediately",
+            "Ignore results"
+          ],
+          "answer": "Review explanation",
+          "explanation": "Review strengthens understanding."
+        },
+        {
+          "question": "Which habit supports better learning?",
+          "choices": [
+            "Use evidence in your explanation",
+            "Guess quickly",
+            "Skip reading",
+            "Avoid revision"
+          ],
+          "answer": "Use evidence in your explanation",
+          "explanation": "Evidence-based reasoning improves quality answers."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Araling Panlipunan."
+    }
+  ]
+}

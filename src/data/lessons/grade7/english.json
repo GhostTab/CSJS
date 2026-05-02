@@ -1,0 +1,978 @@
+{
+  "grade": 7,
+  "subject": "English",
+  "subjectId": "english",
+  "lessons": [
+    {
+      "id": "parts-of-speech",
+      "title": "Parts of Speech",
+      "description": "Learn Parts of Speech with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Parts of Speech",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Parts of Speech for Grade 7 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Parts of speech are the basic categories of words in English. Nouns name people, places, things, or ideas; verbs show action or being; adjectives describe nouns; and adverbs describe verbs, adjectives, or other adverbs. Each part of speech has a job in a sentence.\n\nFor example, in the sentence 'The careful student writes clearly,' student is a noun, writes is a verb, careful is an adjective, and clearly is an adverb. Knowing each word's job helps you understand how the sentence is built and what it means.\n\nParts of speech matter because clear sentences depend on words being used correctly. When you know how nouns, verbs, adjectives, and adverbs work, you can read more accurately and write sentences that are easier to understand.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "transcript": "Narration for Parts of Speech: Parts of speech are the basic categories of words in English. Nouns name people, places, things, or ideas; verbs show action or being; adjectives describe nouns; and adverbs describe verbs, adjectives, or other adverbs. Each part of speech has a job in a sentence."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Parts of Speech.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Parts of Speech.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Parts of Speech covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each part of speech with its job in a sentence.",
+        "items": [
+          {
+            "term": "Noun",
+            "answer": "Names a person, place, thing, or idea."
+          },
+          {
+            "term": "Verb",
+            "answer": "Shows action or being."
+          },
+          {
+            "term": "Adjective",
+            "answer": "Describes a noun."
+          },
+          {
+            "term": "Adverb",
+            "answer": "Describes a verb, adjective, or another adverb."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does a noun do?",
+          "choices": [
+            "Names a person, place, thing, or idea",
+            "Shows only action",
+            "Describes a verb only",
+            "Joins two paragraphs"
+          ],
+          "answer": "Names a person, place, thing, or idea",
+          "explanation": "A noun names people, places, things, or ideas."
+        },
+        {
+          "question": "In \"The careful student writes clearly,\" which word is the verb?",
+          "choices": [
+            "writes",
+            "careful",
+            "student",
+            "clearly"
+          ],
+          "answer": "writes",
+          "explanation": "Writes shows the action."
+        },
+        {
+          "question": "In the same sentence, which word is an adjective?",
+          "choices": [
+            "careful",
+            "writes",
+            "clearly",
+            "The"
+          ],
+          "answer": "careful",
+          "explanation": "Careful describes the noun student."
+        },
+        {
+          "question": "Which word is an adverb in \"The careful student writes clearly\"?",
+          "choices": [
+            "clearly",
+            "student",
+            "careful",
+            "The"
+          ],
+          "answer": "clearly",
+          "explanation": "Clearly describes how the student writes."
+        },
+        {
+          "question": "Why do parts of speech matter?",
+          "choices": [
+            "They help readers understand sentence structure and meaning",
+            "They make all words the same",
+            "They remove verbs from sentences",
+            "They avoid clear writing"
+          ],
+          "answer": "They help readers understand sentence structure and meaning",
+          "explanation": "Knowing word jobs improves reading and writing."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 English.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=bqAQ2mOzWSw",
+        "title": "8 Parts of Speech | Charlene's TV",
+        "keywords": [
+          "parts",
+          "speech"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "reading-for-main-ideas",
+      "title": "Reading for Main Ideas",
+      "description": "Learn Reading for Main Ideas with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Reading for Main Ideas",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Reading for Main Ideas for Grade 7 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Reading for main ideas means finding the most important point an author wants to communicate. The main idea is different from a detail. A detail supports, explains, or gives an example of the main idea, but it is not the whole message of the text.\n\nTo find the main idea, ask: What is this paragraph or text mostly about? Look at the title, repeated words, topic sentences, and important details. For example, if a paragraph gives several details about saving water, the main idea may be that people should conserve water every day.\n\nReading for main ideas matters because it helps you understand texts faster and more accurately. It also helps you summarize, answer questions, and separate important information from extra details.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Reading for Main Ideas: Reading for main ideas means finding the most important point an author wants to communicate. The main idea is different from a detail. A detail supports, explains, or gives an example of the main idea, but it is not the whole message of the text."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Reading for Main Ideas.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Reading for Main Ideas.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Reading for Main Ideas covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Reading for Main Ideas.",
+        "items": [
+          "Identify how finding is defined in Reading for Main Ideas.",
+          "Describe the key point step taught in the discussion.",
+          "Apply author in a concrete situation from the lesson.",
+          "Explain the wants based reason why Reading for Main Ideas matters."
+        ],
+        "correctOrder": [
+          "Identify how finding is defined in Reading for Main Ideas.",
+          "Describe the key point step taught in the discussion.",
+          "Apply author in a concrete situation from the lesson.",
+          "Explain the wants based reason why Reading for Main Ideas matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is the main idea?",
+          "choices": [
+            "The most important point of a text",
+            "One small example only",
+            "The last word of a text",
+            "A random detail"
+          ],
+          "answer": "The most important point of a text",
+          "explanation": "The main idea is what the text is mostly about."
+        },
+        {
+          "question": "How is a detail different from the main idea?",
+          "choices": [
+            "A detail supports or explains the main idea",
+            "A detail is always the title",
+            "A detail replaces the whole text",
+            "A detail has no connection"
+          ],
+          "answer": "A detail supports or explains the main idea",
+          "explanation": "Details give support, examples, or explanation."
+        },
+        {
+          "question": "Which clue can help identify the main idea?",
+          "choices": [
+            "Repeated words",
+            "Page color only",
+            "Font size only",
+            "The number of commas only"
+          ],
+          "answer": "Repeated words",
+          "explanation": "Repeated words often show what the text emphasizes."
+        },
+        {
+          "question": "If a paragraph gives many details about saving water, what may be its main idea?",
+          "choices": [
+            "People should conserve water every day",
+            "Water has no use",
+            "Only milk tea matters",
+            "Sentences need verbs"
+          ],
+          "answer": "People should conserve water every day",
+          "explanation": "The details point to water conservation."
+        },
+        {
+          "question": "True or False: finding is a key lesson concept in Reading for Main Ideas.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies finding as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 English.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "reading",
+          "main",
+          "ideas"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "context-clues",
+      "title": "Context Clues",
+      "description": "Learn Context Clues with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Context Clues",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Context Clues for Grade 7 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Context Clues is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Context Clues works and why it appears in real classroom and community situations.\n\nA strong understanding of Context Clues requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nContext Clues matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Context Clues: Context Clues is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Context Clues works and why it appears in real classroom and community situations. A strong understanding of Context Clues requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Context Clues.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Context Clues.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Context Clues and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Context Clues and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Context Clues and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Context Clues and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Context Clues."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Context Clues concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Context Clues definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Context Clues",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Context Clues?",
+          "choices": [
+            "It gives a clear explanation of Context Clues and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Context Clues and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Context Clues with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Context Clues?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Context Clues?",
+          "choices": [
+            "An example directly tied to Context Clues and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Context Clues and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Context Clues?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Context Clues?",
+          "choices": [
+            "Answers in Context Clues should include evidence and explanation..",
+            "The statement about Context Clues is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Context Clues should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 english.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=eHCpJ86XDY4",
+        "title": "Context Clues | English For Kids | Mind Blooming",
+        "keywords": [
+          "context",
+          "clues"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "summarizing-texts",
+      "title": "Summarizing Texts",
+      "description": "Learn Summarizing Texts with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Summarizing Texts",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Summarizing Texts for Grade 7 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Summarizing Texts is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Summarizing Texts works and why it appears in real classroom and community situations.\n\nA strong understanding of Summarizing Texts requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nSummarizing Texts matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Summarizing Texts: Summarizing Texts is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Summarizing Texts works and why it appears in real classroom and community situations. A strong understanding of Summarizing Texts requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Summarizing Texts.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Summarizing Texts.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Summarizing Texts and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Summarizing Texts and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Summarizing Texts and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Summarizing Texts and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Summarizing Texts."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Summarizing Texts.",
+        "items": [
+          "Identify how topic is defined in Summarizing Texts.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Summarizing Texts matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Summarizing Texts.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Summarizing Texts matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Summarizing Texts?",
+          "choices": [
+            "It gives a clear explanation of Summarizing Texts and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Summarizing Texts and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Summarizing Texts with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Summarizing Texts?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Summarizing Texts?",
+          "choices": [
+            "An example directly tied to Summarizing Texts and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Summarizing Texts and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Summarizing Texts?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Summarizing Texts.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 english.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aPqPspaooHA",
+        "title": "Summarizing Texts (with Examples)",
+        "keywords": [
+          "summarizing",
+          "texts"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "paragraph-development",
+      "title": "Paragraph Development",
+      "description": "Learn Paragraph Development with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Paragraph Development",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Paragraph Development for Grade 7 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Paragraph Development is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Paragraph Development works and why it appears in real classroom and community situations.\n\nA strong understanding of Paragraph Development requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nParagraph Development matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Paragraph Development: Paragraph Development is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Paragraph Development works and why it appears in real classroom and community situations. A strong understanding of Paragraph Development requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Paragraph Development.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Paragraph Development.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Paragraph Development and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Paragraph Development and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Paragraph Development and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Paragraph Development and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Paragraph Development."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Paragraph Development concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Paragraph Development definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Paragraph Development",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Paragraph Development?",
+          "choices": [
+            "It gives a clear explanation of Paragraph Development and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Paragraph Development and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Paragraph Development with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Paragraph Development?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Paragraph Development?",
+          "choices": [
+            "An example directly tied to Paragraph Development and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Paragraph Development and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Paragraph Development?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Paragraph Development?",
+          "choices": [
+            "Answers in Paragraph Development should include evidence and explanation..",
+            "The statement about Paragraph Development is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Paragraph Development should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 english.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=6wUFumLAfsg",
+        "title": "Paragraph Development  mp4",
+        "keywords": [
+          "paragraph",
+          "development"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "speaking-with-clarity",
+      "title": "Speaking with Clarity",
+      "description": "Learn Speaking with Clarity with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Speaking with Clarity",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Speaking with Clarity for Grade 7 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Speaking with Clarity is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Speaking with Clarity works and why it appears in real classroom and community situations.\n\nA strong understanding of Speaking with Clarity requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nSpeaking with Clarity matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Speaking with Clarity: Speaking with Clarity is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Speaking with Clarity works and why it appears in real classroom and community situations. A strong understanding of Speaking with Clarity requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Speaking with Clarity.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Speaking with Clarity.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Speaking with Clarity and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Speaking with Clarity and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Speaking with Clarity and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Speaking with Clarity and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Speaking with Clarity."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Speaking with Clarity.",
+        "items": [
+          "Identify how topic is defined in Speaking with Clarity.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Speaking with Clarity matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Speaking with Clarity.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Speaking with Clarity matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Speaking with Clarity?",
+          "choices": [
+            "It gives a clear explanation of Speaking with Clarity and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Speaking with Clarity and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Speaking with Clarity with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Speaking with Clarity?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Speaking with Clarity?",
+          "choices": [
+            "An example directly tied to Speaking with Clarity and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Speaking with Clarity and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Speaking with Clarity?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Speaking with Clarity.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "speaking",
+          "with",
+          "clarity"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

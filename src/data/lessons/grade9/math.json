@@ -1,0 +1,970 @@
+{
+  "grade": 9,
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "lessons": [
+    {
+      "id": "quadratic-equations",
+      "title": "Quadratic Equations",
+      "description": "Learn Quadratic Equations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Quadratic Equations",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Quadratic Equations for Grade 9 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Quadratic equations are equations that can be written in the form ax^2 + bx + c = 0, where a is not zero. The variable has a highest power of 2, so the graph of a quadratic equation is related to a parabola. Examples include x^2 - 5x + 6 = 0 and 2x^2 + 3x - 2 = 0.\n\nOne way to solve a quadratic equation is factoring. For x^2 - 5x + 6 = 0, find two numbers that multiply to 6 and add to -5: -2 and -3. The equation becomes (x - 2)(x - 3) = 0, so x = 2 or x = 3 because either factor can make the product zero.\n\nQuadratic equations matter because they model situations with curved patterns, such as projectile motion, area problems, and profit changes. Learning to solve them helps you find possible values, maximums, minimums, and points where a situation reaches zero.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Quadratic Equations: Quadratic equations are equations that can be written in the form ax^2 + bx + c = 0, where a is not zero. The variable has a highest power of 2, so the graph of a quadratic equation is related to a parabola. Examples include x^2 - 5x + 6 = 0 and 2x^2 + 3x - 2 = 0."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Quadratic Equations.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Quadratic Equations into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Quadratic Equations covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each quadratic equation concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Quadratic equation",
+            "answer": "An equation that can be written as ax^2 + bx + c = 0."
+          },
+          {
+            "term": "Highest power of 2",
+            "answer": "The feature that makes the equation quadratic."
+          },
+          {
+            "term": "(x - 2)(x - 3) = 0",
+            "answer": "A factored equation with solutions x = 2 and x = 3."
+          },
+          {
+            "term": "Parabola",
+            "answer": "The graph shape related to a quadratic equation."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which form represents a quadratic equation?",
+          "choices": [
+            "ax^2 + bx + c = 0",
+            "mx + b = 0",
+            "a/x = b",
+            "x + y = 1"
+          ],
+          "answer": "ax^2 + bx + c = 0",
+          "explanation": "Quadratic equations have a variable with highest power 2."
+        },
+        {
+          "question": "In x^2 - 5x + 6 = 0, which numbers help factor the equation?",
+          "choices": [
+            "-2 and -3",
+            "2 and 3",
+            "-1 and -6",
+            "1 and 6"
+          ],
+          "answer": "-2 and -3",
+          "explanation": "They multiply to 6 and add to -5."
+        },
+        {
+          "question": "What are the solutions of (x - 2)(x - 3) = 0?",
+          "choices": [
+            "x = 2 or x = 3",
+            "x = -2 or x = -3",
+            "x = 5 only",
+            "x = 6 only"
+          ],
+          "answer": "x = 2 or x = 3",
+          "explanation": "Each factor can equal zero."
+        },
+        {
+          "question": "What graph shape is related to a quadratic equation?",
+          "choices": [
+            "Parabola",
+            "Straight line",
+            "Circle only",
+            "Triangle"
+          ],
+          "answer": "Parabola",
+          "explanation": "Quadratic relationships are represented by parabolas."
+        },
+        {
+          "question": "Which situation can a quadratic equation model?",
+          "choices": [
+            "Projectile motion",
+            "Alphabetical order",
+            "A fixed name list",
+            "A single spelling rule"
+          ],
+          "answer": "Projectile motion",
+          "explanation": "Projectile paths often follow curved quadratic patterns."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Mathematics.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=S9EN26HJqBw",
+        "title": "Quadratic Equations: How to Solve Quadratic Equations by Factoring and by the Quadratic Formula",
+        "keywords": [
+          "quadratic",
+          "equations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "variations",
+      "title": "Variations",
+      "description": "Learn Variations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Variations",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Variations for Grade 9 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Variations describe relationships where one quantity changes depending on another. In direct variation, two quantities increase or decrease together, such as y = kx. If k = 3, then y = 3x, so when x doubles, y also doubles.\n\nIn inverse variation, one quantity increases while the other decreases, usually written as y = k/x. For example, if a fixed job is shared by more workers, the time needed may decrease. Joint variation combines more than one related quantity, such as y = kxz.\n\nVariations matter because they explain patterns in rates, distance, work, cost, and science measurements. Recognizing the type of variation helps you choose the correct equation instead of treating every relationship the same way.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Variations: Variations describe relationships where one quantity changes depending on another. In direct variation, two quantities increase or decrease together, such as y = kx. If k = 3, then y = 3x, so when x doubles, y also doubles."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Variations.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Variations into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Variations covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Variations.",
+        "items": [
+          "Identify how describe is defined in Variations.",
+          "Describe the key relationships step taught in the discussion.",
+          "Apply quantity in a concrete situation from the lesson.",
+          "Explain the changes based reason why Variations matters."
+        ],
+        "correctOrder": [
+          "Identify how describe is defined in Variations.",
+          "Describe the key relationships step taught in the discussion.",
+          "Apply quantity in a concrete situation from the lesson.",
+          "Explain the changes based reason why Variations matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which equation shows direct variation?",
+          "choices": [
+            "y = kx",
+            "y = k/x",
+            "y = x + 5 without k",
+            "y = 0 only"
+          ],
+          "answer": "y = kx",
+          "explanation": "Direct variation uses y = kx."
+        },
+        {
+          "question": "What happens in inverse variation?",
+          "choices": [
+            "One quantity increases while the other decreases",
+            "Both quantities always stay zero",
+            "Both quantities are unrelated",
+            "Only the title changes"
+          ],
+          "answer": "One quantity increases while the other decreases",
+          "explanation": "Inverse variation moves in opposite directions."
+        },
+        {
+          "question": "In y = 3x, what is k?",
+          "choices": [
+            "3",
+            "x",
+            "y",
+            "0"
+          ],
+          "answer": "3",
+          "explanation": "The constant of variation is the multiplier 3."
+        },
+        {
+          "question": "Which real situation can show inverse variation?",
+          "choices": [
+            "More workers may reduce time for a fixed job",
+            "More pages always means the same reading time",
+            "A name always has the same letters",
+            "A book title changes the answer"
+          ],
+          "answer": "More workers may reduce time for a fixed job",
+          "explanation": "As workers increase, time can decrease for the same job."
+        },
+        {
+          "question": "True or False: describe is a key lesson concept in Variations.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies describe as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 Mathematics.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "variations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "quadratic-functions",
+      "title": "Quadratic Functions",
+      "description": "Learn Quadratic Functions with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Quadratic Functions",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Quadratic Functions for Grade 9 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Quadratic Functions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Quadratic Functions works and why it appears in real classroom and community situations.\n\nA strong understanding of Quadratic Functions requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nQuadratic Functions matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Quadratic Functions: Quadratic Functions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Quadratic Functions works and why it appears in real classroom and community situations. A strong understanding of Quadratic Functions requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Quadratic Functions.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Quadratic Functions.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Quadratic Functions and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Quadratic Functions and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Quadratic Functions and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Quadratic Functions and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Quadratic Functions."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Quadratic Functions concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Quadratic Functions definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Quadratic Functions",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Quadratic Functions?",
+          "choices": [
+            "It gives a clear explanation of Quadratic Functions and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Quadratic Functions and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Quadratic Functions with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Quadratic Functions?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Quadratic Functions?",
+          "choices": [
+            "An example directly tied to Quadratic Functions and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Quadratic Functions and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Quadratic Functions?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Quadratic Functions?",
+          "choices": [
+            "Answers in Quadratic Functions should include evidence and explanation..",
+            "The statement about Quadratic Functions is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Quadratic Functions should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 math.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=xSpFz8JDbZk",
+        "title": "Intro to Quadratic Functions (Relations) - Nerdstudy",
+        "keywords": [
+          "quadratic",
+          "functions"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "radical-expressions",
+      "title": "Radical Expressions",
+      "description": "Learn Radical Expressions with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Radical Expressions",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Radical Expressions for Grade 9 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Radical Expressions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Radical Expressions works and why it appears in real classroom and community situations.\n\nA strong understanding of Radical Expressions requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nRadical Expressions matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Radical Expressions: Radical Expressions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Radical Expressions works and why it appears in real classroom and community situations. A strong understanding of Radical Expressions requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Radical Expressions.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Radical Expressions.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Radical Expressions and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Radical Expressions and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Radical Expressions and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Radical Expressions and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Radical Expressions."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Radical Expressions.",
+        "items": [
+          "Identify how topic is defined in Radical Expressions.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Radical Expressions matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Radical Expressions.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Radical Expressions matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Radical Expressions?",
+          "choices": [
+            "It gives a clear explanation of Radical Expressions and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Radical Expressions and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Radical Expressions with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Radical Expressions?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Radical Expressions?",
+          "choices": [
+            "An example directly tied to Radical Expressions and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Radical Expressions and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Radical Expressions?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Radical Expressions.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 math.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=trLagOYGHsk",
+        "title": "Simplifying Radical Expressions - Laws of Radicals",
+        "keywords": [
+          "radical",
+          "expressions"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "coordinate-geometry",
+      "title": "Coordinate Geometry",
+      "description": "Learn Coordinate Geometry with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Coordinate Geometry",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Coordinate Geometry for Grade 9 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Coordinate Geometry is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Coordinate Geometry works and why it appears in real classroom and community situations.\n\nA strong understanding of Coordinate Geometry requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nCoordinate Geometry matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Coordinate Geometry: Coordinate Geometry is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Coordinate Geometry works and why it appears in real classroom and community situations. A strong understanding of Coordinate Geometry requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Coordinate Geometry.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Coordinate Geometry.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Coordinate Geometry and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Coordinate Geometry and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Coordinate Geometry and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Coordinate Geometry and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Coordinate Geometry."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Coordinate Geometry concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Coordinate Geometry definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Coordinate Geometry",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Coordinate Geometry?",
+          "choices": [
+            "It gives a clear explanation of Coordinate Geometry and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Coordinate Geometry and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Coordinate Geometry with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Coordinate Geometry?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Coordinate Geometry?",
+          "choices": [
+            "An example directly tied to Coordinate Geometry and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Coordinate Geometry and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Coordinate Geometry?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Coordinate Geometry?",
+          "choices": [
+            "Answers in Coordinate Geometry should include evidence and explanation..",
+            "The statement about Coordinate Geometry is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Coordinate Geometry should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 math.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=PXnAKcBipKM",
+        "title": "Coordinate Geometry, Basic Introduction, Practice Problems",
+        "keywords": [
+          "coordinate",
+          "geometry"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "trigonometric-ratios-basics",
+      "title": "Trigonometric Ratios Basics",
+      "description": "Learn Trigonometric Ratios Basics with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Trigonometric Ratios Basics",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Trigonometric Ratios Basics for Grade 9 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Trigonometric Ratios Basics is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Trigonometric Ratios Basics works and why it appears in real classroom and community situations.\n\nA strong understanding of Trigonometric Ratios Basics requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nTrigonometric Ratios Basics matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Trigonometric Ratios Basics: Trigonometric Ratios Basics is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Trigonometric Ratios Basics works and why it appears in real classroom and community situations. A strong understanding of Trigonometric Ratios Basics requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Trigonometric Ratios Basics.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Trigonometric Ratios Basics.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Trigonometric Ratios Basics and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Trigonometric Ratios Basics and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Trigonometric Ratios Basics and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Trigonometric Ratios Basics and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Trigonometric Ratios Basics."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Trigonometric Ratios Basics.",
+        "items": [
+          "Identify how topic is defined in Trigonometric Ratios Basics.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Trigonometric Ratios Basics matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Trigonometric Ratios Basics.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Trigonometric Ratios Basics matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Trigonometric Ratios Basics?",
+          "choices": [
+            "It gives a clear explanation of Trigonometric Ratios Basics and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Trigonometric Ratios Basics and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Trigonometric Ratios Basics with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Trigonometric Ratios Basics?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Trigonometric Ratios Basics?",
+          "choices": [
+            "An example directly tied to Trigonometric Ratios Basics and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Trigonometric Ratios Basics and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Trigonometric Ratios Basics?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Trigonometric Ratios Basics.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 9 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "trigonometric",
+          "ratios",
+          "basics"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+{
+  "grade": 8,
+  "subject": "English",
+  "subjectId": "english",
+  "lessons": [
+    {
+      "id": "making-inferences",
+      "title": "Making Inferences",
+      "description": "Learn Making Inferences with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Making Inferences",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Making Inferences for Grade 8 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Making inferences means using clues from a text together with what you already know to understand something the author does not directly say. An inference is not a random guess; it must be supported by evidence from the text.\n\nFor example, if a story says a character's hands are shaking and their voice is quiet before a speech, you can infer that the character feels nervous. The text does not say 'nervous,' but the details support that conclusion.\n\nMaking inferences matters because writers often leave ideas unstated. Good readers notice clues, connect them logically, and explain their thinking with evidence.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Making Inferences: Making inferences means using clues from a text together with what you already know to understand something the author does not directly say. An inference is not a random guess; it must be supported by evidence from the text. For example, if a story says a character's hands are shaking and their voice is quiet before a speech, you can infer that the character feels nervous."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Making Inferences.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Making Inferences.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Making Inferences covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each inference concept with its explanation.",
+        "items": [
+          {
+            "term": "Inference",
+            "answer": "A conclusion based on text clues and prior knowledge."
+          },
+          {
+            "term": "Text clues",
+            "answer": "Details from the text that support an inference."
+          },
+          {
+            "term": "Prior knowledge",
+            "answer": "What the reader already knows and connects to the text."
+          },
+          {
+            "term": "Evidence",
+            "answer": "Support that proves the inference is not a random guess."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does making an inference mean?",
+          "choices": [
+            "Using text clues and prior knowledge to understand an unstated idea",
+            "Copying the title only",
+            "Guessing without evidence",
+            "Ignoring details"
+          ],
+          "answer": "Using text clues and prior knowledge to understand an unstated idea",
+          "explanation": "An inference combines clues and what the reader knows."
+        },
+        {
+          "question": "Why is an inference not a random guess?",
+          "choices": [
+            "It must be supported by evidence",
+            "It is always written in the title",
+            "It avoids the text",
+            "It has no reason"
+          ],
+          "answer": "It must be supported by evidence",
+          "explanation": "Evidence from the text supports the conclusion."
+        },
+        {
+          "question": "If a character hands are shaking before a speech, what can you infer?",
+          "choices": [
+            "The character feels nervous",
+            "The character is asleep",
+            "The character is eating",
+            "The character is invisible"
+          ],
+          "answer": "The character feels nervous",
+          "explanation": "Shaking hands before a speech are clues of nervousness."
+        },
+        {
+          "question": "Which detail from the lesson supports nervousness?",
+          "choices": [
+            "Hands are shaking and voice is quiet",
+            "The sky is blue",
+            "The page has a title",
+            "The paragraph is short"
+          ],
+          "answer": "Hands are shaking and voice is quiet",
+          "explanation": "These text clues support the inference."
+        },
+        {
+          "question": "Why do readers make inferences?",
+          "choices": [
+            "Authors often leave some ideas unstated",
+            "Authors always explain every idea directly",
+            "Texts never use clues",
+            "Evidence is unnecessary"
+          ],
+          "answer": "Authors often leave some ideas unstated",
+          "explanation": "Readers infer to understand implied meaning."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 English.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JdaD2FZQFEY",
+        "title": "Inferences | Making Inferences | Award Winning Inferences Teaching Video | What is an inference?",
+        "keywords": [
+          "making",
+          "inferences"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "analyzing-informational-texts",
+      "title": "Analyzing Informational Texts",
+      "description": "Learn Analyzing Informational Texts with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Analyzing Informational Texts",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Analyzing Informational Texts for Grade 8 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Analyzing informational texts means studying how a text explains facts, ideas, or real events. Informational texts include articles, reports, essays, manuals, and textbook passages. They often use headings, topic sentences, evidence, examples, and graphics to help readers understand information.\n\nWhen analyzing an informational text, look for the central idea, supporting details, author's purpose, and text structure. A cause-and-effect text explains why something happened, while a compare-and-contrast text explains similarities and differences between ideas.\n\nAnalyzing informational texts matters because students use these texts to learn in science, history, technology, and daily life. The skill helps you judge information, understand evidence, and avoid accepting weak or unsupported claims.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Analyzing Informational Texts: Analyzing informational texts means studying how a text explains facts, ideas, or real events. Informational texts include articles, reports, essays, manuals, and textbook passages. They often use headings, topic sentences, evidence, examples, and graphics to help readers understand information."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Analyzing Informational Texts.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Analyzing Informational Texts.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Analyzing Informational Texts covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Analyzing Informational Texts.",
+        "items": [
+          "Identify how studying is defined in Analyzing Informational Texts.",
+          "Describe the key explains step taught in the discussion.",
+          "Apply facts in a concrete situation from the lesson.",
+          "Explain the ideas based reason why Analyzing Informational Texts matters."
+        ],
+        "correctOrder": [
+          "Identify how studying is defined in Analyzing Informational Texts.",
+          "Describe the key explains step taught in the discussion.",
+          "Apply facts in a concrete situation from the lesson.",
+          "Explain the ideas based reason why Analyzing Informational Texts matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is an informational text?",
+          "choices": [
+            "A text that explains facts, ideas, or real events",
+            "Only a fictional fairy tale",
+            "Only a poem with rhyme",
+            "A list of random words"
+          ],
+          "answer": "A text that explains facts, ideas, or real events",
+          "explanation": "Informational texts teach or explain real information."
+        },
+        {
+          "question": "What should you look for when analyzing informational texts?",
+          "choices": [
+            "Central idea, supporting details, author purpose, and structure",
+            "Only character costumes",
+            "Only sentence length",
+            "Only the cover color"
+          ],
+          "answer": "Central idea, supporting details, author purpose, and structure",
+          "explanation": "These features help explain how the text works."
+        },
+        {
+          "question": "What does cause-and-effect structure explain?",
+          "choices": [
+            "Why something happened and what resulted",
+            "Only similarities",
+            "Only a character speech",
+            "Only word spelling"
+          ],
+          "answer": "Why something happened and what resulted",
+          "explanation": "Cause-effect connects reasons and results."
+        },
+        {
+          "question": "What does compare-and-contrast structure explain?",
+          "choices": [
+            "Similarities and differences",
+            "Only one event in time",
+            "Only a final answer",
+            "Only a title"
+          ],
+          "answer": "Similarities and differences",
+          "explanation": "Compare-contrast examines how ideas are alike and different."
+        },
+        {
+          "question": "True or False: studying is a key lesson concept in Analyzing Informational Texts.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies studying as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 English.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=dUVs7KgAlbM",
+        "title": "Analyzing Informational Texts Unit Introduction",
+        "keywords": [
+          "analyzing",
+          "informational",
+          "texts"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "determining-author-purpose",
+      "title": "Determining Author Purpose",
+      "description": "Learn Determining Author Purpose with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Determining Author Purpose",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Determining Author Purpose for Grade 8 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Determining Author Purpose is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Determining Author Purpose works and why it appears in real classroom and community situations.\n\nA strong understanding of Determining Author Purpose requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nDetermining Author Purpose matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Determining Author Purpose: Determining Author Purpose is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Determining Author Purpose works and why it appears in real classroom and community situations. A strong understanding of Determining Author Purpose requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Determining Author Purpose.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Determining Author Purpose.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Determining Author Purpose and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Determining Author Purpose and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Determining Author Purpose and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Determining Author Purpose and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Determining Author Purpose."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Determining Author Purpose concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Determining Author Purpose definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Determining Author Purpose",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Determining Author Purpose?",
+          "choices": [
+            "It gives a clear explanation of Determining Author Purpose and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Determining Author Purpose and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Determining Author Purpose with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Determining Author Purpose?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Determining Author Purpose?",
+          "choices": [
+            "An example directly tied to Determining Author Purpose and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Determining Author Purpose and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Determining Author Purpose?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Determining Author Purpose?",
+          "choices": [
+            "Answers in Determining Author Purpose should include evidence and explanation..",
+            "The statement about Determining Author Purpose is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Determining Author Purpose should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "determining",
+          "author",
+          "purpose"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "comparing-text-structures",
+      "title": "Comparing Text Structures",
+      "description": "Learn Comparing Text Structures with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Comparing Text Structures",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Comparing Text Structures for Grade 8 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Comparing Text Structures is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Comparing Text Structures works and why it appears in real classroom and community situations.\n\nA strong understanding of Comparing Text Structures requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nComparing Text Structures matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Comparing Text Structures: Comparing Text Structures is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Comparing Text Structures works and why it appears in real classroom and community situations. A strong understanding of Comparing Text Structures requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Comparing Text Structures.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Comparing Text Structures.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Comparing Text Structures and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Comparing Text Structures and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Comparing Text Structures and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Comparing Text Structures and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Comparing Text Structures."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Comparing Text Structures.",
+        "items": [
+          "Identify how topic is defined in Comparing Text Structures.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Comparing Text Structures matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Comparing Text Structures.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Comparing Text Structures matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Comparing Text Structures?",
+          "choices": [
+            "It gives a clear explanation of Comparing Text Structures and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Comparing Text Structures and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Comparing Text Structures with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Comparing Text Structures?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Comparing Text Structures?",
+          "choices": [
+            "An example directly tied to Comparing Text Structures and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Comparing Text Structures and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Comparing Text Structures?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Comparing Text Structures.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 english.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=QVmqK6V2eag",
+        "title": "Comparing text structures | Reading | Khan Academy",
+        "keywords": [
+          "comparing",
+          "text",
+          "structures"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "claim-and-evidence",
+      "title": "Claim and Evidence",
+      "description": "Learn Claim and Evidence with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Claim and Evidence",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Claim and Evidence for Grade 8 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Claim and Evidence is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Claim and Evidence works and why it appears in real classroom and community situations.\n\nA strong understanding of Claim and Evidence requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nClaim and Evidence matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Claim and Evidence: Claim and Evidence is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Claim and Evidence works and why it appears in real classroom and community situations. A strong understanding of Claim and Evidence requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Claim and Evidence.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Claim and Evidence.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Claim and Evidence and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Claim and Evidence and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Claim and Evidence and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Claim and Evidence and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Claim and Evidence."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Claim and Evidence concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Claim and Evidence definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Claim and Evidence",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Claim and Evidence?",
+          "choices": [
+            "It gives a clear explanation of Claim and Evidence and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Claim and Evidence and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Claim and Evidence with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Claim and Evidence?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Claim and Evidence?",
+          "choices": [
+            "An example directly tied to Claim and Evidence and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Claim and Evidence and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Claim and Evidence?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Claim and Evidence?",
+          "choices": [
+            "Answers in Claim and Evidence should include evidence and explanation..",
+            "The statement about Claim and Evidence is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Claim and Evidence should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "claim",
+          "evidence"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "writing-explanatory-essays",
+      "title": "Writing Explanatory Essays",
+      "description": "Learn Writing Explanatory Essays with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Writing Explanatory Essays",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Writing Explanatory Essays for Grade 8 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Writing Explanatory Essays is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Writing Explanatory Essays works and why it appears in real classroom and community situations.\n\nA strong understanding of Writing Explanatory Essays requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nWriting Explanatory Essays matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Writing Explanatory Essays: Writing Explanatory Essays is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Writing Explanatory Essays works and why it appears in real classroom and community situations. A strong understanding of Writing Explanatory Essays requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Writing Explanatory Essays.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Writing Explanatory Essays.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Writing Explanatory Essays and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Writing Explanatory Essays and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Writing Explanatory Essays and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Writing Explanatory Essays and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Writing Explanatory Essays."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Writing Explanatory Essays.",
+        "items": [
+          "Identify how topic is defined in Writing Explanatory Essays.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Writing Explanatory Essays matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Writing Explanatory Essays.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Writing Explanatory Essays matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Writing Explanatory Essays?",
+          "choices": [
+            "It gives a clear explanation of Writing Explanatory Essays and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Writing Explanatory Essays and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Writing Explanatory Essays with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Writing Explanatory Essays?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Writing Explanatory Essays?",
+          "choices": [
+            "An example directly tied to Writing Explanatory Essays and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Writing Explanatory Essays and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Writing Explanatory Essays?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Writing Explanatory Essays.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "writing",
+          "explanatory",
+          "essays"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

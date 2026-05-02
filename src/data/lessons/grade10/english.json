@@ -1,0 +1,985 @@
+{
+  "grade": 10,
+  "subject": "English",
+  "subjectId": "english",
+  "lessons": [
+    {
+      "id": "evaluating-sources",
+      "title": "Evaluating Sources",
+      "description": "Learn Evaluating Sources with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Evaluating Sources",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Evaluating Sources for Grade 10 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Evaluating sources means judging whether information is reliable, accurate, current, and useful for a purpose. Not every website, article, video, or post is equally trustworthy. A good source has clear authorship, evidence, and a purpose that can be examined.\n\nTo evaluate a source, check the author, date, evidence, publication, and possible bias. For example, a recent article from a recognized science organization is usually stronger for a research paper than an anonymous social media post with no evidence.\n\nEvaluating sources matters because students use information to make claims and decisions. This skill helps you avoid misinformation, support research writing, and choose evidence that readers can trust.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Evaluating Sources: Evaluating sources means judging whether information is reliable, accurate, current, and useful for a purpose. Not every website, article, video, or post is equally trustworthy. A good source has clear authorship, evidence, and a purpose that can be examined."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Evaluating Sources.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Evaluating Sources.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Evaluating Sources covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each source evaluation check with its purpose in reading and research writing.",
+        "items": [
+          {
+            "term": "Author",
+            "answer": "Shows who created the information."
+          },
+          {
+            "term": "Date",
+            "answer": "Shows whether the information is current."
+          },
+          {
+            "term": "Evidence",
+            "answer": "Shows support for the source claims."
+          },
+          {
+            "term": "Bias",
+            "answer": "Shows possible unfair influence or one-sided purpose."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does evaluating sources mean?",
+          "choices": [
+            "Judging whether information is reliable, accurate, current, and useful",
+            "Accepting every source automatically",
+            "Only reading the title",
+            "Ignoring evidence"
+          ],
+          "answer": "Judging whether information is reliable, accurate, current, and useful",
+          "explanation": "Source evaluation checks trustworthiness and usefulness."
+        },
+        {
+          "question": "Why check the author?",
+          "choices": [
+            "To know who created the information",
+            "To remove the source",
+            "To avoid reading",
+            "To change the date"
+          ],
+          "answer": "To know who created the information",
+          "explanation": "Authorship helps judge credibility."
+        },
+        {
+          "question": "Why check the date?",
+          "choices": [
+            "To know whether information is current",
+            "To count paragraphs",
+            "To identify nouns",
+            "To avoid evidence"
+          ],
+          "answer": "To know whether information is current",
+          "explanation": "Some topics need recent information."
+        },
+        {
+          "question": "Which source is stronger for a science research paper?",
+          "choices": [
+            "A recent article from a recognized science organization",
+            "An anonymous post with no evidence",
+            "A rumor from a comment section",
+            "A source with no author and no date"
+          ],
+          "answer": "A recent article from a recognized science organization",
+          "explanation": "It has stronger credibility and evidence."
+        },
+        {
+          "question": "Why evaluate sources?",
+          "choices": [
+            "To avoid misinformation and support research writing",
+            "To use weak claims",
+            "To remove all sources",
+            "To ignore bias"
+          ],
+          "answer": "To avoid misinformation and support research writing",
+          "explanation": "Evaluation helps students choose trustworthy evidence."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 English.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=PLTOVoHbH5c",
+        "title": "Evaluating Sources for Credibility",
+        "keywords": [
+          "evaluating",
+          "sources"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "research-writing",
+      "title": "Research Writing",
+      "description": "Learn Research Writing with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Research Writing",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Research Writing for Grade 10 English learners."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Research writing is writing that explains a topic using information from reliable sources. It begins with a focused question or topic, then uses evidence from books, articles, studies, interviews, or credible websites. The writer must organize the information clearly and give credit to sources.\n\nGood research writing does not simply copy facts. It explains, connects, and interprets evidence. For example, a paragraph may introduce an idea, cite evidence from a source, then explain how that evidence supports the main point.\n\nResearch writing matters because it teaches students to investigate carefully and communicate responsibly. It is used in academic papers, reports, proposals, and many careers where decisions depend on trustworthy information.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Research Writing: Research writing is writing that explains a topic using information from reliable sources. It begins with a focused question or topic, then uses evidence from books, articles, studies, interviews, or credible websites. The writer must organize the information clearly and give credit to sources."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Research Writing.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Identify the main idea in a text about Research Writing.",
+            "Pick the best supporting details.",
+            "Write an inference with textual evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Main Idea",
+              "meaning": "Central thought of a text."
+            },
+            {
+              "word": "Supporting Detail",
+              "meaning": "Information that explains the main idea."
+            },
+            {
+              "word": "Inference",
+              "meaning": "Conclusion based on clues."
+            },
+            {
+              "word": "Tone",
+              "meaning": "Writer attitude toward topic."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Research Writing covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Research Writing.",
+        "items": [
+          "Identify how explains is defined in Research Writing.",
+          "Describe the key topic step taught in the discussion.",
+          "Apply information in a concrete situation from the lesson.",
+          "Explain the reliable based reason why Research Writing matters."
+        ],
+        "correctOrder": [
+          "Identify how explains is defined in Research Writing.",
+          "Describe the key topic step taught in the discussion.",
+          "Apply information in a concrete situation from the lesson.",
+          "Explain the reliable based reason why Research Writing matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is research writing?",
+          "choices": [
+            "Writing that explains a topic using reliable sources",
+            "Writing only personal guesses",
+            "Writing without evidence",
+            "Copying facts without thinking"
+          ],
+          "answer": "Writing that explains a topic using reliable sources",
+          "explanation": "Research writing depends on credible information."
+        },
+        {
+          "question": "What should guide the start of research?",
+          "choices": [
+            "A focused question or topic",
+            "A random answer",
+            "A copied conclusion",
+            "A font choice only"
+          ],
+          "answer": "A focused question or topic",
+          "explanation": "A focused question directs the investigation."
+        },
+        {
+          "question": "Why give credit to sources?",
+          "choices": [
+            "To show where borrowed information came from",
+            "To hide the evidence",
+            "To avoid responsibility",
+            "To remove the source"
+          ],
+          "answer": "To show where borrowed information came from",
+          "explanation": "Credit makes research responsible and traceable."
+        },
+        {
+          "question": "What should a research paragraph do after citing evidence?",
+          "choices": [
+            "Explain how the evidence supports the point",
+            "Stop without explanation",
+            "Change to an unrelated topic",
+            "Delete the main idea"
+          ],
+          "answer": "Explain how the evidence supports the point",
+          "explanation": "Research writing connects evidence to the writer meaning."
+        },
+        {
+          "question": "True or False: explains is a key lesson concept in Research Writing.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies explains as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 English.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "research",
+          "writing"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "synthesis-of-sources",
+      "title": "Synthesis of Sources",
+      "description": "Learn Synthesis of Sources with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Synthesis of Sources",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Synthesis of Sources for Grade 10 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Synthesis of Sources is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Synthesis of Sources works and why it appears in real classroom and community situations.\n\nA strong understanding of Synthesis of Sources requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nSynthesis of Sources matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Synthesis of Sources: Synthesis of Sources is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Synthesis of Sources works and why it appears in real classroom and community situations. A strong understanding of Synthesis of Sources requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Synthesis of Sources.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Synthesis of Sources.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Synthesis of Sources and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Synthesis of Sources and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Synthesis of Sources and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Synthesis of Sources and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Synthesis of Sources."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Synthesis of Sources concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Synthesis of Sources definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Synthesis of Sources",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Synthesis of Sources?",
+          "choices": [
+            "It gives a clear explanation of Synthesis of Sources and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Synthesis of Sources and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Synthesis of Sources with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Synthesis of Sources?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Synthesis of Sources?",
+          "choices": [
+            "An example directly tied to Synthesis of Sources and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Synthesis of Sources and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Synthesis of Sources?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Synthesis of Sources?",
+          "choices": [
+            "Answers in Synthesis of Sources should include evidence and explanation..",
+            "The statement about Synthesis of Sources is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Synthesis of Sources should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "synthesis",
+          "sources"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "technical-writing",
+      "title": "Technical Writing",
+      "description": "Learn Technical Writing with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Technical Writing",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Technical Writing for Grade 10 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Technical Writing is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Technical Writing works and why it appears in real classroom and community situations.\n\nA strong understanding of Technical Writing requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nTechnical Writing matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [
+            {
+              "src": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg",
+              "alt": "Technical Writing visual aid",
+              "caption": "Visual aid for Technical Writing.",
+              "source": "curated-catalog"
+            }
+          ],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Technical Writing: Technical Writing is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Technical Writing works and why it appears in real classroom and community situations. A strong understanding of Technical Writing requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Technical Writing.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Technical Writing.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Technical Writing and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Technical Writing and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Technical Writing and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Technical Writing and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Technical Writing."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Technical Writing.",
+        "items": [
+          "Identify how topic is defined in Technical Writing.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Technical Writing matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Technical Writing.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Technical Writing matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Technical Writing?",
+          "choices": [
+            "It gives a clear explanation of Technical Writing and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Technical Writing and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Technical Writing with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Technical Writing?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Technical Writing?",
+          "choices": [
+            "An example directly tied to Technical Writing and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Technical Writing and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Technical Writing?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Technical Writing.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 english.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=vT5pcc30Ffw",
+        "title": "Technical Writing Course for Beginners",
+        "keywords": [
+          "technical",
+          "writing"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "critical-review-writing",
+      "title": "Critical Review Writing",
+      "description": "Learn Critical Review Writing with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Critical Review Writing",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Critical Review Writing for Grade 10 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Critical Review Writing is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Critical Review Writing works and why it appears in real classroom and community situations.\n\nA strong understanding of Critical Review Writing requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nCritical Review Writing matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Critical Review Writing: Critical Review Writing is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Critical Review Writing works and why it appears in real classroom and community situations. A strong understanding of Critical Review Writing requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Critical Review Writing.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Critical Review Writing.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Critical Review Writing and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Critical Review Writing and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Critical Review Writing and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Critical Review Writing and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Critical Review Writing."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Critical Review Writing concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Critical Review Writing definition",
+            "answer": "Core explanation that shows the lesson topic with reading."
+          },
+          {
+            "term": "strategy steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Critical Review Writing",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Critical Review Writing?",
+          "choices": [
+            "It gives a clear explanation of Critical Review Writing and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Critical Review Writing and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Critical Review Writing with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Critical Review Writing?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Critical Review Writing?",
+          "choices": [
+            "An example directly tied to Critical Review Writing and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Critical Review Writing and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Critical Review Writing?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Critical Review Writing?",
+          "choices": [
+            "Answers in Critical Review Writing should include evidence and explanation..",
+            "The statement about Critical Review Writing is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Critical Review Writing should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "critical",
+          "review",
+          "writing"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "presentation-of-research-findings",
+      "title": "Presentation of Research Findings",
+      "description": "Learn Presentation of Research Findings with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Presentation of Research Findings",
+        "Apply strategy with clear reading support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson explores Presentation of Research Findings for Grade 10 English."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Presentation of Research Findings is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Presentation of Research Findings works and why it appears in real classroom and community situations.\n\nA strong understanding of Presentation of Research Findings requires explicit strategy and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nPresentation of Research Findings matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces reading based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+            "transcript": "Narration for Presentation of Research Findings: Presentation of Research Findings is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Presentation of Research Findings works and why it appears in real classroom and community situations. A strong understanding of Presentation of Research Findings requires explicit strategy and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Presentation of Research Findings.",
+          "animation": "sentence_highlight",
+          "animationLabels": [
+            "Main Idea",
+            "Detail",
+            "Inference",
+            "Tone"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Presentation of Research Findings.",
+            "Explain the strategy used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Idea",
+              "meaning": "Key term connected to Presentation of Research Findings and definition."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Presentation of Research Findings and strategy."
+            },
+            {
+              "word": "Structure",
+              "meaning": "Key term connected to Presentation of Research Findings and example."
+            },
+            {
+              "word": "Purpose",
+              "meaning": "Key term connected to Presentation of Research Findings and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, strategy, example, and importance in Presentation of Research Findings."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Presentation of Research Findings.",
+        "items": [
+          "Identify how topic is defined in Presentation of Research Findings.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Presentation of Research Findings matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Presentation of Research Findings.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Presentation of Research Findings matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Presentation of Research Findings?",
+          "choices": [
+            "It gives a clear explanation of Presentation of Research Findings and uses reading based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Presentation of Research Findings and uses reading based reasoning.",
+          "explanation": "The correct answer clearly explains Presentation of Research Findings with reading support."
+        },
+        {
+          "question": "What is the purpose of strategy in Presentation of Research Findings?",
+          "choices": [
+            "To organize understanding and apply reading with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply reading with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Presentation of Research Findings?",
+          "choices": [
+            "An example directly tied to Presentation of Research Findings and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Presentation of Research Findings and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Presentation of Research Findings?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Presentation of Research Findings.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 english.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "presentation",
+          "research",
+          "findings"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

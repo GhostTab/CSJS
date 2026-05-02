@@ -1,0 +1,978 @@
+{
+  "grade": 10,
+  "subject": "Filipino",
+  "subjectId": "filipino",
+  "lessons": [
+    {
+      "id": "el-filibusterismo-suliranin",
+      "title": "El Filibusterismo: Suliranin",
+      "description": "Learn El Filibusterismo: Suliranin with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa El Filibusterismo: Suliranin",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang El Filibusterismo: Suliranin para sa Grade 10."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang El Filibusterismo ay nobela ni Jose Rizal na nagpapakita ng mas madilim na larawan ng lipunan sa ilalim ng kolonyal na pamamahala. Ang suliranin sa akda ay umiikot sa pang-aabuso, katiwalian, kawalan ng katarungan, at galit na bunga ng matagal na paghihirap.\n\nHalimbawa, ipinapakita ni Simoun ang taong naghahangad ng paghihiganti dahil sa kabiguang makamit ang katarungan. Makikita rin sa kalagayan ng mga mag-aaral, mamamayan, at makapangyarihan ang mga suliraning panlipunan na humahadlang sa tunay na pagbabago.\n\nMahalaga ang pag-aaral sa suliranin ng El Filibusterismo dahil tinutulungan tayong suriin ang dahilan at bunga ng pang-aapi. Ipinapaalala rin nito na ang pagbabago ay kailangang nakabatay sa katarungan, pananagutan, at malasakit sa kapwa.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for El Filibusterismo: Suliranin: Ang El Filibusterismo ay nobela ni Jose Rizal na nagpapakita ng mas madilim na larawan ng lipunan sa ilalim ng kolonyal na pamamahala. Ang suliranin sa akda ay umiikot sa pang-aabuso, katiwalian, kawalan ng katarungan, at galit na bunga ng matagal na paghihirap. Halimbawa, ipinapakita ni Simoun ang taong naghahangad ng paghihiganti dahil sa kabiguang makamit ang katarungan."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for El Filibusterismo: Suliranin.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa El Filibusterismo: Suliranin.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on El Filibusterismo: Suliranin covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang suliranin sa El Filibusterismo sa paliwanag.",
+        "items": [
+          {
+            "term": "Pang-aabuso",
+            "answer": "Pagmamalabis ng may kapangyarihan."
+          },
+          {
+            "term": "Katiwalian",
+            "answer": "Maling gawain sa sistema o pamahalaan."
+          },
+          {
+            "term": "Simoun",
+            "answer": "Tauhang naghahangad ng paghihiganti dahil sa kabiguang makamit ang katarungan."
+          },
+          {
+            "term": "Pagbabago",
+            "answer": "Dapat nakabatay sa katarungan, pananagutan, at malasakit."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang suliraning umiikot sa El Filibusterismo?",
+          "choices": [
+            "Pang-aabuso, katiwalian, kawalan ng katarungan, at galit mula sa paghihirap",
+            "Pag-aaral ng bahagi ng pananalita",
+            "Pagbilang ng bola",
+            "Paglalarawan ng planeta lamang"
+          ],
+          "answer": "Pang-aabuso, katiwalian, kawalan ng katarungan, at galit mula sa paghihirap",
+          "explanation": "Ito ang mga suliraning binigyang-diin sa aralin."
+        },
+        {
+          "question": "Ano ang ipinapakita ni Simoun?",
+          "choices": [
+            "Paghihiganti dahil sa kabiguang makamit ang katarungan",
+            "Pagiging payapa sa lahat ng mali",
+            "Pagiging bata sa paaralan",
+            "Pag-iwas sa suliranin"
+          ],
+          "answer": "Paghihiganti dahil sa kabiguang makamit ang katarungan",
+          "explanation": "Si Simoun ay simbolo ng galit at paghihiganti."
+        },
+        {
+          "question": "Aling pangkat ang nagpapakita ng suliraning panlipunan sa akda?",
+          "choices": [
+            "Mga mag-aaral, mamamayan, at makapangyarihan",
+            "Mga hayop sa gubat lamang",
+            "Mga numero sa equation",
+            "Mga bahagi ng spectrum"
+          ],
+          "answer": "Mga mag-aaral, mamamayan, at makapangyarihan",
+          "explanation": "Ipinakita sa kanila ang iba-ibang epekto ng sistema."
+        },
+        {
+          "question": "Ano ang kailangang batayan ng pagbabago ayon sa aralin?",
+          "choices": [
+            "Katarungan, pananagutan, at malasakit sa kapwa",
+            "Paghihiganti lamang",
+            "Katahimikan kahit may mali",
+            "Paglimot sa lipunan"
+          ],
+          "answer": "Katarungan, pananagutan, at malasakit sa kapwa",
+          "explanation": "Ang tunay na pagbabago ay hindi lamang galit o paghihiganti."
+        },
+        {
+          "question": "Bakit pinag-aaralan ang suliranin ng El Filibusterismo?",
+          "choices": [
+            "Upang suriin ang dahilan at bunga ng pang-aapi",
+            "Upang kalimutan ang kasaysayan",
+            "Upang hindi na magtanong",
+            "Upang alisin ang katarungan"
+          ],
+          "answer": "Upang suriin ang dahilan at bunga ng pang-aapi",
+          "explanation": "Tinutulungan tayo ng akda na unawain ang mga sanhi at bunga ng suliranin."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 Filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "filibusterismo",
+          "suliranin"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pananaliksik",
+      "title": "Pananaliksik",
+      "description": "Learn Pananaliksik with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa Pananaliksik",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pananaliksik para sa Grade 10."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang pananaliksik ay maingat at sistematikong pag-aaral upang makasagot sa isang tanong o suliranin. Gumagamit ito ng datos, sanggunian, pagsusuri, at malinaw na paliwanag. Hindi sapat ang hula o personal na opinyon; kailangan ang ebidensya.\n\nSa pananaliksik, nagsisimula ang mag-aaral sa pagpili ng paksa at pagbuo ng suliranin. Pagkatapos, naghahanap ng mapagkakatiwalaang sanggunian, nangangalap ng datos, nagsusuri ng impormasyon, at sumusulat ng resulta o konklusyon.\n\nMahalaga ang pananaliksik dahil tinuturuan tayo nitong mag-isip nang kritikal at responsable. Nagagamit ito sa paaralan, pamayanan, trabaho, at sa pag-unawa sa mga isyung nangangailangan ng ebidensya bago gumawa ng pasya.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Pananaliksik: Ang pananaliksik ay maingat at sistematikong pag-aaral upang makasagot sa isang tanong o suliranin. Gumagamit ito ng datos, sanggunian, pagsusuri, at malinaw na paliwanag. Hindi sapat ang hula o personal na opinyon; kailangan ang ebidensya."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pananaliksik.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa Pananaliksik.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Pananaliksik covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Pananaliksik.",
+        "items": [
+          "Identify how maingat is defined in Pananaliksik.",
+          "Describe the key sistematikong step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the upang based reason why Pananaliksik matters."
+        ],
+        "correctOrder": [
+          "Identify how maingat is defined in Pananaliksik.",
+          "Describe the key sistematikong step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the upang based reason why Pananaliksik matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang pananaliksik?",
+          "choices": [
+            "Maingat at sistematikong pag-aaral upang makasagot sa tanong o suliranin",
+            "Paghula nang walang ebidensya",
+            "Pagsulat ng pamagat lamang",
+            "Pag-iwas sa impormasyon"
+          ],
+          "answer": "Maingat at sistematikong pag-aaral upang makasagot sa tanong o suliranin",
+          "explanation": "Ang pananaliksik ay gumagamit ng datos, sanggunian, at pagsusuri."
+        },
+        {
+          "question": "Ano ang unang ginagawa sa pananaliksik?",
+          "choices": [
+            "Pagpili ng paksa at pagbuo ng suliranin",
+            "Pagsulat agad ng konklusyon",
+            "Pag-iwas sa sanggunian",
+            "Pagbura ng datos"
+          ],
+          "answer": "Pagpili ng paksa at pagbuo ng suliranin",
+          "explanation": "Dito nagsisimula ang direksyon ng pag-aaral."
+        },
+        {
+          "question": "Bakit kailangan ang mapagkakatiwalaang sanggunian?",
+          "choices": [
+            "Upang magkaroon ng matibay na datos at ebidensya",
+            "Upang palitan ang ebidensya ng hula",
+            "Upang hindi na magsuri",
+            "Upang itago ang impormasyon"
+          ],
+          "answer": "Upang magkaroon ng matibay na datos at ebidensya",
+          "explanation": "Sanggunian ang pinagkukunan ng maaasahang impormasyon."
+        },
+        {
+          "question": "Ano ang ginagawa matapos mangalap ng datos?",
+          "choices": [
+            "Sinusuri ang impormasyon at sumusulat ng resulta o konklusyon",
+            "Itinatapon ang datos",
+            "Binabago ang paksa nang walang dahilan",
+            "Iniiwasan ang paliwanag"
+          ],
+          "answer": "Sinusuri ang impormasyon at sumusulat ng resulta o konklusyon",
+          "explanation": "Pagsusuri ang nag-uugnay ng datos sa sagot."
+        },
+        {
+          "question": "True or False: maingat is a key lesson concept in Pananaliksik.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies maingat as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 Filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "pananaliksik"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagsusuri-ng-kontemporaryong-isyu",
+      "title": "Pagsusuri ng Kontemporaryong Isyu",
+      "description": "Learn Pagsusuri ng Kontemporaryong Isyu with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagsusuri ng Kontemporaryong Isyu",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagsusuri ng Kontemporaryong Isyu para sa Grade 10."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagsusuri ng Kontemporaryong Isyu ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsusuri ng Kontemporaryong Isyu sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagsusuri ng Kontemporaryong Isyu, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagsusuri ng Kontemporaryong Isyu dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Pagsusuri ng Kontemporaryong Isyu: Pagsusuri ng Kontemporaryong Isyu ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsusuri ng Kontemporaryong Isyu sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagsusuri ng Kontemporaryong Isyu, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagsusuri ng Kontemporaryong Isyu.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagsusuri ng Kontemporaryong Isyu.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Kontemporaryong Isyu at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Kontemporaryong Isyu at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Kontemporaryong Isyu at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsusuri ng Kontemporaryong Isyu at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagsusuri ng Kontemporaryong Isyu."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Pagsusuri ng Kontemporaryong Isyu sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Pagsusuri ng Kontemporaryong Isyu",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagsusuri ng Kontemporaryong Isyu?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagsusuri ng Kontemporaryong Isyu at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagsusuri ng Kontemporaryong Isyu at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagsusuri ng Kontemporaryong Isyu at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagsusuri ng Kontemporaryong Isyu?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagsusuri ng Kontemporaryong Isyu?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagsusuri ng Kontemporaryong Isyu at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagsusuri ng Kontemporaryong Isyu at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagsusuri ng Kontemporaryong Isyu?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Pagsusuri ng Kontemporaryong Isyu ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=YUHSoKhli2k",
+        "title": "PAGSUSURI NG KONTEMPORARYONG ISYU I ARALING PANLIPUNAN I KONTEMPORARYONG ISYU",
+        "keywords": [
+          "pagsusuri",
+          "kontemporaryong",
+          "isyu"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "wikang-akademiko",
+      "title": "Wikang Akademiko",
+      "description": "Learn Wikang Akademiko with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Wikang Akademiko",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Wikang Akademiko para sa Grade 10."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Wikang Akademiko ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Wikang Akademiko sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Wikang Akademiko, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Wikang Akademiko dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Wikang Akademiko: Wikang Akademiko ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Wikang Akademiko sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Wikang Akademiko, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Wikang Akademiko.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Wikang Akademiko.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Akademiko at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Akademiko at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Akademiko at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Wikang Akademiko at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Wikang Akademiko."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Wikang Akademiko.",
+        "items": [
+          "Identify how mahalagang is defined in Wikang Akademiko.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Wikang Akademiko matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Wikang Akademiko.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Wikang Akademiko matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Wikang Akademiko?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Wikang Akademiko at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Wikang Akademiko at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Wikang Akademiko at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Wikang Akademiko?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Wikang Akademiko?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Wikang Akademiko at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Wikang Akademiko at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Wikang Akademiko?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Wikang Akademiko.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=83K-OjFvsDU",
+        "title": "wikang akademiko",
+        "keywords": [
+          "wikang",
+          "akademiko"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pananaliksik-na-nakabatay-sa-datos",
+      "title": "Pananaliksik na Nakabatay sa Datos",
+      "description": "Learn Pananaliksik na Nakabatay sa Datos with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pananaliksik na Nakabatay sa Datos",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pananaliksik na Nakabatay sa Datos para sa Grade 10."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pananaliksik na Nakabatay sa Datos ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pananaliksik na Nakabatay sa Datos sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pananaliksik na Nakabatay sa Datos, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pananaliksik na Nakabatay sa Datos dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Pananaliksik na Nakabatay sa Datos: Pananaliksik na Nakabatay sa Datos ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pananaliksik na Nakabatay sa Datos sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pananaliksik na Nakabatay sa Datos, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pananaliksik na Nakabatay sa Datos.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pananaliksik na Nakabatay sa Datos.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pananaliksik na Nakabatay sa Datos at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pananaliksik na Nakabatay sa Datos at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pananaliksik na Nakabatay sa Datos at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pananaliksik na Nakabatay sa Datos at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pananaliksik na Nakabatay sa Datos."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Pananaliksik na Nakabatay sa Datos sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Pananaliksik na Nakabatay sa Datos",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pananaliksik na Nakabatay sa Datos?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pananaliksik na Nakabatay sa Datos at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pananaliksik na Nakabatay sa Datos at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pananaliksik na Nakabatay sa Datos at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pananaliksik na Nakabatay sa Datos?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pananaliksik na Nakabatay sa Datos?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pananaliksik na Nakabatay sa Datos at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pananaliksik na Nakabatay sa Datos at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pananaliksik na Nakabatay sa Datos?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Pananaliksik na Nakabatay sa Datos ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "pananaliksik",
+          "nakabatay",
+          "datos"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagsulat-ng-position-paper",
+      "title": "Pagsulat ng Position Paper",
+      "description": "Learn Pagsulat ng Position Paper with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagsulat ng Position Paper",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagsulat ng Position Paper para sa Grade 10."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagsulat ng Position Paper ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsulat ng Position Paper sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagsulat ng Position Paper, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagsulat ng Position Paper dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+            "transcript": "Narration for Pagsulat ng Position Paper: Pagsulat ng Position Paper ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagsulat ng Position Paper sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagsulat ng Position Paper, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagsulat ng Position Paper.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagsulat ng Position Paper.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Position Paper at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Position Paper at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Position Paper at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagsulat ng Position Paper at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagsulat ng Position Paper."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Pagsulat ng Position Paper.",
+        "items": [
+          "Identify how mahalagang is defined in Pagsulat ng Position Paper.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Pagsulat ng Position Paper matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Pagsulat ng Position Paper.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Pagsulat ng Position Paper matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagsulat ng Position Paper?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagsulat ng Position Paper at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagsulat ng Position Paper at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagsulat ng Position Paper at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagsulat ng Position Paper?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagsulat ng Position Paper?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagsulat ng Position Paper at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagsulat ng Position Paper at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagsulat ng Position Paper?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Pagsulat ng Position Paper.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "pagsulat",
+          "position",
+          "paper"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "grade": 7,
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "lessons": [
+    {
+      "id": "integers-and-basic-operations",
+      "title": "Integers and Basic Operations",
+      "description": "Learn Integers and Basic Operations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Integers and Basic Operations",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Integers and Basic Operations for Grade 7 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Integers are whole numbers that can be positive, negative, or zero. Positive integers are greater than zero, negative integers are less than zero, and zero is neither positive nor negative. For example, 5 can represent gaining 5 points, while -5 can represent losing 5 points.\n\nBasic operations with integers follow clear rules. When adding numbers with the same sign, add their absolute values and keep the sign; for example, -3 + -4 = -7. When adding numbers with different signs, subtract the smaller absolute value from the larger one and keep the sign of the larger absolute value; for example, -8 + 3 = -5.\n\nIntegers matter because they describe real situations such as temperatures below zero, money owed, scores gained or lost, and movement forward or backward. Understanding the signs helps you choose the correct operation and explain why an answer is reasonable.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "transcript": "Narration for Integers and Basic Operations: Integers are whole numbers that can be positive, negative, or zero. Positive integers are greater than zero, negative integers are less than zero, and zero is neither positive nor negative. For example, 5 can represent gaining 5 points, while -5 can represent losing 5 points."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Integers and Basic Operations.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Integers and Basic Operations into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Integers and Basic Operations covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each integer concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Positive integer",
+            "answer": "A whole number greater than zero, such as 5."
+          },
+          {
+            "term": "Negative integer",
+            "answer": "A whole number less than zero, such as -5."
+          },
+          {
+            "term": "Same signs in addition",
+            "answer": "Add absolute values and keep the common sign."
+          },
+          {
+            "term": "Different signs in addition",
+            "answer": "Subtract absolute values and keep the sign of the larger absolute value."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which number is a negative integer?",
+          "choices": [
+            "-5",
+            "0.5",
+            "3/4",
+            "8.2"
+          ],
+          "answer": "-5",
+          "explanation": "A negative integer is a whole number less than zero."
+        },
+        {
+          "question": "What is the result of -3 + -4?",
+          "choices": [
+            "-7",
+            "7",
+            "1",
+            "-1"
+          ],
+          "answer": "-7",
+          "explanation": "The signs are the same, so add 3 and 4 and keep the negative sign."
+        },
+        {
+          "question": "What should you do when adding integers with different signs?",
+          "choices": [
+            "Subtract absolute values and keep the sign of the larger absolute value",
+            "Always add and make the answer positive",
+            "Ignore the signs",
+            "Always write zero"
+          ],
+          "answer": "Subtract absolute values and keep the sign of the larger absolute value",
+          "explanation": "Different signs require comparing absolute values before choosing the sign."
+        },
+        {
+          "question": "Which real-life situation can a negative integer represent?",
+          "choices": [
+            "Losing 5 points",
+            "Scoring 5 bonus points",
+            "Having 5 pencils",
+            "Walking 5 steps forward only"
+          ],
+          "answer": "Losing 5 points",
+          "explanation": "Negative integers can represent loss, debt, or movement backward."
+        },
+        {
+          "question": "Which statement is correct about Integers and Basic Operations?",
+          "choices": [
+            "Zero is neither positive nor negative..",
+            "The statement about Integers and Basic Operations is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Zero is neither positive nor negative..",
+          "explanation": "Zero is an integer, but it is not positive or negative."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 Mathematics.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "integers",
+          "basic",
+          "operations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "algebraic-expressions",
+      "title": "Algebraic Expressions",
+      "description": "Learn Algebraic Expressions with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Algebraic Expressions",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Algebraic Expressions for Grade 7 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Algebraic expressions are mathematical phrases that use numbers, variables, and operation symbols. A variable is a letter that stands for an unknown or changing value, such as x in 3x + 4. Unlike an equation, an expression does not have an equal sign and is not asking you to solve for one exact answer.\n\nParts of an algebraic expression have names. In 3x + 4, 3 is the coefficient, x is the variable, and 4 is a constant. If x = 2, then 3x + 4 means 3(2) + 4, which equals 10. Substitution helps you find the value of an expression for a given number.\n\nAlgebraic expressions are important because they turn patterns and word problems into math. For example, the phrase 'four more than three times a number' becomes 3x + 4, which is easier to evaluate, compare, or use in a larger problem.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Algebraic Expressions: Algebraic expressions are mathematical phrases that use numbers, variables, and operation symbols. A variable is a letter that stands for an unknown or changing value, such as x in 3x + 4. Unlike an equation, an expression does not have an equal sign and is not asking you to solve for one exact answer."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Algebraic Expressions.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Algebraic Expressions into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Algebraic Expressions covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Algebraic Expressions.",
+        "items": [
+          "Identify how mathematical is defined in Algebraic Expressions.",
+          "Describe the key phrases step taught in the discussion.",
+          "Apply numbers in a concrete situation from the lesson.",
+          "Explain the variables based reason why Algebraic Expressions matters."
+        ],
+        "correctOrder": [
+          "Identify how mathematical is defined in Algebraic Expressions.",
+          "Describe the key phrases step taught in the discussion.",
+          "Apply numbers in a concrete situation from the lesson.",
+          "Explain the variables based reason why Algebraic Expressions matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is an algebraic expression?",
+          "choices": [
+            "A mathematical phrase with numbers, variables, and operations",
+            "A sentence that always has an equal sign",
+            "A paragraph explaining a story",
+            "A drawing of a shape"
+          ],
+          "answer": "A mathematical phrase with numbers, variables, and operations",
+          "explanation": "An expression combines numbers, variables, and operations but does not need an equal sign."
+        },
+        {
+          "question": "In 3x + 4, what is the coefficient?",
+          "choices": [
+            "3",
+            "x",
+            "4",
+            "+"
+          ],
+          "answer": "3",
+          "explanation": "The coefficient is the number multiplied by the variable."
+        },
+        {
+          "question": "In 3x + 4, what is the constant?",
+          "choices": [
+            "4",
+            "3",
+            "x",
+            "3x"
+          ],
+          "answer": "4",
+          "explanation": "The constant is the number that does not change."
+        },
+        {
+          "question": "If x = 2, what is the value of 3x + 4?",
+          "choices": [
+            "10",
+            "9",
+            "6",
+            "5"
+          ],
+          "answer": "10",
+          "explanation": "Substitute 2 for x: 3(2) + 4 = 10."
+        },
+        {
+          "question": "True or False: mathematical is a key lesson concept in Algebraic Expressions.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mathematical as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 Mathematics.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aR6phzMLuKM",
+        "title": "Simplifying Algebraic Expressions With Parentheses & Variables - Combining Like Terms - Algebra",
+        "keywords": [
+          "algebraic",
+          "expressions"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "fractions-and-decimals",
+      "title": "Fractions and Decimals",
+      "description": "Learn Fractions and Decimals with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Fractions and Decimals",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Fractions and Decimals for Grade 7 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Fractions and Decimals is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Fractions and Decimals works and why it appears in real classroom and community situations.\n\nA strong understanding of Fractions and Decimals requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nFractions and Decimals matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Fractions and Decimals: Fractions and Decimals is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Fractions and Decimals works and why it appears in real classroom and community situations. A strong understanding of Fractions and Decimals requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Fractions and Decimals.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Fractions and Decimals.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Fractions and Decimals and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Fractions and Decimals and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Fractions and Decimals and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Fractions and Decimals and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Fractions and Decimals."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Fractions and Decimals concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Fractions and Decimals definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Fractions and Decimals",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Fractions and Decimals?",
+          "choices": [
+            "It gives a clear explanation of Fractions and Decimals and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Fractions and Decimals and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Fractions and Decimals with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Fractions and Decimals?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Fractions and Decimals?",
+          "choices": [
+            "An example directly tied to Fractions and Decimals and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Fractions and Decimals and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Fractions and Decimals?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Fractions and Decimals?",
+          "choices": [
+            "Answers in Fractions and Decimals should include evidence and explanation..",
+            "The statement about Fractions and Decimals is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Fractions and Decimals should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 math.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=SiQbegnH1NA",
+        "title": "Converting Between Fractions and Decimals | Fractions to Decimals | Decimals to Fractions",
+        "keywords": [
+          "fractions",
+          "decimals"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "ratios-and-proportions",
+      "title": "Ratios and Proportions",
+      "description": "Learn Ratios and Proportions with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Ratios and Proportions",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Ratios and Proportions for Grade 7 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ratios and Proportions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Ratios and Proportions works and why it appears in real classroom and community situations.\n\nA strong understanding of Ratios and Proportions requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nRatios and Proportions matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Ratios and Proportions: Ratios and Proportions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Ratios and Proportions works and why it appears in real classroom and community situations. A strong understanding of Ratios and Proportions requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Ratios and Proportions.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Ratios and Proportions.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Ratios and Proportions and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Ratios and Proportions and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Ratios and Proportions and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Ratios and Proportions and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Ratios and Proportions."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Ratios and Proportions.",
+        "items": [
+          "Identify how topic is defined in Ratios and Proportions.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Ratios and Proportions matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Ratios and Proportions.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Ratios and Proportions matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Ratios and Proportions?",
+          "choices": [
+            "It gives a clear explanation of Ratios and Proportions and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Ratios and Proportions and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Ratios and Proportions with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Ratios and Proportions?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Ratios and Proportions?",
+          "choices": [
+            "An example directly tied to Ratios and Proportions and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Ratios and Proportions and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Ratios and Proportions?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Ratios and Proportions.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "ratios",
+          "proportions"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "percent-and-discount-problems",
+      "title": "Percent and Discount Problems",
+      "description": "Learn Percent and Discount Problems with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Percent and Discount Problems",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Percent and Discount Problems for Grade 7 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Percent and Discount Problems is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Percent and Discount Problems works and why it appears in real classroom and community situations.\n\nA strong understanding of Percent and Discount Problems requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nPercent and Discount Problems matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Percent and Discount Problems: Percent and Discount Problems is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Percent and Discount Problems works and why it appears in real classroom and community situations. A strong understanding of Percent and Discount Problems requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Percent and Discount Problems.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Percent and Discount Problems.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Percent and Discount Problems and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Percent and Discount Problems and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Percent and Discount Problems and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Percent and Discount Problems and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Percent and Discount Problems."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Percent and Discount Problems concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Percent and Discount Problems definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Percent and Discount Problems",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Percent and Discount Problems?",
+          "choices": [
+            "It gives a clear explanation of Percent and Discount Problems and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Percent and Discount Problems and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Percent and Discount Problems with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Percent and Discount Problems?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Percent and Discount Problems?",
+          "choices": [
+            "An example directly tied to Percent and Discount Problems and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Percent and Discount Problems and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Percent and Discount Problems?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Percent and Discount Problems?",
+          "choices": [
+            "Answers in Percent and Discount Problems should include evidence and explanation..",
+            "The statement about Percent and Discount Problems is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Percent and Discount Problems should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "percent",
+          "discount",
+          "problems"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "basic-geometry-and-angles",
+      "title": "Basic Geometry and Angles",
+      "description": "Learn Basic Geometry and Angles with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Basic Geometry and Angles",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Basic Geometry and Angles for Grade 7 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Basic Geometry and Angles is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Basic Geometry and Angles works and why it appears in real classroom and community situations.\n\nA strong understanding of Basic Geometry and Angles requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nBasic Geometry and Angles matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Basic Geometry and Angles: Basic Geometry and Angles is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Basic Geometry and Angles works and why it appears in real classroom and community situations. A strong understanding of Basic Geometry and Angles requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Basic Geometry and Angles.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Basic Geometry and Angles.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Basic Geometry and Angles and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Basic Geometry and Angles and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Basic Geometry and Angles and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Basic Geometry and Angles and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Basic Geometry and Angles."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Basic Geometry and Angles.",
+        "items": [
+          "Identify how topic is defined in Basic Geometry and Angles.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Basic Geometry and Angles matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Basic Geometry and Angles.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Basic Geometry and Angles matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Basic Geometry and Angles?",
+          "choices": [
+            "It gives a clear explanation of Basic Geometry and Angles and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Basic Geometry and Angles and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Basic Geometry and Angles with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Basic Geometry and Angles?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Basic Geometry and Angles?",
+          "choices": [
+            "An example directly tied to Basic Geometry and Angles and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Basic Geometry and Angles and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Basic Geometry and Angles?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Basic Geometry and Angles.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "basic",
+          "geometry",
+          "angles"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

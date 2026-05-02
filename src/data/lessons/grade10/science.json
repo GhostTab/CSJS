@@ -1,0 +1,973 @@
+{
+  "grade": 10,
+  "subject": "Science",
+  "subjectId": "science",
+  "lessons": [
+    {
+      "id": "earthquakes-and-plate-tectonics",
+      "title": "Earthquakes and Plate Tectonics",
+      "description": "Learn Earthquakes and Plate Tectonics with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Earthquakes and Plate Tectonics",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Earthquakes and Plate Tectonics for Grade 10 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Earthquakes are sudden shaking movements of the ground caused by energy released inside Earth. Plate tectonics explains that Earth's outer shell is divided into plates that slowly move. When plates push, pull, slide, or get stuck, stress can build up and be released as an earthquake.\n\nPlate boundaries are common earthquake zones. At convergent boundaries, plates move toward each other; at divergent boundaries, they move apart; and at transform boundaries, they slide past each other. The focus is where the earthquake starts underground, while the epicenter is the point on Earth's surface above it.\n\nEarthquakes and plate tectonics matter because they help explain hazards and guide safety planning. Understanding plate movement helps communities prepare buildings, evacuation plans, and emergency responses in earthquake-prone areas.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Earthquakes and Plate Tectonics: Earthquakes are sudden shaking movements of the ground caused by energy released inside Earth. Plate tectonics explains that Earth's outer shell is divided into plates that slowly move. When plates push, pull, slide, or get stuck, stress can build up and be released as an earthquake."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Earthquakes and Plate Tectonics.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Earthquakes and Plate Tectonics.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Earthquakes and Plate Tectonics covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each earthquake and plate tectonics term with its explanation.",
+        "items": [
+          {
+            "term": "Earthquake",
+            "answer": "Sudden ground shaking caused by released energy inside Earth."
+          },
+          {
+            "term": "Plate tectonics",
+            "answer": "The idea that Earth outer shell is divided into moving plates."
+          },
+          {
+            "term": "Focus",
+            "answer": "The place underground where an earthquake starts."
+          },
+          {
+            "term": "Epicenter",
+            "answer": "The point on Earth surface above the focus."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What causes an earthquake?",
+          "choices": [
+            "Energy released inside Earth",
+            "A change in paragraph structure",
+            "Only ocean waves",
+            "A spelling error"
+          ],
+          "answer": "Energy released inside Earth",
+          "explanation": "Stress in Earth can release energy as shaking."
+        },
+        {
+          "question": "What does plate tectonics explain?",
+          "choices": [
+            "Earth outer shell is divided into slowly moving plates",
+            "All rocks are soft",
+            "The Moon phases only",
+            "How to write an essay"
+          ],
+          "answer": "Earth outer shell is divided into slowly moving plates",
+          "explanation": "Plate motion explains many earthquakes."
+        },
+        {
+          "question": "Which boundary has plates sliding past each other?",
+          "choices": [
+            "Transform boundary",
+            "Convergent boundary",
+            "Divergent boundary",
+            "No boundary"
+          ],
+          "answer": "Transform boundary",
+          "explanation": "Transform plates slide sideways past each other."
+        },
+        {
+          "question": "What is the focus of an earthquake?",
+          "choices": [
+            "The underground starting point",
+            "The surface point above it",
+            "The safest building",
+            "The ocean surface only"
+          ],
+          "answer": "The underground starting point",
+          "explanation": "The focus is where the earthquake begins underground."
+        },
+        {
+          "question": "Why study earthquakes and plate tectonics?",
+          "choices": [
+            "To guide safety planning and hazard preparation",
+            "To ignore emergency responses",
+            "To stop all plate motion instantly",
+            "To avoid evidence"
+          ],
+          "answer": "To guide safety planning and hazard preparation",
+          "explanation": "Understanding hazards helps communities prepare."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 Science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "earthquakes",
+          "plate",
+          "tectonics"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "electromagnetic-spectrum",
+      "title": "Electromagnetic Spectrum",
+      "description": "Learn Electromagnetic Spectrum with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Electromagnetic Spectrum",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Electromagnetic Spectrum for Grade 10 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "The electromagnetic spectrum is the full range of electromagnetic waves. These waves carry energy and can travel through space. They include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.\n\nDifferent parts of the electromagnetic spectrum have different wavelengths, frequencies, and energy levels. Radio waves have long wavelengths and low energy, while gamma rays have short wavelengths and high energy. Visible light is only the small part that human eyes can detect.\n\nThe electromagnetic spectrum matters because it is used in communication, medicine, cooking, security, astronomy, and everyday technology. Phones, radios, microwave ovens, remote controls, X-ray machines, and sunlight all involve electromagnetic waves.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Electromagnetic Spectrum: The electromagnetic spectrum is the full range of electromagnetic waves. These waves carry energy and can travel through space. They include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Electromagnetic Spectrum.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Observe a scenario related to Electromagnetic Spectrum.",
+            "Compare outcomes and explain differences.",
+            "Support a claim with evidence."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Hypothesis",
+              "meaning": "Testable explanation based on observations."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Data supporting a claim."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Factor that can change."
+            },
+            {
+              "word": "System",
+              "meaning": "Set of interacting parts."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Electromagnetic Spectrum covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Electromagnetic Spectrum.",
+        "items": [
+          "Identify how range is defined in Electromagnetic Spectrum.",
+          "Describe the key waves step taught in the discussion.",
+          "Apply carry in a concrete situation from the lesson.",
+          "Explain the energy based reason why Electromagnetic Spectrum matters."
+        ],
+        "correctOrder": [
+          "Identify how range is defined in Electromagnetic Spectrum.",
+          "Describe the key waves step taught in the discussion.",
+          "Apply carry in a concrete situation from the lesson.",
+          "Explain the energy based reason why Electromagnetic Spectrum matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is the electromagnetic spectrum?",
+          "choices": [
+            "The full range of electromagnetic waves",
+            "Only visible colors",
+            "Only sound waves",
+            "Only earthquakes"
+          ],
+          "answer": "The full range of electromagnetic waves",
+          "explanation": "The spectrum includes many types of electromagnetic waves."
+        },
+        {
+          "question": "Which waves have long wavelengths and low energy?",
+          "choices": [
+            "Radio waves",
+            "Gamma rays",
+            "X-rays",
+            "Ultraviolet"
+          ],
+          "answer": "Radio waves",
+          "explanation": "Radio waves are at the long-wavelength, lower-energy end."
+        },
+        {
+          "question": "Which waves have short wavelengths and high energy?",
+          "choices": [
+            "Gamma rays",
+            "Radio waves",
+            "Microwaves",
+            "Infrared"
+          ],
+          "answer": "Gamma rays",
+          "explanation": "Gamma rays have very short wavelengths and high energy."
+        },
+        {
+          "question": "What is visible light?",
+          "choices": [
+            "The part human eyes can detect",
+            "All waves in space",
+            "Only microwaves",
+            "Only radio signals"
+          ],
+          "answer": "The part human eyes can detect",
+          "explanation": "Visible light is a small part of the electromagnetic spectrum."
+        },
+        {
+          "question": "True or False: range is a key lesson concept in Electromagnetic Spectrum.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies range as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 Science.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7F6fT5p5oFk",
+        "title": "What is the ELECTROMAGNETIC SPECTRUM",
+        "keywords": [
+          "electromagnetic",
+          "spectrum"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "dna-and-protein-synthesis",
+      "title": "DNA and Protein Synthesis",
+      "description": "Learn DNA and Protein Synthesis with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in DNA and Protein Synthesis",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces DNA and Protein Synthesis for Grade 10 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "DNA and Protein Synthesis is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how DNA and Protein Synthesis works and why it appears in real classroom and community situations.\n\nA strong understanding of DNA and Protein Synthesis requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nDNA and Protein Synthesis matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for DNA and Protein Synthesis: DNA and Protein Synthesis is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how DNA and Protein Synthesis works and why it appears in real classroom and community situations. A strong understanding of DNA and Protein Synthesis requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for DNA and Protein Synthesis.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in DNA and Protein Synthesis.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to DNA and Protein Synthesis and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to DNA and Protein Synthesis and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to DNA and Protein Synthesis and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to DNA and Protein Synthesis and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in DNA and Protein Synthesis."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each DNA and Protein Synthesis concept with the correct explanation.",
+        "items": [
+          {
+            "term": "DNA and Protein Synthesis concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of DNA and Protein Synthesis",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in DNA and Protein Synthesis?",
+          "choices": [
+            "It gives a clear explanation of DNA and Protein Synthesis and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of DNA and Protein Synthesis and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains DNA and Protein Synthesis with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in DNA and Protein Synthesis?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for DNA and Protein Synthesis?",
+          "choices": [
+            "An example directly tied to DNA and Protein Synthesis and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to DNA and Protein Synthesis and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in DNA and Protein Synthesis?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about DNA and Protein Synthesis?",
+          "choices": [
+            "Answers in DNA and Protein Synthesis should include evidence and explanation..",
+            "The statement about DNA and Protein Synthesis is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in DNA and Protein Synthesis should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "protein",
+          "synthesis"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "electric-circuits",
+      "title": "Electric Circuits",
+      "description": "Learn Electric Circuits with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Electric Circuits",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Electric Circuits for Grade 10 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Electric Circuits is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Electric Circuits works and why it appears in real classroom and community situations.\n\nA strong understanding of Electric Circuits requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nElectric Circuits matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Electric Circuits: Electric Circuits is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Electric Circuits works and why it appears in real classroom and community situations. A strong understanding of Electric Circuits requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Electric Circuits.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Electric Circuits.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Electric Circuits and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Electric Circuits and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Electric Circuits and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Electric Circuits and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Electric Circuits."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Electric Circuits.",
+        "items": [
+          "Identify how topic is defined in Electric Circuits.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Electric Circuits matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Electric Circuits.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Electric Circuits matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Electric Circuits?",
+          "choices": [
+            "It gives a clear explanation of Electric Circuits and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Electric Circuits and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Electric Circuits with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Electric Circuits?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Electric Circuits?",
+          "choices": [
+            "An example directly tied to Electric Circuits and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Electric Circuits and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Electric Circuits?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Electric Circuits.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "electric",
+          "circuits"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "climate-change-evidence",
+      "title": "Climate Change Evidence",
+      "description": "Learn Climate Change Evidence with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the concept in Climate Change Evidence",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Climate Change Evidence for Grade 10 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Climate Change Evidence is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Climate Change Evidence works and why it appears in real classroom and community situations.\n\nA strong understanding of Climate Change Evidence requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nClimate Change Evidence matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "transcript": "Narration for Climate Change Evidence: Climate Change Evidence is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Climate Change Evidence works and why it appears in real classroom and community situations. A strong understanding of Climate Change Evidence requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Climate Change Evidence.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Climate Change Evidence.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Climate Change Evidence and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Climate Change Evidence and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Climate Change Evidence and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Climate Change Evidence and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Climate Change Evidence."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Climate Change Evidence concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Climate Change Evidence concept",
+            "answer": "Core explanation that shows the lesson topic with evidence."
+          },
+          {
+            "term": "process steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "importance of Climate Change Evidence",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Climate Change Evidence?",
+          "choices": [
+            "It gives a clear explanation of Climate Change Evidence and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Climate Change Evidence and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Climate Change Evidence with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Climate Change Evidence?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Climate Change Evidence?",
+          "choices": [
+            "An example directly tied to Climate Change Evidence and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Climate Change Evidence and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Climate Change Evidence?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Climate Change Evidence?",
+          "choices": [
+            "Answers in Climate Change Evidence should include evidence and explanation..",
+            "The statement about Climate Change Evidence is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Climate Change Evidence should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "climate",
+          "change",
+          "evidence"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "nuclear-energy-and-radiation",
+      "title": "Nuclear Energy and Radiation",
+      "description": "Learn Nuclear Energy and Radiation with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the concept in Nuclear Energy and Radiation",
+        "Apply process with clear evidence support",
+        "Analyze a practical example of the lesson",
+        "Explain the importance with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson introduces Nuclear Energy and Radiation for Grade 10 Science."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Nuclear Energy and Radiation is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Nuclear Energy and Radiation works and why it appears in real classroom and community situations.\n\nA strong understanding of Nuclear Energy and Radiation requires explicit process and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nNuclear Energy and Radiation matters because it strengthens importance and helps students make justified decisions. This lesson also reinforces evidence based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+            "transcript": "Narration for Nuclear Energy and Radiation: Nuclear Energy and Radiation is an important topic because it builds a clear concept of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Nuclear Energy and Radiation works and why it appears in real classroom and community situations. A strong understanding of Nuclear Energy and Radiation requires explicit process and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Nuclear Energy and Radiation.",
+          "animation": "particles",
+          "animationLabels": [
+            "Observe",
+            "Test",
+            "Explain"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the concept shown in Nuclear Energy and Radiation.",
+            "Explain the process used in the discussion.",
+            "Explain one example and its importance."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Observation",
+              "meaning": "Key term connected to Nuclear Energy and Radiation and concept."
+            },
+            {
+              "word": "Evidence",
+              "meaning": "Key term connected to Nuclear Energy and Radiation and process."
+            },
+            {
+              "word": "System",
+              "meaning": "Key term connected to Nuclear Energy and Radiation and example."
+            },
+            {
+              "word": "Conclusion",
+              "meaning": "Key term connected to Nuclear Energy and Radiation and importance."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the concept, process, example, and importance in Nuclear Energy and Radiation."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Nuclear Energy and Radiation.",
+        "items": [
+          "Identify how topic is defined in Nuclear Energy and Radiation.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Nuclear Energy and Radiation matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Nuclear Energy and Radiation.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the concept based reason why Nuclear Energy and Radiation matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the concept in Nuclear Energy and Radiation?",
+          "choices": [
+            "It gives a clear explanation of Nuclear Energy and Radiation and uses evidence based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Nuclear Energy and Radiation and uses evidence based reasoning.",
+          "explanation": "The correct answer clearly explains Nuclear Energy and Radiation with evidence support."
+        },
+        {
+          "question": "What is the purpose of process in Nuclear Energy and Radiation?",
+          "choices": [
+            "To organize understanding and apply evidence with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply evidence with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Nuclear Energy and Radiation?",
+          "choices": [
+            "An example directly tied to Nuclear Energy and Radiation and its concept",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Nuclear Energy and Radiation and its concept",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is importance important in Nuclear Energy and Radiation?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Nuclear Energy and Radiation.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 10 science.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "nuclear",
+          "energy",
+          "radiation"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

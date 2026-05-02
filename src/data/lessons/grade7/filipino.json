@@ -1,0 +1,979 @@
+{
+  "grade": 7,
+  "subject": "Filipino",
+  "subjectId": "filipino",
+  "lessons": [
+    {
+      "id": "pangungusap-at-bahagi-nito",
+      "title": "Pangungusap at Bahagi Nito",
+      "description": "Learn Pangungusap at Bahagi Nito with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa Pangungusap at Bahagi Nito",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pangungusap at Bahagi Nito para sa Grade 7."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang pangungusap ay lipon ng mga salita na nagpapahayag ng buong diwa. May dalawang pangunahing bahagi ito: ang simuno at panaguri. Ang simuno ang pinag-uusapan sa pangungusap, samantalang ang panaguri ang nagsasabi ng tungkol sa simuno.\n\nHalimbawa, sa pangungusap na 'Ang mag-aaral ay nagbabasa sa silid-aklatan,' ang simuno ay 'Ang mag-aaral' at ang panaguri ay 'ay nagbabasa sa silid-aklatan.' Kumpleto ang diwa dahil malinaw kung sino ang pinag-uusapan at ano ang ginagawa niya.\n\nMahalaga ang pangungusap at bahagi nito dahil dito nabubuo ang malinaw na pakikipag-usap at pagsulat. Kapag alam mo ang simuno at panaguri, mas madali kang makabubuo ng tama at maayos na pangungusap.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "transcript": "Narration for Pangungusap at Bahagi Nito: Ang pangungusap ay lipon ng mga salita na nagpapahayag ng buong diwa. May dalawang pangunahing bahagi ito: ang simuno at panaguri. Ang simuno ang pinag-uusapan sa pangungusap, samantalang ang panaguri ang nagsasabi ng tungkol sa simuno."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pangungusap at Bahagi Nito.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa Pangungusap at Bahagi Nito.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Pangungusap at Bahagi Nito covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang bahagi ng pangungusap sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "Pangungusap",
+            "answer": "Lipon ng mga salita na nagpapahayag ng buong diwa."
+          },
+          {
+            "term": "Simuno",
+            "answer": "Ang pinag-uusapan sa pangungusap."
+          },
+          {
+            "term": "Panaguri",
+            "answer": "Ang nagsasabi tungkol sa simuno."
+          },
+          {
+            "term": "Buong diwa",
+            "answer": "Malinaw na kaisipang ipinahahayag ng pangungusap."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang pangungusap?",
+          "choices": [
+            "Lipon ng mga salita na nagpapahayag ng buong diwa",
+            "Listahan ng salita na walang kaisipan",
+            "Isang salita lamang palagi",
+            "Larawan ng tauhan"
+          ],
+          "answer": "Lipon ng mga salita na nagpapahayag ng buong diwa",
+          "explanation": "Ang pangungusap ay may kumpletong diwa."
+        },
+        {
+          "question": "Ano ang simuno?",
+          "choices": [
+            "Ang pinag-uusapan sa pangungusap",
+            "Ang nagsasabi tungkol sa simuno",
+            "Ang bantas sa dulo",
+            "Ang pamagat ng teksto"
+          ],
+          "answer": "Ang pinag-uusapan sa pangungusap",
+          "explanation": "Simuno ang paksa o pinag-uusapan."
+        },
+        {
+          "question": "Ano ang panaguri?",
+          "choices": [
+            "Ang nagsasabi tungkol sa simuno",
+            "Ang pangalan ng akda",
+            "Ang unang bantas",
+            "Ang bilang ng salita"
+          ],
+          "answer": "Ang nagsasabi tungkol sa simuno",
+          "explanation": "Panaguri ang nagbibigay impormasyon tungkol sa simuno."
+        },
+        {
+          "question": "Sa pangungusap na \"Ang mag-aaral ay nagbabasa sa silid-aklatan,\" alin ang simuno?",
+          "choices": [
+            "Ang mag-aaral",
+            "ay nagbabasa sa silid-aklatan",
+            "silid-aklatan",
+            "nagbabasa"
+          ],
+          "answer": "Ang mag-aaral",
+          "explanation": "Ang mag-aaral ang pinag-uusapan."
+        },
+        {
+          "question": "Bakit mahalagang alam ang simuno at panaguri?",
+          "choices": [
+            "Upang makabuo ng tama at malinaw na pangungusap",
+            "Upang alisin ang diwa",
+            "Upang hindi na magsulat",
+            "Upang gawing walang paksa ang pangungusap"
+          ],
+          "answer": "Upang makabuo ng tama at malinaw na pangungusap",
+          "explanation": "Nakakatulong ito sa maayos na pagsulat at pakikipag-usap."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 Filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "pangungusap",
+          "bahagi",
+          "simuno",
+          "panaguri"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "maikling-kuwento",
+      "title": "Maikling Kuwento",
+      "description": "Learn Maikling Kuwento with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang mahahalagang ideya sa Maikling Kuwento",
+        "Masuri ang mensahe at konteksto ng paksa",
+        "Makapagbigay ng halimbawa mula sa tunay na sitwasyon",
+        "Masagot ang mga tanong gamit ang malinaw na paliwanag"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Maikling Kuwento para sa Grade 7."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Ang maikling kuwento ay isang akdang pampanitikan na nagsasalaysay ng isang mahalagang pangyayari sa buhay ng tauhan. Karaniwan itong may tauhan, tagpuan, banghay, suliranin, kasukdulan, at wakas. Maikli ito ngunit may malinaw na mensahe o aral.\n\nHalimbawa, maaaring ang isang maikling kuwento ay tungkol sa batang natutong maging matapat matapos makapulot ng pitaka. Ang tauhan ay ang bata, ang suliranin ay kung ibabalik niya ang pitaka, at ang aral ay ang kahalagahan ng katapatan.\n\nMahalaga ang maikling kuwento dahil tinutulungan tayo nitong maunawaan ang damdamin, karanasan, at pagpapahalaga ng tao. Sa pagbabasa nito, natututo tayong magsuri ng mensahe at mag-ugnay ng aral sa tunay na buhay.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Maikling Kuwento: Ang maikling kuwento ay isang akdang pampanitikan na nagsasalaysay ng isang mahalagang pangyayari sa buhay ng tauhan. Karaniwan itong may tauhan, tagpuan, banghay, suliranin, kasukdulan, at wakas. Maikli ito ngunit may malinaw na mensahe o aral."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Maikling Kuwento.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Tauhan",
+            "Aral",
+            "Lipunan"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Tukuyin ang pangunahing ideya sa Maikling Kuwento.",
+            "Iugnay ang mensahe sa tunay na sitwasyon.",
+            "Magbigay ng ebidensya mula sa teksto."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Pangunahing ideya ng akda."
+            },
+            {
+              "word": "Nobela",
+              "meaning": "Mahabang akdang pampanitikan."
+            },
+            {
+              "word": "Kolonyalismo",
+              "meaning": "Pananakop ng isang bansa sa iba."
+            },
+            {
+              "word": "Kamalayang Panlipunan",
+              "meaning": "Pag-unawa sa kalagayan ng lipunan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Maikling Kuwento covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Maikling Kuwento.",
+        "items": [
+          "Identify how isang is defined in Maikling Kuwento.",
+          "Describe the key akdang step taught in the discussion.",
+          "Apply pampanitikan in a concrete situation from the lesson.",
+          "Explain the nagsasalaysay based reason why Maikling Kuwento matters."
+        ],
+        "correctOrder": [
+          "Identify how isang is defined in Maikling Kuwento.",
+          "Describe the key akdang step taught in the discussion.",
+          "Apply pampanitikan in a concrete situation from the lesson.",
+          "Explain the nagsasalaysay based reason why Maikling Kuwento matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Ano ang maikling kuwento?",
+          "choices": [
+            "Akdang nagsasalaysay ng isang mahalagang pangyayari sa buhay ng tauhan",
+            "Talaan ng numero",
+            "Uri ng talumpati lamang",
+            "Paliwanag sa equation"
+          ],
+          "answer": "Akdang nagsasalaysay ng isang mahalagang pangyayari sa buhay ng tauhan",
+          "explanation": "Ang maikling kuwento ay may pangyayari, tauhan, at mensahe."
+        },
+        {
+          "question": "Alin ang tumutukoy sa lugar at panahon ng kuwento?",
+          "choices": [
+            "Tagpuan",
+            "Tauhan",
+            "Banghay",
+            "Wakas"
+          ],
+          "answer": "Tagpuan",
+          "explanation": "Tagpuan ang lugar at panahon ng pangyayari."
+        },
+        {
+          "question": "Ano ang suliranin?",
+          "choices": [
+            "Problemang kinakaharap ng tauhan",
+            "Pangalan ng may-akda",
+            "Bilang ng talata",
+            "Uri ng bantas"
+          ],
+          "answer": "Problemang kinakaharap ng tauhan",
+          "explanation": "Suliranin ang hamon o problemang kailangang harapin."
+        },
+        {
+          "question": "Sa halimbawang batang nakapulot ng pitaka, ano ang aral?",
+          "choices": [
+            "Kahalagahan ng katapatan",
+            "Kahalagahan ng pagtakbo",
+            "Pag-iwas sa pagbabasa",
+            "Paglimot sa tauhan"
+          ],
+          "answer": "Kahalagahan ng katapatan",
+          "explanation": "Ang pagbabalik ng pitaka ay nagpapakita ng katapatan."
+        },
+        {
+          "question": "True or False: isang is a key lesson concept in Maikling Kuwento.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies isang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 Filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=J9IZA-lxPiw",
+        "title": "Ang Uwak at Ang Banga | Maikling Kuwento | Pabula",
+        "keywords": [
+          "maikling",
+          "kuwento"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "uri-ng-pangungusap",
+      "title": "Uri ng Pangungusap",
+      "description": "Learn Uri ng Pangungusap with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Uri ng Pangungusap",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Uri ng Pangungusap para sa Grade 7."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Uri ng Pangungusap ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Uri ng Pangungusap sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Uri ng Pangungusap, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Uri ng Pangungusap dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Uri ng Pangungusap: Uri ng Pangungusap ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Uri ng Pangungusap sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Uri ng Pangungusap, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Uri ng Pangungusap.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Uri ng Pangungusap.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Uri ng Pangungusap at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Uri ng Pangungusap at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Uri ng Pangungusap at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Uri ng Pangungusap at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Uri ng Pangungusap."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Uri ng Pangungusap sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Uri ng Pangungusap",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Uri ng Pangungusap?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Uri ng Pangungusap at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Uri ng Pangungusap at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Uri ng Pangungusap at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Uri ng Pangungusap?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Uri ng Pangungusap?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Uri ng Pangungusap at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Uri ng Pangungusap at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Uri ng Pangungusap?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Uri ng Pangungusap ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 filipino.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "pangungusap"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "elemento-ng-maikling-kuwento",
+      "title": "Elemento ng Maikling Kuwento",
+      "description": "Learn Elemento ng Maikling Kuwento with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Elemento ng Maikling Kuwento",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Elemento ng Maikling Kuwento para sa Grade 7."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Elemento ng Maikling Kuwento ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Elemento ng Maikling Kuwento sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Elemento ng Maikling Kuwento, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Elemento ng Maikling Kuwento dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Elemento ng Maikling Kuwento: Elemento ng Maikling Kuwento ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Elemento ng Maikling Kuwento sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Elemento ng Maikling Kuwento, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Elemento ng Maikling Kuwento.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Elemento ng Maikling Kuwento.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Maikling Kuwento at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Maikling Kuwento at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Maikling Kuwento at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Elemento ng Maikling Kuwento at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Elemento ng Maikling Kuwento."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Elemento ng Maikling Kuwento.",
+        "items": [
+          "Identify how mahalagang is defined in Elemento ng Maikling Kuwento.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Elemento ng Maikling Kuwento matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Elemento ng Maikling Kuwento.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Elemento ng Maikling Kuwento matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Elemento ng Maikling Kuwento?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Elemento ng Maikling Kuwento at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Elemento ng Maikling Kuwento at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Elemento ng Maikling Kuwento at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Elemento ng Maikling Kuwento?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Elemento ng Maikling Kuwento?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Elemento ng Maikling Kuwento at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Elemento ng Maikling Kuwento at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Elemento ng Maikling Kuwento?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Elemento ng Maikling Kuwento.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=r_rmcKPH2ZY",
+        "title": "Maikling Kuwento | Mga Elemento ng Maikling Kuwento | Filipino 9 | Teacher Scel",
+        "keywords": [
+          "elemento",
+          "maikling",
+          "kuwento"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "pagbuo-ng-talata",
+      "title": "Pagbuo ng Talata",
+      "description": "Learn Pagbuo ng Talata with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Pagbuo ng Talata",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Pagbuo ng Talata para sa Grade 7."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Pagbuo ng Talata ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagbuo ng Talata sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Pagbuo ng Talata, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Pagbuo ng Talata dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Pagbuo ng Talata: Pagbuo ng Talata ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Pagbuo ng Talata sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Pagbuo ng Talata, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Pagbuo ng Talata.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Pagbuo ng Talata.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagbuo ng Talata at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagbuo ng Talata at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Pagbuo ng Talata at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Pagbuo ng Talata at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Pagbuo ng Talata."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Itugma ang konsepto sa Pagbuo ng Talata sa tamang paliwanag.",
+        "items": [
+          {
+            "term": "kahulugan ng Pagbuo ng Talata",
+            "answer": "Pangunahing paliwanag na nagpapakita ng wika at paksa."
+          },
+          {
+            "term": "hakbang na hakbang",
+            "answer": "Serye ng malinaw na proseso para sa tamang pag-unawa."
+          },
+          {
+            "term": "halimbawa sa aralin",
+            "answer": "Konkretong sitwasyong nagpapakita ng konsepto."
+          },
+          {
+            "term": "kahalagahan ng paksa",
+            "answer": "Dahilan kung bakit mahalaga ang konsepto sa pagkatuto."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Pagbuo ng Talata?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Pagbuo ng Talata at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Pagbuo ng Talata at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Pagbuo ng Talata at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Pagbuo ng Talata?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Pagbuo ng Talata?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Pagbuo ng Talata at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Pagbuo ng Talata at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Pagbuo ng Talata?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "Tama o Mali: Ang sagot sa Pagbuo ng Talata ay dapat may ebidensya at paliwanag.",
+          "choices": [
+            "It is explained in the lesson discussion.",
+            "It is unrelated to the lesson.",
+            "It has no examples.",
+            "It should be guessed."
+          ],
+          "answer": "It is explained in the lesson discussion.",
+          "explanation": "Ang aralin ay nakatuon sa malinaw na pangangatwiran, hindi sa hula."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=OsAbeuC6p8A",
+        "title": "Transisyong Gramatikal sa Pagbuo ng Talata - FILIPINO 7 MATATAG",
+        "keywords": [
+          "pagbuo",
+          "talata"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "wastong-gamit-ng-wika",
+      "title": "Wastong Gamit ng Wika",
+      "description": "Learn Wastong Gamit ng Wika with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Maipaliwanag ang kahulugan ng Wastong Gamit ng Wika",
+        "Maisagawa ang hakbang gamit ang wastong wika",
+        "Makapagbigay ng halimbawa batay sa aralin",
+        "Masuri ang kahalagahan gamit ang ebidensya"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "Sa araling ito, tatalakayin ang Wastong Gamit ng Wika para sa Grade 7."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Wastong Gamit ng Wika ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Wastong Gamit ng Wika sa pag-unawa ng mag-aaral sa paksa at mensahe.\n\nSa paglinang ng Wastong Gamit ng Wika, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain. Halimbawa, ginagamit ang halimbawa upang makita kung paano naiaangkop ang kaalaman sa tunay na sitwasyon at kung bakit mahalaga ang maayos na paliwanag.\n\nMahalaga ang Wastong Gamit ng Wika dahil pinauunlad nito ang kahalagahan at kakayahang magsuri nang may ebidensya. Dahil dito, mas nagiging malinaw ang paggamit ng wika sa pagbasa, pagsulat, at pakikipagkomunikasyon.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Wastong Gamit ng Wika: Wastong Gamit ng Wika ay mahalagang paksa sa pag-aaral ng Filipino dahil malinaw nitong ipinapakita ang kahulugan at wastong paggamit ng wika sa konteksto. Sa bahaging ito, tatalakayin kung paano inuugnay ang Wastong Gamit ng Wika sa pag-unawa ng mag-aaral sa paksa at mensahe. Sa paglinang ng Wastong Gamit ng Wika, mahalaga ang hakbang upang maging sistematiko ang pag-iisip at pagsagot sa gawain."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Wastong Gamit ng Wika.",
+          "animation": "timeline",
+          "animationLabels": [
+            "Paksa",
+            "Elemento",
+            "Halimbawa",
+            "Aral"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Ipaliwanag the kahulugan shown in Wastong Gamit ng Wika.",
+            "Ipaliwanag the hakbang used in the discussion.",
+            "Ipaliwanag one halimbawa and its kahalagahan."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Paksa",
+              "meaning": "Mahalagang terminong kaugnay ng Wastong Gamit ng Wika at kahulugan."
+            },
+            {
+              "word": "Kahulugan",
+              "meaning": "Mahalagang terminong kaugnay ng Wastong Gamit ng Wika at hakbang."
+            },
+            {
+              "word": "Halimbawa",
+              "meaning": "Mahalagang terminong kaugnay ng Wastong Gamit ng Wika at halimbawa."
+            },
+            {
+              "word": "Kahalagahan",
+              "meaning": "Mahalagang terminong kaugnay ng Wastong Gamit ng Wika at kahalagahan."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "Binuod ng aralin ang kahulugan, hakbang, halimbawa, at kahalagahan sa Wastong Gamit ng Wika."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Wastong Gamit ng Wika.",
+        "items": [
+          "Identify how mahalagang is defined in Wastong Gamit ng Wika.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Wastong Gamit ng Wika matters."
+        ],
+        "correctOrder": [
+          "Identify how mahalagang is defined in Wastong Gamit ng Wika.",
+          "Describe the key paksa step taught in the discussion.",
+          "Apply aaral in a concrete situation from the lesson.",
+          "Explain the filipino based reason why Wastong Gamit ng Wika matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Alin ang tamang paglalarawan ng kahulugan sa araling Wastong Gamit ng Wika?",
+          "choices": [
+            "Ito ang malinaw na pagpapaliwanag ng Wastong Gamit ng Wika at paggamit ng wika.",
+            "Ito ay walang kaugnayan sa paksa at walang ebidensya.",
+            "Ito ay inuulit lang ang pamagat nang walang paliwanag.",
+            "Ito ay gumagamit ng hula at walang hakbang."
+          ],
+          "answer": "Ito ang malinaw na pagpapaliwanag ng Wastong Gamit ng Wika at paggamit ng wika.",
+          "explanation": "Ang tamang sagot ay may malinaw na paliwanag ng Wastong Gamit ng Wika at wika."
+        },
+        {
+          "question": "Ano ang layunin ng hakbang sa araling Wastong Gamit ng Wika?",
+          "choices": [
+            "Upang maging maayos ang pag-unawa at paggamit ng wika",
+            "Upang alisin ang ebidensya sa sagot",
+            "Upang manatiling pangkalahatan ang paliwanag",
+            "Upang hindi na magbigay ng halimbawa"
+          ],
+          "answer": "Upang maging maayos ang pag-unawa at paggamit ng wika",
+          "explanation": "Ang mga hakbang ay gabay para sa sistematikong pagkatuto."
+        },
+        {
+          "question": "Alin ang pinakamahusay na halimbawa para sa Wastong Gamit ng Wika?",
+          "choices": [
+            "Halimbawang direktang kaugnay ng Wastong Gamit ng Wika at kahulugan",
+            "Halimbawang walang ugnayan sa paksa",
+            "Pahayag na walang paliwanag",
+            "Sagot na puro hula"
+          ],
+          "answer": "Halimbawang direktang kaugnay ng Wastong Gamit ng Wika at kahulugan",
+          "explanation": "Ang tamang halimbawa ay dapat nakabatay sa itinuro sa talakayan."
+        },
+        {
+          "question": "Bakit mahalaga ang kahalagahan sa Wastong Gamit ng Wika?",
+          "choices": [
+            "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+            "Wala itong kinalaman sa paksa",
+            "Pinapalitan nito ang pangunahing ideya",
+            "Ginagawa nitong hulaan lang ang sagot"
+          ],
+          "answer": "Ito ang nagbibigay saysay sa aplikasyon ng aralin",
+          "explanation": "Ipinapakita ng kahalagahan kung bakit dapat matutuhan ang konsepto."
+        },
+        {
+          "question": "True or False: mahalagang is a key lesson concept in Wastong Gamit ng Wika.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies mahalagang as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 7 filipino.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=C7cxrVpxEmg",
+        "title": "KAKAYAHANG LINGGWISTIKO WASTONG GAMIT NG WIKA | FILIPINO | MAESTRA GUTIERREZ",
+        "keywords": [
+          "wastong",
+          "gamit",
+          "wika"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}

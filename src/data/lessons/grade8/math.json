@@ -1,0 +1,971 @@
+{
+  "grade": 8,
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "lessons": [
+    {
+      "id": "linear-equations",
+      "title": "Linear Equations",
+      "description": "Learn Linear Equations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "18 minutes",
+      "difficulty": "Easy",
+      "objectives": [
+        "Understand key ideas in Linear Equations",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Linear Equations for Grade 8 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Linear equations are equations where the variable has a highest power of 1, such as x + 5 = 12 or 2x - 3 = 9. The goal is to find the value of the variable that makes both sides equal. Whatever operation you do to one side of the equation must also be done to the other side.\n\nTo solve a linear equation, undo the operations around the variable. For example, in 2x - 3 = 9, add 3 to both sides to get 2x = 12, then divide both sides by 2 to get x = 6. Checking means substituting 6 back into the original equation: 2(6) - 3 = 9, so the solution is correct.\n\nLinear equations matter because they model unknown quantities in daily life, such as prices, distances, scores, and rates. They help you reason from known information to an unknown value instead of guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "transcript": "Narration for Linear Equations: Linear equations are equations where the variable has a highest power of 1, such as x + 5 = 12 or 2x - 3 = 9. The goal is to find the value of the variable that makes both sides equal. Whatever operation you do to one side of the equation must also be done to the other side."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Linear Equations.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Linear Equations into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Linear Equations covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each linear equation step or idea with its explanation.",
+        "items": [
+          {
+            "term": "Linear equation",
+            "answer": "An equation where the variable has a highest power of 1."
+          },
+          {
+            "term": "Inverse operation",
+            "answer": "An operation used to undo another operation around the variable."
+          },
+          {
+            "term": "Do both sides",
+            "answer": "Keep the equation balanced by applying the same operation to both sides."
+          },
+          {
+            "term": "Check the solution",
+            "answer": "Substitute the value back into the original equation."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which equation is linear?",
+          "choices": [
+            "2x - 3 = 9",
+            "x^2 + 1 = 5",
+            "1/x = 4",
+            "x^3 = 8"
+          ],
+          "answer": "2x - 3 = 9",
+          "explanation": "A linear equation has a variable with highest power 1."
+        },
+        {
+          "question": "What is the first step in solving 2x - 3 = 9?",
+          "choices": [
+            "Add 3 to both sides",
+            "Divide by 3",
+            "Subtract 9",
+            "Square both sides"
+          ],
+          "answer": "Add 3 to both sides",
+          "explanation": "Adding 3 undoes the -3 and keeps the equation balanced."
+        },
+        {
+          "question": "What is the solution of 2x - 3 = 9?",
+          "choices": [
+            "6",
+            "3",
+            "12",
+            "4"
+          ],
+          "answer": "6",
+          "explanation": "Add 3 to get 2x = 12, then divide by 2 to get x = 6."
+        },
+        {
+          "question": "Why must the same operation be done to both sides?",
+          "choices": [
+            "To keep both sides equal",
+            "To make the equation longer",
+            "To remove all numbers",
+            "To avoid using variables"
+          ],
+          "answer": "To keep both sides equal",
+          "explanation": "An equation stays balanced only when both sides are treated the same way."
+        },
+        {
+          "question": "Which statement is correct about Linear Equations?",
+          "choices": [
+            "Checking a solution means substituting it into the original equation..",
+            "The statement about Linear Equations is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Checking a solution means substituting it into the original equation..",
+          "explanation": "Substitution confirms whether the value makes both sides equal."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 Mathematics.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=IlSCU_4d4O4",
+        "title": "How to Solve Linear Equations in One Variable - Finding the Solution of an Equation",
+        "keywords": [
+          "linear",
+          "equations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "factoring-polynomials",
+      "title": "Factoring Polynomials",
+      "description": "Learn Factoring Polynomials with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand key ideas in Factoring Polynomials",
+        "Analyze topic-specific examples",
+        "Apply learning through the activity",
+        "Answer quiz items with evidence-based reasoning"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Factoring Polynomials for Grade 8 Mathematics."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Factoring polynomials means rewriting a polynomial as a product of simpler expressions. It is the reverse of multiplication. For example, 3x + 6 can be factored as 3(x + 2) because multiplying 3 by each term inside the parentheses gives back 3x + 6.\n\nA common first step is to look for the greatest common factor, or GCF. In 4x^2 + 8x, the GCF is 4x, so the factored form is 4x(x + 2). For trinomials like x^2 + 5x + 6, you can look for two numbers that multiply to 6 and add to 5; those numbers are 2 and 3, so the factors are (x + 2)(x + 3).\n\nFactoring polynomials matters because it makes expressions easier to simplify and equations easier to solve. It also reveals hidden structure, such as common factors and possible values that make an expression equal to zero.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "transcript": "Narration for Factoring Polynomials: Factoring polynomials means rewriting a polynomial as a product of simpler expressions. It is the reverse of multiplication. For example, 3x + 6 can be factored as 3(x + 2) because multiplying 3 by each term inside the parentheses gives back 3x + 6."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Factoring Polynomials.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Translate a word problem in Factoring Polynomials into a math form.",
+            "Solve using clear steps.",
+            "Check if the result satisfies the condition."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Expression",
+              "meaning": "Combination of numbers/symbols."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Statement that two expressions are equal."
+            },
+            {
+              "word": "Variable",
+              "meaning": "Symbol for unknown value."
+            },
+            {
+              "word": "Coefficient",
+              "meaning": "Numerical factor of a term."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson on Factoring Polynomials covered the key ideas, examples, activity, and quiz feedback."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Factoring Polynomials.",
+        "items": [
+          "Identify how rewriting is defined in Factoring Polynomials.",
+          "Describe the key polynomial step taught in the discussion.",
+          "Apply product in a concrete situation from the lesson.",
+          "Explain the simpler based reason why Factoring Polynomials matters."
+        ],
+        "correctOrder": [
+          "Identify how rewriting is defined in Factoring Polynomials.",
+          "Describe the key polynomial step taught in the discussion.",
+          "Apply product in a concrete situation from the lesson.",
+          "Explain the simpler based reason why Factoring Polynomials matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does factoring a polynomial mean?",
+          "choices": [
+            "Writing it as a product of simpler expressions",
+            "Adding all coefficients only",
+            "Changing every variable to zero",
+            "Drawing its graph only"
+          ],
+          "answer": "Writing it as a product of simpler expressions",
+          "explanation": "Factoring reverses multiplication by showing product form."
+        },
+        {
+          "question": "What is the GCF of 4x^2 + 8x?",
+          "choices": [
+            "4x",
+            "8x",
+            "x + 2",
+            "4x^2"
+          ],
+          "answer": "4x",
+          "explanation": "Both terms share 4 and x."
+        },
+        {
+          "question": "Which is the factored form of 3x + 6?",
+          "choices": [
+            "3(x + 2)",
+            "x(3 + 6)",
+            "6(x + 3)",
+            "3x(6)"
+          ],
+          "answer": "3(x + 2)",
+          "explanation": "Multiplying 3 by x + 2 gives 3x + 6."
+        },
+        {
+          "question": "Which two numbers multiply to 6 and add to 5?",
+          "choices": [
+            "2 and 3",
+            "1 and 6",
+            "-2 and -3",
+            "4 and 1"
+          ],
+          "answer": "2 and 3",
+          "explanation": "These numbers help factor x^2 + 5x + 6."
+        },
+        {
+          "question": "True or False: rewriting is a key lesson concept in Factoring Polynomials.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies rewriting as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 Mathematics.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=mXvt9OumKH8",
+        "title": "Factoring Polynomials - By GCF, AC Method, Grouping, Substitution, Sum & Difference of Cubes",
+        "keywords": [
+          "factoring",
+          "polynomials"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "systems-of-linear-equations",
+      "title": "Systems of Linear Equations",
+      "description": "Learn Systems of Linear Equations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Systems of Linear Equations",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Systems of Linear Equations for Grade 8 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Systems of Linear Equations is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Systems of Linear Equations works and why it appears in real classroom and community situations.\n\nA strong understanding of Systems of Linear Equations requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nSystems of Linear Equations matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "transcript": "Narration for Systems of Linear Equations: Systems of Linear Equations is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Systems of Linear Equations works and why it appears in real classroom and community situations. A strong understanding of Systems of Linear Equations requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Systems of Linear Equations.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Systems of Linear Equations.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Systems of Linear Equations and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Systems of Linear Equations and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Systems of Linear Equations and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Systems of Linear Equations and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Systems of Linear Equations."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Systems of Linear Equations concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Systems of Linear Equations definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Systems of Linear Equations",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Systems of Linear Equations?",
+          "choices": [
+            "It gives a clear explanation of Systems of Linear Equations and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Systems of Linear Equations and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Systems of Linear Equations with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Systems of Linear Equations?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Systems of Linear Equations?",
+          "choices": [
+            "An example directly tied to Systems of Linear Equations and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Systems of Linear Equations and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Systems of Linear Equations?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Systems of Linear Equations?",
+          "choices": [
+            "Answers in Systems of Linear Equations should include evidence and explanation..",
+            "The statement about Systems of Linear Equations is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Systems of Linear Equations should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 math.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=M7s0AMdYDQw",
+        "title": "ILLUSTRATING SYSTEMS OF LINEAR EQUATIONS IN TWO VARIABLES || GRADE 8 MATHEMATICS Q1",
+        "keywords": [
+          "systems",
+          "linear",
+          "equations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "rational-expressions",
+      "title": "Rational Expressions",
+      "description": "Learn Rational Expressions with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Rational Expressions",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Rational Expressions for Grade 8 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Rational Expressions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Rational Expressions works and why it appears in real classroom and community situations.\n\nA strong understanding of Rational Expressions requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nRational Expressions matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "transcript": "Narration for Rational Expressions: Rational Expressions is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Rational Expressions works and why it appears in real classroom and community situations. A strong understanding of Rational Expressions requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Rational Expressions.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Rational Expressions.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Rational Expressions and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Rational Expressions and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Rational Expressions and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Rational Expressions and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Rational Expressions."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Rational Expressions.",
+        "items": [
+          "Identify how topic is defined in Rational Expressions.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Rational Expressions matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Rational Expressions.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Rational Expressions matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Rational Expressions?",
+          "choices": [
+            "It gives a clear explanation of Rational Expressions and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Rational Expressions and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Rational Expressions with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Rational Expressions?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Rational Expressions?",
+          "choices": [
+            "An example directly tied to Rational Expressions and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Rational Expressions and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Rational Expressions?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Rational Expressions.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "rational",
+          "expressions"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "polynomials-and-operations",
+      "title": "Polynomials and Operations",
+      "description": "Learn Polynomials and Operations with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "20 minutes",
+      "difficulty": "Medium",
+      "objectives": [
+        "Understand the definition in Polynomials and Operations",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Polynomials and Operations for Grade 8 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Polynomials and Operations is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Polynomials and Operations works and why it appears in real classroom and community situations.\n\nA strong understanding of Polynomials and Operations requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nPolynomials and Operations matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "transcript": "Narration for Polynomials and Operations: Polynomials and Operations is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Polynomials and Operations works and why it appears in real classroom and community situations. A strong understanding of Polynomials and Operations requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Polynomials and Operations.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Polynomials and Operations.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Polynomials and Operations and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Polynomials and Operations and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Polynomials and Operations and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Polynomials and Operations and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Polynomials and Operations."
+        }
+      ],
+      "activity": {
+        "type": "matching",
+        "instruction": "Match each Polynomials and Operations concept with the correct explanation.",
+        "items": [
+          {
+            "term": "Polynomials and Operations definition",
+            "answer": "Core explanation that shows the lesson topic with equation."
+          },
+          {
+            "term": "steps steps",
+            "answer": "A clear sequence of processes for correct understanding."
+          },
+          {
+            "term": "example in the lesson",
+            "answer": "A concrete situation that demonstrates the concept."
+          },
+          {
+            "term": "application of Polynomials and Operations",
+            "answer": "Reason why the concept matters for learning decisions."
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Polynomials and Operations?",
+          "choices": [
+            "It gives a clear explanation of Polynomials and Operations and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Polynomials and Operations and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Polynomials and Operations with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Polynomials and Operations?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Polynomials and Operations?",
+          "choices": [
+            "An example directly tied to Polynomials and Operations and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Polynomials and Operations and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Polynomials and Operations?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "Which statement is correct about Polynomials and Operations?",
+          "choices": [
+            "Answers in Polynomials and Operations should include evidence and explanation..",
+            "The statement about Polynomials and Operations is not supported by the lesson discussion.",
+            "The lesson says this concept should be guessed without evidence.",
+            "The lesson says this concept is unrelated to the topic."
+          ],
+          "answer": "Answers in Polynomials and Operations should include evidence and explanation..",
+          "explanation": "The lesson expects explainable reasoning, not unsupported guesses."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "polynomials",
+          "operations"
+        ],
+        "source": "youtube-auto"
+      }
+    },
+    {
+      "id": "geometry-of-triangles",
+      "title": "Geometry of Triangles",
+      "description": "Learn Geometry of Triangles with focused discussion, examples, activity, and a 5-item quiz.",
+      "estimatedTime": "22 minutes",
+      "difficulty": "Hard",
+      "objectives": [
+        "Understand the definition in Geometry of Triangles",
+        "Apply steps with clear equation support",
+        "Analyze a practical example of the lesson",
+        "Explain the application with evidence"
+      ],
+      "sections": [
+        {
+          "type": "introduction",
+          "heading": "Introduction",
+          "content": "This lesson focuses on Geometry of Triangles for Grade 8 Math."
+        },
+        {
+          "type": "main_discussion",
+          "heading": "Main Discussion",
+          "content": "Geometry of Triangles is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Geometry of Triangles works and why it appears in real classroom and community situations.\n\nA strong understanding of Geometry of Triangles requires explicit steps and careful use of terms. For example, a focused example shows how the concept is applied, how reasoning is checked, and how mistakes can be corrected with evidence.\n\nGeometry of Triangles matters because it strengthens application and helps students make justified decisions. This lesson also reinforces equation based reasoning so learners can explain answers instead of relying on guessing.",
+          "images": [],
+          "audioNarration": {
+            "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "transcript": "Narration for Geometry of Triangles: Geometry of Triangles is an important topic because it builds a clear definition of the lesson ideas and connects them to academic tasks. In this discussion, students learn how Geometry of Triangles works and why it appears in real classroom and community situations. A strong understanding of Geometry of Triangles requires explicit steps and careful use of terms."
+          }
+        },
+        {
+          "type": "animated_explanation",
+          "heading": "Visual/Animated Explanation",
+          "content": "Visual guide for Geometry of Triangles.",
+          "animation": "math_steps",
+          "animationLabels": [
+            "Given",
+            "Operation",
+            "Result"
+          ]
+        },
+        {
+          "type": "guided_examples",
+          "heading": "Guided Examples",
+          "items": [
+            "Explain the definition shown in Geometry of Triangles.",
+            "Explain the steps used in the discussion.",
+            "Explain one example and its application."
+          ]
+        },
+        {
+          "type": "key_terms",
+          "heading": "Key Terms",
+          "terms": [
+            {
+              "word": "Variable",
+              "meaning": "Key term connected to Geometry of Triangles and definition."
+            },
+            {
+              "word": "Expression",
+              "meaning": "Key term connected to Geometry of Triangles and steps."
+            },
+            {
+              "word": "Equation",
+              "meaning": "Key term connected to Geometry of Triangles and example."
+            },
+            {
+              "word": "Solution",
+              "meaning": "Key term connected to Geometry of Triangles and application."
+            }
+          ]
+        },
+        {
+          "type": "summary",
+          "heading": "Summary",
+          "content": "This lesson summarized the definition, steps, example, and application in Geometry of Triangles."
+        }
+      ],
+      "activity": {
+        "type": "sequence",
+        "instruction": "Arrange the learning flow for Geometry of Triangles.",
+        "items": [
+          "Identify how topic is defined in Geometry of Triangles.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Geometry of Triangles matters."
+        ],
+        "correctOrder": [
+          "Identify how topic is defined in Geometry of Triangles.",
+          "Describe the key builds step taught in the discussion.",
+          "Apply clear in a concrete situation from the lesson.",
+          "Explain the definition based reason why Geometry of Triangles matters."
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which statement best describes the definition in Geometry of Triangles?",
+          "choices": [
+            "It gives a clear explanation of Geometry of Triangles and uses equation based reasoning.",
+            "It is unrelated to the topic and provides no evidence.",
+            "It only repeats the title without explanation.",
+            "It relies on guessing without clear steps."
+          ],
+          "answer": "It gives a clear explanation of Geometry of Triangles and uses equation based reasoning.",
+          "explanation": "The correct answer clearly explains Geometry of Triangles with equation support."
+        },
+        {
+          "question": "What is the purpose of steps in Geometry of Triangles?",
+          "choices": [
+            "To organize understanding and apply equation with clarity",
+            "To remove evidence from answers",
+            "To keep explanations generic",
+            "To avoid concrete examples"
+          ],
+          "answer": "To organize understanding and apply equation with clarity",
+          "explanation": "Structured steps support systematic and explainable learning."
+        },
+        {
+          "question": "Which is the best example for Geometry of Triangles?",
+          "choices": [
+            "An example directly tied to Geometry of Triangles and its definition",
+            "An example unrelated to the topic",
+            "A statement without explanation",
+            "A guess without reasoning"
+          ],
+          "answer": "An example directly tied to Geometry of Triangles and its definition",
+          "explanation": "A valid example must come from concepts taught in the discussion."
+        },
+        {
+          "question": "Why is application important in Geometry of Triangles?",
+          "choices": [
+            "It gives meaning to how the lesson is applied",
+            "It has no connection to the topic",
+            "It replaces the core lesson idea",
+            "It turns answers into pure guessing"
+          ],
+          "answer": "It gives meaning to how the lesson is applied",
+          "explanation": "Importance explains why the concept should be learned and applied."
+        },
+        {
+          "question": "True or False: topic is a key lesson concept in Geometry of Triangles.",
+          "type": "true_false",
+          "answer": "True",
+          "explanation": "The discussion identifies topic as part of the lesson understanding."
+        }
+      ],
+      "depedNote": "Sample content inspired by selected DepEd competencies for Grade 8 math.",
+      "video": {
+        "url": "",
+        "title": "",
+        "keywords": [
+          "geometry",
+          "triangles"
+        ],
+        "source": "youtube-auto"
+      }
+    }
+  ]
+}
