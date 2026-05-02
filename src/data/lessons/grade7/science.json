@@ -166,7 +166,8 @@
           "matter",
           "properties"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -328,7 +329,8 @@
           "scientific",
           "investigation"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -494,7 +496,8 @@
           "cells",
           "organization"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -650,7 +653,8 @@
           "animal",
           "adaptations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -823,7 +827,8 @@
           "heat",
           "transfer"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -979,7 +984,8 @@
           "climate",
           "basics"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

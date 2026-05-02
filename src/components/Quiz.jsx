@@ -166,7 +166,7 @@ export default function Quiz({ questions, onFinish }) {
         <div className="mt-6 flex justify-center gap-3">
           <button
             onClick={handleRetry}
-            className="flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-sm font-semibold text-slate-700 transition-colors hover:border-slate-300 hover:bg-slate-50"
+            className="flex items-center gap-2 rounded-md border border-neutral-300 bg-white px-4 py-2.5 text-sm font-semibold text-neutral-800 shadow-sm transition-colors hover:bg-neutral-50"
           >
             <RotateCcw className="h-4 w-4" />
             Try Again
@@ -211,10 +211,10 @@ export default function Quiz({ questions, onFinish }) {
 
   return (
     <div>
-      <div className="mb-6 flex items-center justify-between">
+      <div className="mb-6 flex items-center justify-between border-b border-neutral-200 pb-4">
         <div>
-          <h3 className="text-lg font-bold text-slate-800">Knowledge Check</h3>
-          <p className="text-sm text-slate-500">
+          <h3 className="text-lg font-bold text-neutral-900">Knowledge Check</h3>
+          <p className="text-sm text-neutral-600">
             Question {currentIndex + 1} of {questions.length}
           </p>
         </div>
@@ -226,17 +226,17 @@ export default function Quiz({ questions, onFinish }) {
       </div>
 
       {/* Progress Bar */}
-      <div className="mb-6 h-2 overflow-hidden rounded-full bg-slate-200">
+      <div className="mb-6 h-2 overflow-hidden rounded-sm bg-neutral-200">
         <motion.div
           initial={{ width: 0 }}
           animate={{ width: `${((currentIndex + (showFeedback ? 1 : 0)) / questions.length) * 100}%` }}
-          className="h-full rounded-full bg-gradient-to-r from-blue-500 to-violet-500"
+          className="h-full rounded-sm bg-[#04aa6d]"
         />
       </div>
 
       {/* Question */}
       <div className="mb-6">
-        <h4 className="text-xl font-medium text-slate-800">{currentQuestion.question}</h4>
+        <h4 className="text-xl font-semibold leading-snug text-neutral-900">{currentQuestion.question}</h4>
       </div>
 
       {/* Options */}
@@ -245,7 +245,7 @@ export default function Quiz({ questions, onFinish }) {
           const isSelected = selectedAnswer === option
           const isCorrectAnswer = option === currentQuestion.answer
           
-          let buttonClass = 'border-slate-200 bg-white hover:border-blue-300 hover:bg-blue-50'
+          let buttonClass = 'border-neutral-200 bg-white hover:border-[#04aa6d]/40 hover:bg-[#e7f5ef]/50'
           
           if (showFeedback) {
             if (isCorrectAnswer) {
@@ -253,10 +253,10 @@ export default function Quiz({ questions, onFinish }) {
             } else if (isSelected) {
               buttonClass = 'border-rose-500 bg-rose-50'
             } else {
-              buttonClass = 'border-slate-200 bg-white opacity-60'
+              buttonClass = 'border-neutral-200 bg-white opacity-60'
             }
           } else if (isSelected) {
-            buttonClass = 'border-blue-500 bg-blue-50'
+            buttonClass = 'border-[#04aa6d] bg-[#e7f5ef]'
           }
 
           return (
@@ -264,16 +264,16 @@ export default function Quiz({ questions, onFinish }) {
               key={i}
               onClick={() => handleSelect(option)}
               disabled={showFeedback}
-              className={`flex w-full items-center gap-3 rounded-xl border-2 p-4 text-left transition-all ${buttonClass}`}
+              className={`flex w-full items-center gap-3 rounded-md border-2 p-4 text-left transition-all ${buttonClass}`}
             >
               <div className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 ${
                 isSelected && !showFeedback
-                  ? 'border-blue-500 bg-blue-500'
+                  ? 'border-[#04aa6d] bg-[#04aa6d]'
                   : showFeedback && isCorrectAnswer
                   ? 'border-emerald-500 bg-emerald-500'
                   : showFeedback && isSelected
                   ? 'border-rose-500 bg-rose-500'
-                  : 'border-slate-300'
+                  : 'border-neutral-300'
               }`}>
                 {(isSelected || (showFeedback && isCorrectAnswer)) && (
                   <div className="h-2.5 w-2.5 rounded-full bg-white" />
@@ -330,14 +330,14 @@ export default function Quiz({ questions, onFinish }) {
           <button
             onClick={handleCheck}
             disabled={!selectedAnswer}
-            className="w-full rounded-xl bg-blue-500 py-3 font-semibold text-white transition-colors hover:bg-blue-600 disabled:cursor-not-allowed disabled:opacity-50"
+            className="w-full rounded-md bg-[#04aa6d] py-3 font-semibold text-white shadow-sm transition-colors hover:bg-[#038857] disabled:cursor-not-allowed disabled:opacity-50"
           >
             Check Answer
           </button>
         ) : (
           <button
             onClick={handleNext}
-            className="flex w-full items-center justify-center gap-2 rounded-xl bg-blue-500 py-3 font-semibold text-white transition-colors hover:bg-blue-600"
+            className="flex w-full items-center justify-center gap-2 rounded-md bg-[#04aa6d] py-3 font-semibold text-white shadow-sm transition-colors hover:bg-[#038857]"
           >
             {currentIndex === questions.length - 1 ? 'Finish Quiz' : 'Next Question'}
             <ArrowRight className="h-4 w-4" />

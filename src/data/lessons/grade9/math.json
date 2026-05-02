@@ -166,7 +166,8 @@
           "quadratic",
           "equations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -320,7 +321,8 @@
         "keywords": [
           "variations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -486,7 +488,8 @@
           "quadratic",
           "functions"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -641,7 +644,8 @@
           "radical",
           "expressions"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -807,7 +811,8 @@
           "coordinate",
           "geometry"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -963,7 +968,8 @@
           "ratios",
           "basics"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

@@ -233,6 +233,7 @@ async function main() {
         if (best) {
           lesson.video.url = best.candidate.url
           lesson.video.title = best.candidate.title
+          lesson.video.approved = false
           changed = true
           console.log(`[video-auto] selected="${best.candidate.title}"`)
 
@@ -250,6 +251,7 @@ async function main() {
         } else {
           lesson.video.url = ''
           lesson.video.title = ''
+          lesson.video.approved = false
           changed = true
           console.log('[video-auto] rejected: no candidate passed validation')
           const top = evaluated[0]

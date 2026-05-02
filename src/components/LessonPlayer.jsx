@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { 
@@ -12,13 +12,21 @@ import {
   Lightbulb,
   PenTool,
   Image as ImageIcon,
-  Volume2,
   Video,
+  X,
 } from 'lucide-react'
 import AnimatedConcept from './AnimatedConcept'
 import Quiz from './Quiz'
 import { useProgress } from '../context/ProgressContext'
+import { useVideoReview } from '../context/VideoReviewContext'
 import { getLessonTeachingContentErrors } from '../data/lessonValidation'
+import LessonMediaReviewPanel from './LessonMediaReviewPanel'
+import {
+  isVideoApprovedForDisplay,
+  LESSON_OVERRIDES_EVENT,
+  mergeLessonWithLocalOverrides,
+} from '../utils/lessonMediaOverrides'
+import { getEmbeddableVideoUrl } from '../utils/videoEmbed'
 
 const sectionIcons = {
   'introduction': BookOpen,
@@ -43,81 +51,118 @@ function getContentParagraphs(content) {
     .filter(Boolean)
 }
 
-function getEmbeddableVideoUrl(src) {
-  try {
-    const url = new URL(src)
-    if (url.hostname.includes('youtube.com')) {
-      if (url.pathname.startsWith('/embed')) {
-        return src
-      }
-      const videoId = url.searchParams.get('v')
-      return videoId ? `https://www.youtube.com/embed/${videoId}` : null
-    }
-    if (url.hostname === 'youtu.be') {
-      const videoId = url.pathname.replace('/', '')
-      return videoId ? `https://www.youtube.com/embed/${videoId}` : null
-    }
-    if (url.hostname.includes('vimeo.com')) {
-      const videoId = url.pathname.split('/').filter(Boolean).pop()
-      return videoId ? `https://player.vimeo.com/video/${videoId}` : null
-    }
-  } catch {
-    return null
+/** Fisher–Yates shuffle (new array). */
+function shuffleArray(items) {
+  const arr = [...items]
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[arr[i], arr[j]] = [arr[j], arr[i]]
   }
-  return null
+  return arr
 }
 
 function LessonImageBlock({ images = [] }) {
-  if (!Array.isArray(images) || images.length === 0) return null
-  return (
-    <div className="space-y-3 rounded-xl border border-slate-200 bg-slate-50 p-4">
-      <h4 className="flex items-center gap-2 text-sm font-semibold text-slate-700">
-        <ImageIcon className="h-4 w-4 text-blue-600" />
-        Visual Learning Materials
-      </h4>
-      <div className="grid gap-3 sm:grid-cols-2">
-        {images.map((image, index) => (
-          <figure key={`${image.src}-${index}`} className="overflow-hidden rounded-lg border border-slate-200 bg-white">
-            <img src={image.src} alt={image.alt} className="h-40 w-full object-cover" loading="lazy" />
-            {image.caption && <figcaption className="p-3 text-xs text-slate-600">{image.caption}</figcaption>}
-          </figure>
-        ))}
-      </div>
-    </div>
-  )
-}
+  const [expandedIndex, setExpandedIndex] = useState(null)
 
-function LessonAudioBlock({ audioNarration }) {
-  const [hasAudioError, setHasAudioError] = useState(false)
-  if (!audioNarration?.src) {
-    return (
-      <div className="rounded-xl border border-dashed border-slate-300 bg-white p-4 text-sm text-slate-600">
-        No audio narration available for this section yet.
-      </div>
-    )
-  }
+  useEffect(() => {
+    if (expandedIndex === null) return undefined
+    const onKey = (e) => {
+      if (e.key === 'Escape') setExpandedIndex(null)
+    }
+    document.addEventListener('keydown', onKey)
+    const prevOverflow = document.body.style.overflow
+    document.body.style.overflow = 'hidden'
+    return () => {
+      document.removeEventListener('keydown', onKey)
+      document.body.style.overflow = prevOverflow
+    }
+  }, [expandedIndex])
+
+  if (!Array.isArray(images) || images.length === 0) return null
+
+  const expanded = expandedIndex !== null ? images[expandedIndex] : null
+
   return (
-    <div className="space-y-3 rounded-xl border border-slate-200 bg-slate-50 p-4">
-      <h4 className="flex items-center gap-2 text-sm font-semibold text-slate-700">
-        <Volume2 className="h-4 w-4 text-blue-600" />
-        Audio Narration
-      </h4>
-      <audio controls className="w-full" onError={() => setHasAudioError(true)}>
-        <source src={audioNarration.src} />
-        Your browser does not support audio playback.
-      </audio>
-      {hasAudioError && (
-        <p className="rounded-lg border border-amber-200 bg-amber-50 p-3 text-xs text-amber-800">
-          Audio source failed to load. Try again or use the transcript below.
-        </p>
-      )}
-      {audioNarration.transcript && (
-        <p className="rounded-lg bg-white p-3 text-xs leading-relaxed text-slate-600">
-          <span className="font-semibold text-slate-700">Transcript: </span>
-          {audioNarration.transcript}
-        </p>
-      )}
-    </div>
+    <>
+      <div className="space-y-3 rounded-xl border border-slate-200 bg-slate-50 p-4">
+        <h4 className="flex items-center gap-2 text-sm font-semibold text-slate-700">
+          <ImageIcon className="h-4 w-4 text-blue-600" />
+          Visual Learning Materials
+        </h4>
+        <p className="text-xs text-slate-500">Click an image to expand.</p>
+        <div className="grid gap-3 sm:grid-cols-2">
+          {images.map((image, index) => (
+            <figure
+              key={`${image.src}-${index}`}
+              className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm transition hover:ring-2 hover:ring-blue-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
+            >
+              <button
+                type="button"
+                className="group block w-full cursor-zoom-in text-left"
+                onClick={() => setExpandedIndex(index)}
+                aria-label={`Expand image: ${image.alt || 'lesson image'}`}
+              >
+                <img
+                  src={image.src}
+                  alt={image.alt || ''}
+                  className="h-40 w-full object-cover transition group-hover:opacity-95"
+                  loading="lazy"
+                />
+              </button>
+              {image.caption && (
+                <figcaption className="p-3 text-xs text-slate-600">{image.caption}</figcaption>
+              )}
+            </figure>
+          ))}
+        </div>
+      </div>
+
+      <AnimatePresence>
+        {expanded && (
+          <motion.div
+            key="image-lightbox"
+            role="dialog"
+            aria-modal="true"
+            aria-label="Expanded image"
+            className="fixed inset-0 z-[100] flex items-center justify-center bg-black/85 p-4 backdrop-blur-[2px]"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            onClick={() => setExpandedIndex(null)}
+          >
+            <motion.button
+              type="button"
+              className="absolute right-4 top-4 z-[101] rounded-full bg-white/15 p-2.5 text-white ring-1 ring-white/30 transition hover:bg-white/25"
+              aria-label="Close expanded image"
+              onClick={(e) => {
+                e.stopPropagation()
+                setExpandedIndex(null)
+              }}
+            >
+              <X className="h-6 w-6" />
+            </motion.button>
+            <motion.div
+              className="flex max-h-[92vh] max-w-[min(96vw,1200px)] flex-col items-center justify-center"
+              initial={{ scale: 0.94, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 0.94, opacity: 0 }}
+              transition={{ duration: 0.2 }}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <img
+                src={expanded.src}
+                alt={expanded.alt || ''}
+                className="max-h-[85vh] max-w-full rounded-lg object-contain shadow-2xl"
+              />
+              {expanded.caption && (
+                <p className="mt-4 max-w-2xl text-center text-sm text-white/95">{expanded.caption}</p>
+              )}
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </>
   )
 }
 
@@ -168,16 +213,21 @@ function LessonVideoBlock({ lesson }) {
   )
 }
 
-function MediaLearningHub({ lesson, section }) {
+function MediaLearningHub({ displayLesson, section }) {
   const images = Array.isArray(section?.images) ? section.images : []
   const hasImages = images.length > 0
-  const hasAudio = Boolean(section?.audioNarration?.src)
-  const hasVideo = Boolean(lesson?.video?.url)
+  const videoSrc = displayLesson?.video?.url
+  const hasStudentVideo =
+    Boolean(videoSrc && getEmbeddableVideoUrl(videoSrc)) &&
+    isVideoApprovedForDisplay(displayLesson.video)
+
+  if (!hasImages && !hasStudentVideo) {
+    return null
+  }
 
   const availableTabs = [
     hasImages ? 'visual' : null,
-    hasAudio ? 'audio' : null,
-    hasVideo ? 'video' : null,
+    hasStudentVideo ? 'video' : null,
   ].filter(Boolean)
 
   const defaultTab = availableTabs[0] || 'visual'
@@ -192,10 +242,7 @@ function MediaLearningHub({ lesson, section }) {
           <span className={`rounded-full px-2.5 py-1 ${hasImages ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-500'}`}>
             Visual
           </span>
-          <span className={`rounded-full px-2.5 py-1 ${hasAudio ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-500'}`}>
-            Audio
-          </span>
-          <span className={`rounded-full px-2.5 py-1 ${hasVideo ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-500'}`}>
+          <span className={`rounded-full px-2.5 py-1 ${hasStudentVideo ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-500'}`}>
             Video
           </span>
         </div>
@@ -204,13 +251,11 @@ function MediaLearningHub({ lesson, section }) {
       <div className="mb-4 inline-flex rounded-xl bg-slate-100 p-1">
         {[
           { id: 'visual', label: 'Visual' },
-          { id: 'audio', label: 'Audio' },
           { id: 'video', label: 'Video' },
         ].map((tab) => {
           const enabled =
             (tab.id === 'visual' && hasImages) ||
-            (tab.id === 'audio' && hasAudio) ||
-            (tab.id === 'video' && hasVideo)
+            (tab.id === 'video' && hasStudentVideo)
           return (
           <button
             key={tab.id}
@@ -232,8 +277,7 @@ function MediaLearningHub({ lesson, section }) {
 
       <div className="min-h-[120px]">
         {resolvedTab === 'visual' && <LessonImageBlock images={images} />}
-        {resolvedTab === 'audio' && <LessonAudioBlock audioNarration={section?.audioNarration} />}
-        {resolvedTab === 'video' && <LessonVideoBlock lesson={lesson} />}
+        {resolvedTab === 'video' && <LessonVideoBlock lesson={displayLesson} />}
       </div>
     </div>
   )
@@ -255,9 +299,40 @@ export default function LessonPlayer({
   const [showQuiz, setShowQuiz] = useState(false)
   const [completedLessonId, setCompletedLessonId] = useState(null)
   const { getLessonProgress } = useProgress()
+  const {
+    isReviewEnabled,
+    reviewMode,
+    approveVideo,
+    rejectVideo,
+    applyManualVideoUrl,
+    applySectionImages,
+    clearSectionImages,
+  } = useVideoReview()
+  const [approvalEpoch, setApprovalEpoch] = useState(0)
 
-  const sections = (lesson.sections || []).filter((section) => essentialSectionTypes.has(section.type))
-  const lessonContentIssues = getLessonTeachingContentErrors(lesson)
+  useEffect(() => {
+    const bump = () => setApprovalEpoch((n) => n + 1)
+    window.addEventListener(LESSON_OVERRIDES_EVENT, bump)
+    return () => window.removeEventListener(LESSON_OVERRIDES_EVENT, bump)
+  }, [])
+
+  const effectiveLesson = useMemo(
+    () => mergeLessonWithLocalOverrides(lesson, gradeId, subjectId),
+    [lesson, gradeId, subjectId, approvalEpoch],
+  )
+
+  /** Must use merged lesson so local image/video overrides appear in the hub and steps. */
+  const sections = (effectiveLesson.sections || []).filter((section) =>
+    essentialSectionTypes.has(section.type),
+  )
+  const lessonContentIssues = getLessonTeachingContentErrors(effectiveLesson)
+
+  const fileVideoUrl = String(lesson?.video?.url || '').trim()
+  const fileHasEmbeddableVideo = Boolean(fileVideoUrl && getEmbeddableVideoUrl(fileVideoUrl))
+  const showVideoUnavailableMessage =
+    fileHasEmbeddableVideo &&
+    !isVideoApprovedForDisplay(effectiveLesson.video) &&
+    !(isReviewEnabled && reviewMode)
   const hasCompleteLessonContent = lessonContentIssues.length === 0
   const lessonCompleted = completedLessonId === lesson.id || getLessonProgress(lesson.id)
   const totalSteps = Math.max(sections.length + (hasCompleteLessonContent ? 2 : 0), 1)
@@ -273,6 +348,8 @@ export default function LessonPlayer({
     lessonId: lesson?.id,
     lessonTitle: lesson?.title,
     videoUrl: lesson?.video?.url || '',
+    approvedFile: lesson?.video?.approved,
+    approvedEffective: effectiveLesson?.video?.approved,
   })
 
   const handleNext = () => {
@@ -390,6 +467,20 @@ export default function LessonPlayer({
       <div className="grid gap-6 lg:grid-cols-[1fr_380px]">
         {/* Left Column - Content */}
         <div className="space-y-4">
+          {isReviewEnabled && reviewMode && (
+            <LessonMediaReviewPanel
+              lessonStableKey={`${gradeId}-${subjectId}-${lesson.id}`}
+              gradeId={gradeId}
+              subjectId={subjectId}
+              lessonId={lesson.id}
+              effectiveLesson={effectiveLesson}
+              onApproveVideo={() => approveVideo(gradeId, subjectId, lesson.id, effectiveLesson.video)}
+              onRejectVideo={() => rejectVideo(gradeId, subjectId, lesson.id)}
+              onApplyManualVideo={(url, title) => applyManualVideoUrl(gradeId, subjectId, lesson.id, url, title)}
+              onApplySectionImages={applySectionImages}
+              onClearSectionImages={clearSectionImages}
+            />
+          )}
           <AnimatePresence mode="wait">
             {!showActivity && !showQuiz && (
               <motion.div
@@ -458,9 +549,15 @@ export default function LessonPlayer({
 
                     <MediaLearningHub
                       key={`${lesson.id}-${activeSection}`}
-                      lesson={lesson}
+                      displayLesson={effectiveLesson}
                       section={sections[activeSection]}
                     />
+
+                    {showVideoUnavailableMessage && (
+                      <div className="mt-4 rounded-xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-600">
+                        Video not available for this lesson.
+                      </div>
+                    )}
 
                     {!hasCompleteLessonContent && activeSection >= sections.length - 1 && (
                       <div className="mt-6 rounded-xl border border-amber-200 bg-amber-50 p-4 text-amber-800">
@@ -684,7 +781,26 @@ export default function LessonPlayer({
 
 function ActivitySection({ activity }) {
   const [state, setState] = useState({})
-  const [sequenceItems, setSequenceItems] = useState(activity?.items || [])
+
+  const matchingShuffleKey =
+    activity?.type === 'matching'
+      ? JSON.stringify(activity.items.map((i) => [i.term, i.answer]))
+      : ''
+
+  const shuffledMatchingAnswers = useMemo(() => {
+    if (activity?.type !== 'matching') return []
+    const unique = [...new Set(activity.items.map((i) => i.answer))]
+    return shuffleArray(unique)
+  }, [matchingShuffleKey])
+
+  const shuffledMatchingItems = useMemo(() => {
+    if (activity?.type !== 'matching') return []
+    return shuffleArray([...activity.items])
+  }, [matchingShuffleKey])
+
+  const [sequenceItems, setSequenceItems] = useState(() =>
+    activity?.type === 'sequence' ? shuffleArray([...(activity.items || [])]) : activity?.items || [],
+  )
 
   if (!activity) {
     return (
@@ -704,7 +820,7 @@ function ActivitySection({ activity }) {
         <p className="mb-6 text-slate-600">{activity.instruction}</p>
         
         <div className="grid gap-4 sm:grid-cols-2">
-          {activity.items.map((item) => (
+          {shuffledMatchingItems.map((item) => (
             <div key={item.term} className="rounded-xl border border-slate-200 bg-white p-4">
               <p className="mb-2 font-semibold text-slate-800">{item.term}</p>
               <select
@@ -713,7 +829,7 @@ function ActivitySection({ activity }) {
                 className="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-blue-500 focus:outline-none"
               >
                 <option value="">Select answer...</option>
-                {[...new Set(activity.items.map(i => i.answer))].map(ans => (
+                {shuffledMatchingAnswers.map((ans) => (
                   <option key={ans} value={ans}>{ans}</option>
                 ))}
               </select>

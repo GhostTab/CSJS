@@ -169,7 +169,8 @@
           "simuno",
           "panaguri"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -325,7 +326,8 @@
           "maikling",
           "kuwento"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -491,7 +493,8 @@
         "keywords": [
           "pangungusap"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -648,7 +651,8 @@
           "maikling",
           "kuwento"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -815,7 +819,8 @@
           "pagbuo",
           "talata"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -972,7 +977,8 @@
           "gamit",
           "wika"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

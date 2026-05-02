@@ -165,7 +165,8 @@
         "keywords": [
           "ecosystems"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -320,7 +321,8 @@
           "chemical",
           "bonding"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -487,7 +489,8 @@
           "division",
           "heredity"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -642,7 +645,8 @@
           "energy",
           "ecosystems"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -809,7 +813,8 @@
           "bases",
           "salts"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -964,7 +969,8 @@
           "waves",
           "sound"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

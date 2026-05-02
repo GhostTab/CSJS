@@ -54,12 +54,6 @@ const GENERIC_ASSESSMENT_PHRASES = [
   'check and interpret the result',
 ]
 
-const GENERIC_NARRATION_PHRASES = [
-  'listen to this narration while reviewing the examples from the discussion',
-  'audio explanation for',
-  'listen while reviewing the examples and key terms',
-]
-
 const STOP_WORDS = new Set([
   'about',
   'also',
@@ -115,6 +109,9 @@ function getLessonVideoErrors(lesson) {
   const url = String(video.url || '').trim()
   const title = String(video.title || '').trim()
   const keywords = Array.isArray(video.keywords) ? video.keywords : []
+  if (typeof video.approved !== 'boolean') {
+    errors.push('lesson.video.approved must be a boolean')
+  }
   if (!Array.isArray(keywords) || keywords.length === 0) {
     errors.push('lesson.video.keywords must include at least one keyword')
   }
@@ -154,16 +151,6 @@ function getSectionMediaErrors(section, sectionIndex) {
     }
   })
 
-  if (section.audioNarration && typeof section.audioNarration === 'object') {
-    if (!String(section.audioNarration.src || '').trim()) {
-      errors.push(`${label} audio narration is missing src`)
-    }
-    const transcript = String(section.audioNarration.transcript || '').toLowerCase()
-    if (GENERIC_NARRATION_PHRASES.some((phrase) => transcript.includes(phrase))) {
-      errors.push(`${label} audio narration transcript is too generic`)
-    }
-  }
-
   return errors
 }
 
@@ -174,11 +161,10 @@ function getMainDiscussionMediaPayload(mainDiscussion, lesson) {
 
   const images = Array.isArray(mainDiscussion.images) ? mainDiscussion.images : []
   const hasImages = images.length > 0
-  const hasAudio = Boolean(String(mainDiscussion.audioNarration?.src || '').trim())
-  const hasVideo = Boolean(String(lesson.video?.url || '').trim())
+  const hasApprovedVideo =
+    Boolean(String(lesson.video?.url || '').trim()) && lesson.video?.approved === true
   const mediaBlob = [
     ...images.flatMap((image) => [image?.alt, image?.caption]),
-    mainDiscussion.audioNarration?.transcript,
     lesson.video?.title,
   ]
     .filter(Boolean)
@@ -186,7 +172,7 @@ function getMainDiscussionMediaPayload(mainDiscussion, lesson) {
     .toLowerCase()
 
   return {
-    hasMediaPayload: hasImages || hasAudio || hasVideo,
+    hasMediaPayload: hasImages || hasApprovedVideo,
     mediaBlob,
   }
 }

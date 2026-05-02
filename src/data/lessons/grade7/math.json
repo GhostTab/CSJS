@@ -167,7 +167,8 @@
           "basic",
           "operations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -322,7 +323,8 @@
           "algebraic",
           "expressions"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -488,7 +490,8 @@
           "fractions",
           "decimals"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -643,7 +646,8 @@
           "ratios",
           "proportions"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -810,7 +814,8 @@
           "discount",
           "problems"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -966,7 +971,8 @@
           "geometry",
           "angles"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

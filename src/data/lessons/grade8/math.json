@@ -166,7 +166,8 @@
           "linear",
           "equations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -321,7 +322,8 @@
           "factoring",
           "polynomials"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -488,7 +490,8 @@
           "linear",
           "equations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -643,7 +646,8 @@
           "rational",
           "expressions"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -809,7 +813,8 @@
           "polynomials",
           "operations"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -964,7 +969,8 @@
           "geometry",
           "triangles"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

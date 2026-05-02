@@ -168,7 +168,8 @@
           "tangere",
           "paksa"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -330,7 +331,8 @@
         "keywords": [
           "talumpati"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -497,7 +499,8 @@
           "elemento",
           "talumpati"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -653,7 +656,8 @@
           "pagsusuri",
           "nobela"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -821,7 +825,8 @@
           "replektibong",
           "sanaysay"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -977,7 +982,8 @@
           "wikang",
           "mapanghikayat"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

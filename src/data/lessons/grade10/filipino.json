@@ -167,7 +167,8 @@
           "filibusterismo",
           "suliranin"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -322,7 +323,8 @@
         "keywords": [
           "pananaliksik"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -490,7 +492,8 @@
           "kontemporaryong",
           "isyu"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -646,7 +649,8 @@
           "wikang",
           "akademiko"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -814,7 +818,8 @@
           "nakabatay",
           "datos"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -971,7 +976,8 @@
           "position",
           "paper"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

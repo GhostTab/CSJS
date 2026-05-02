@@ -166,7 +166,8 @@
           "statistics",
           "probability"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -321,7 +322,8 @@
           "sequences",
           "series"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -488,7 +490,8 @@
           "identities",
           "intro"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -644,7 +647,8 @@
           "theorem",
           "basics"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -811,7 +815,8 @@
           "distribution",
           "concepts"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -966,7 +971,8 @@
           "mathematical",
           "modeling"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

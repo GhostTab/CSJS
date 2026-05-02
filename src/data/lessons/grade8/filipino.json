@@ -168,7 +168,8 @@
           "laura",
           "tauhan"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -324,7 +325,8 @@
           "pagsulat",
           "sanaysay"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -491,7 +493,8 @@
           "tekstong",
           "naratibo"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -647,7 +650,8 @@
           "tekstong",
           "impormatibo"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -814,7 +818,8 @@
           "pagsusuri",
           "tauhan"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -970,7 +975,8 @@
           "pagpapalawak",
           "pangungusap"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]

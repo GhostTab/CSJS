@@ -24,9 +24,9 @@ export default function LessonPage() {
 
   if (!lesson) {
     return (
-      <div className="min-h-screen px-4 py-8 pb-20 pt-24 md:px-8">
+      <div className="lesson-layout lesson-shell-bg min-h-screen px-4 py-8 pb-20 pt-24 md:px-8">
         <div className="mx-auto max-w-5xl">
-          <div className="glass-card rounded-2xl p-8 text-center">
+          <div className="lesson-panel lesson-accent-top p-8 text-center">
             <h1 className="text-2xl font-bold text-slate-800">Lesson content is not available yet</h1>
             <p className="mt-2 text-slate-600">
               The selected lesson does not have complete subject-specific content yet.
@@ -50,7 +50,7 @@ export default function LessonPage() {
   }
 
   return (
-    <div className="min-h-screen px-4 py-8 pb-20 pt-24 md:px-8">
+    <div className="lesson-layout lesson-shell-bg min-h-screen px-4 py-8 pb-20 pt-24 md:px-8">
       <div className="mx-auto max-w-6xl">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

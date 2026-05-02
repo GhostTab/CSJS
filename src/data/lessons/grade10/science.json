@@ -167,7 +167,8 @@
           "plate",
           "tectonics"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -322,7 +323,8 @@
           "electromagnetic",
           "spectrum"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -488,7 +490,8 @@
           "protein",
           "synthesis"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -643,7 +646,8 @@
           "electric",
           "circuits"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -810,7 +814,8 @@
           "change",
           "evidence"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     },
     {
@@ -966,7 +971,8 @@
           "energy",
           "radiation"
         ],
-        "source": "youtube-auto"
+        "source": "youtube-auto",
+        "approved": false
       }
     }
   ]
