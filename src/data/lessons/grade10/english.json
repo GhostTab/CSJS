@@ -168,7 +168,7 @@
           "sources"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -657,7 +657,7 @@
           "writing"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

@@ -167,7 +167,7 @@
           "equations"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -323,7 +323,7 @@
           "polynomials"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -491,7 +491,7 @@
           "equations"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

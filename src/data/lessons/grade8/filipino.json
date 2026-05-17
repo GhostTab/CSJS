@@ -326,7 +326,7 @@
           "sanaysay"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -494,7 +494,7 @@
           "naratibo"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -651,7 +651,7 @@
           "impormatibo"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -976,7 +976,7 @@
           "pangungusap"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     }
   ]

@@ -168,7 +168,7 @@
           "comprehension"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -325,7 +325,7 @@
           "writing"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -493,7 +493,7 @@
           "arguments"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

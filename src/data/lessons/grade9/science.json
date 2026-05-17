@@ -322,7 +322,7 @@
           "bonding"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -646,7 +646,7 @@
           "ecosystems"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

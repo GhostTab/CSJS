@@ -167,7 +167,7 @@
           "equations"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -489,7 +489,7 @@
           "functions"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -645,7 +645,7 @@
           "expressions"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -812,7 +812,7 @@
           "geometry"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

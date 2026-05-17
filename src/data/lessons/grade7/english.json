@@ -168,7 +168,7 @@
           "speech"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -494,7 +494,7 @@
           "clues"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -651,7 +651,7 @@
           "texts"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -819,7 +819,7 @@
           "development"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

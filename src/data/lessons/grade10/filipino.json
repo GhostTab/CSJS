@@ -493,7 +493,7 @@
           "isyu"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -650,7 +650,7 @@
           "akademiko"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

@@ -167,7 +167,7 @@
           "motion"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -649,7 +649,7 @@
           "power"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

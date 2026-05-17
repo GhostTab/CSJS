@@ -233,7 +233,7 @@ async function main() {
         if (best) {
           lesson.video.url = best.candidate.url
           lesson.video.title = best.candidate.title
-          lesson.video.approved = false
+          lesson.video.approved = true
           changed = true
           console.log(`[video-auto] selected="${best.candidate.title}"`)
 

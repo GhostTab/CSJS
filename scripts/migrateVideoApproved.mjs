@@ -1,5 +1,13 @@
 /**
- * Adds lesson.video.approved: false where missing (one-time migration).
+ * Video approval migration helper.
+ *
+ * Default behavior:
+ * - adds lesson.video.approved based on URL presence:
+ *   - true when lesson.video.url is non-empty
+ *   - false when lesson.video.url is empty
+ *
+ * Optional behavior:
+ * - pass --approve-with-url to force approved=true for lessons that already have a non-empty video.url
  */
 import fs from 'node:fs/promises'
 import path from 'node:path'
@@ -20,6 +28,7 @@ async function walk(dir) {
 }
 
 async function main() {
+  const approveWithUrl = process.argv.includes('--approve-with-url')
   const files = await walk(LESSONS_ROOT)
   let updated = 0
   for (const file of files) {
@@ -28,8 +37,13 @@ async function main() {
     let changed = false
     for (const lesson of data.lessons || []) {
       if (!lesson.video || typeof lesson.video !== 'object') continue
-      if (typeof lesson.video.approved !== 'boolean') {
-        lesson.video.approved = false
+      const hasUrl = String(lesson.video.url || '').trim().length > 0
+
+      if (approveWithUrl && hasUrl && lesson.video.approved !== true) {
+        lesson.video.approved = true
+        changed = true
+      } else if (typeof lesson.video.approved !== 'boolean') {
+        lesson.video.approved = hasUrl
         changed = true
       }
     }

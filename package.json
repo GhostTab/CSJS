@@ -4,10 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "postinstall": "npm run videos:migrate-approval",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "videos:migrate-approval": "node scripts/migrateVideoApproved.mjs",
     "videos:auto-match": "node scripts/autoMatchLessonVideos.mjs",
     "images:auto-match": "node scripts/autoMatchLessonImages.mjs"
   },

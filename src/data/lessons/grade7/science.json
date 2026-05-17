@@ -167,7 +167,7 @@
           "properties"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -330,7 +330,7 @@
           "investigation"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -654,7 +654,7 @@
           "adaptations"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -828,7 +828,7 @@
           "transfer"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

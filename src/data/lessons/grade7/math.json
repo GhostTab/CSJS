@@ -324,7 +324,7 @@
           "expressions"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -491,7 +491,7 @@
           "decimals"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

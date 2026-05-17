@@ -657,7 +657,7 @@
           "nobela"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -826,7 +826,7 @@
           "sanaysay"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

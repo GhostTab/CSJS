@@ -168,7 +168,7 @@
           "inferences"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -326,7 +326,7 @@
           "texts"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -653,7 +653,7 @@
           "structures"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {

@@ -4,7 +4,6 @@ import {
   Sparkles, 
   ArrowRight, 
   Play, 
-  BookOpen,
   Target,
   Zap,
   Award,
@@ -93,10 +92,13 @@ export default function Home() {
                 Start Learning
                 <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
               </Link>
-              <button className="flex items-center gap-2 rounded-full border border-slate-200 bg-white px-6 py-4 text-lg font-semibold text-slate-700 transition-colors hover:border-slate-300 hover:bg-slate-50">
+              <Link
+                to="/grade/7/math/fractions-and-decimals"
+                className="flex items-center gap-2 rounded-full border border-slate-200 bg-white px-6 py-4 text-lg font-semibold text-slate-700 transition-colors hover:border-slate-300 hover:bg-slate-50"
+              >
                 <Play className="h-5 w-5 text-slate-500" fill="currentColor" />
                 View Demo
-              </button>
+              </Link>
             </motion.div>
           </motion.div>
         </div>

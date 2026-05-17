@@ -167,7 +167,7 @@
           "probability"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -323,7 +323,7 @@
           "series"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     },
     {
@@ -972,7 +972,7 @@
           "modeling"
         ],
         "source": "youtube-auto",
-        "approved": false
+        "approved": true
       }
     }
   ]

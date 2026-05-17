@@ -1,16 +1,38 @@
-# React + Vite
+# CSJS Learning Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive Grade 7-10 learning app built with React + Vite.
 
-Currently, two official plugins are available:
+## Quick Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+npm install
+npm run dev
+```
 
-## React Compiler
+Open the local URL printed by Vite (usually `http://localhost:5173`).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+`npm install` automatically runs media approval normalization via `postinstall`, so no extra setup command is required.
 
-## Expanding the ESLint configuration
+## Run Commands
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `npm run dev` - start development server
+- `npm run build` - create production build
+- `npm run preview` - preview production build locally
+- `npm run lint` - run ESLint
+
+## Media Data Commands
+
+- `npm run videos:migrate-approval`
+  - normalizes `lesson.video.approved`
+  - sets `approved=true` when a lesson has a non-empty `video.url`
+  - sets `approved=false` when `video.url` is empty
+- `npm run videos:auto-match` - auto-finds YouTube videos per lesson
+- `npm run images:auto-match` - auto-finds lesson images
+
+## Demo Route
+
+Home page "View Demo" button points to:
+
+- `/grade/7/math/fractions-and-decimals`
+
+This route is kept as a stable demo lesson with video enabled.
