@@ -89,7 +89,7 @@ export default function Navbar() {
                 </Link>
               )
             })}
-          </motion.div>
+          </div>
 
           {/* Right: Facebook + Start/Resume + mobile menu */}
           <div className="flex shrink-0 items-center gap-2 sm:gap-3">
