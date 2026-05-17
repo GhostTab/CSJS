@@ -73,9 +73,9 @@ const logoImageVariants = {
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-sky-50 via-white to-cyan-50 pb-20">
+    <div className="min-h-screen pb-20">
       {/* Hero Section */}
-      <section className="relative overflow-hidden px-4 pt-24 pb-16 md:px-8 md:pt-32 md:pb-24">
+      <section className="hero-mesh relative overflow-hidden px-4 pt-24 pb-16 md:px-8 md:pt-32 md:pb-24">
         <div className="mx-auto max-w-6xl">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -119,7 +119,7 @@ export default function Home() {
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.2 }}
-              className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2 transition-colors hover:border-blue-200 hover:bg-blue-50/40"
+              className="mb-6 inline-flex items-center gap-2 rounded-full border border-blue-100/80 bg-gradient-to-r from-white to-sky-50/80 px-4 py-2 shadow-sm transition-colors hover:border-blue-200 hover:shadow-md"
             >
               <Sparkles className="h-4 w-4 text-blue-500" />
               <span className="text-sm font-medium text-slate-700">
@@ -130,10 +130,10 @@ export default function Home() {
             {/* Main Headline */}
             <h1 className="mx-auto max-w-4xl text-4xl font-extrabold tracking-tight text-slate-900 md:text-6xl">
               Learn with{' '}
-              <span className="text-slate-900">motion</span>
+              <span className="gradient-text">motion</span>
               ,<br className="hidden sm:block" />
               remember with{' '}
-              <span className="text-slate-900">meaning</span>.
+              <span className="gradient-text">meaning</span>.
             </h1>
 
             {/* Subtitle */}
@@ -150,14 +150,14 @@ export default function Home() {
             >
               <Link
                 to="/grade/7"
-                className="group flex items-center gap-2 rounded-full bg-blue-500 px-8 py-4 text-lg font-semibold text-white transition-colors hover:bg-blue-600"
+                className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
               >
                 Start Learning
                 <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
               </Link>
               <Link
                 to="/grade/7/math/fractions-and-decimals"
-                className="flex items-center gap-2 rounded-full border border-slate-200 bg-white px-6 py-4 text-lg font-semibold text-slate-700 transition-colors hover:border-slate-300 hover:bg-slate-50"
+                className="btn-gradient-outline flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
               >
                 <Play className="h-5 w-5 text-slate-500" fill="currentColor" />
                 View Demo
@@ -183,10 +183,10 @@ export default function Home() {
                 <motion.div
                   key={feature.title}
                   variants={itemVariants}
-                  className="rounded-2xl border border-slate-100 bg-white p-6 transition-colors hover:border-blue-200 hover:bg-blue-50/30"
+                  className="surface-card rounded-2xl p-6"
                 >
-                  <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-blue-50">
-                    <Icon className="h-6 w-6 text-blue-500" />
+                  <div className="icon-gradient mb-4 flex h-12 w-12 items-center justify-center rounded-xl shadow-sm">
+                    <Icon className="h-6 w-6 text-white" />
                   </div>
                   <h3 className="text-lg font-bold text-slate-900">{feature.title}</h3>
                   <p className="mt-2 text-sm text-slate-600">{feature.desc}</p>
@@ -228,9 +228,9 @@ export default function Home() {
                   onClick={() => localStorage.setItem('csjs-last-grade', grade.grade)}
                   className="group block"
                 >
-                  <div className="relative overflow-hidden rounded-2xl border border-slate-100 bg-white p-6 transition-colors duration-200 hover:border-blue-200 hover:bg-blue-50/30">
+                  <div className="surface-card relative overflow-hidden rounded-2xl p-6">
                     {/* Grade Number */}
-                    <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-2xl bg-blue-500 text-2xl font-bold text-white">
+                    <div className="icon-gradient mb-4 flex h-16 w-16 items-center justify-center rounded-2xl text-2xl font-bold text-white shadow-md">
                       {grade.grade}
                     </div>
                     
@@ -271,18 +271,18 @@ export default function Home() {
       {/* Stats Section */}
       <section className="px-4 py-12 md:px-8">
         <div className="mx-auto max-w-6xl">
-          <div className="rounded-3xl border border-slate-100 bg-white p-8 md:p-12">
+          <div className="stat-gradient rounded-3xl p-8 md:p-12">
             <div className="grid gap-8 md:grid-cols-3">
               <div className="text-center">
-                <div className="text-4xl font-extrabold text-blue-500">4</div>
+                <div className="gradient-text text-4xl font-extrabold">4</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Subjects Available</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-extrabold text-blue-500">32+</div>
+                <div className="gradient-text text-4xl font-extrabold">32+</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Interactive Lessons</div>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-extrabold text-blue-500">100+</div>
+                <div className="gradient-text text-4xl font-extrabold">100+</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Practice Questions</div>
               </div>
             </div>
@@ -295,7 +295,7 @@ export default function Home() {
         initial={{ opacity: 0, scale: 0 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ delay: 1 }}
-        className="fixed bottom-6 right-6 flex h-14 w-14 items-center justify-center rounded-full bg-blue-500 text-white transition-colors hover:bg-blue-600"
+        className="btn-gradient fixed bottom-6 right-6 flex h-14 w-14 items-center justify-center rounded-full text-white shadow-lg"
       >
         <MessageCircle className="h-6 w-6" />
       </motion.button>

@@ -13,7 +13,7 @@ import DevVideoReviewPage from './pages/DevVideoReviewPage'
 function App() {
   return (
     <VideoReviewProvider>
-    <div className="min-h-screen">
+    <div className="app-shell min-h-screen">
       <Navbar />
       <main className="pt-16">
         <AnimatePresence mode="wait">
