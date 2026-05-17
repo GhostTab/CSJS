@@ -11,9 +11,7 @@ import {
 } from 'lucide-react'
 import gradesData from '../data/grades.json'
 import schoolLogo from '../assets/CSJS.png'
-import FacebookIcon from '../components/FacebookIcon'
-import { SCHOOL_FACEBOOK_LABEL, SCHOOL_FACEBOOK_URL } from '../constants/schoolLinks'
-import { buttonPop, cardHover, fabPop, statPop } from '../utils/motionPresets'
+import { buttonPop, cardHover, statPop } from '../utils/motionPresets'
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -130,16 +128,6 @@ export default function Home() {
                     View Demo
                   </Link>
               </motion.div>
-              <motion.a
-                href={SCHOOL_FACEBOOK_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label={SCHOOL_FACEBOOK_LABEL}
-                {...buttonPop}
-                className="flex h-[3.25rem] w-[3.25rem] shrink-0 items-center justify-center rounded-full bg-[#1877F2] text-white shadow-md hover:bg-[#166fe5] hover:shadow-lg"
-              >
-                <FacebookIcon className="h-6 w-6" />
-              </motion.a>
             </motion.div>
           </div>
 
@@ -310,20 +298,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Facebook FAB (home) */}
-      <motion.a
-        href={SCHOOL_FACEBOOK_URL}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label={SCHOOL_FACEBOOK_LABEL}
-        initial={{ opacity: 0, scale: 0 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ delay: 1 }}
-        {...fabPop}
-        className="fixed bottom-6 right-6 z-[60] flex h-14 w-14 items-center justify-center rounded-full bg-[#1877F2] text-white shadow-lg ring-4 ring-white/80 hover:bg-[#166fe5] hover:shadow-xl"
-      >
-        <FacebookIcon className="h-7 w-7" />
-      </motion.a>
     </div>
   )
 }
