@@ -88,7 +88,7 @@ export default function Home() {
             >
               <Sparkles className="h-4 w-4 text-blue-500" />
               <span className="text-sm font-medium text-slate-700">
-                Colegio de San Juan Samar - Research Platform
+                Colegio de San Juan Samar — Interactive Learning Platform
               </span>
             </motion.div>
 
@@ -110,20 +110,9 @@ export default function Home() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4 }}
-              className="mt-10 flex flex-col items-center gap-4 lg:items-start"
+              className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row sm:flex-wrap lg:justify-start"
             >
-              <a
-                href={SCHOOL_FACEBOOK_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full bg-[#1877F2] px-4 py-2.5 text-sm font-semibold text-white shadow-md transition-transform hover:scale-105 hover:bg-[#166fe5]"
-              >
-                <FacebookIcon className="h-5 w-5" />
-                Follow CSJS on Facebook
-              </a>
-
-              <div className="flex flex-col items-center justify-center gap-4 sm:flex-row lg:justify-start">
-                <motion.div {...buttonPop}>
+              <motion.div {...buttonPop}>
                   <Link
                     to="/grade/7"
                     className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
@@ -131,17 +120,26 @@ export default function Home() {
                     Start Learning
                     <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
                   </Link>
-                </motion.div>
-                <motion.div {...buttonPop}>
-                  <Link
-                    to="/grade/7/math/fractions-and-decimals"
+              </motion.div>
+              <motion.div {...buttonPop}>
+                <Link
+                  to="/grade/7/math/fractions-and-decimals"
                     className="btn-gradient-outline group flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
                   >
                     <Play className="h-5 w-5 text-slate-500 transition-transform group-hover:scale-110" fill="currentColor" />
                     View Demo
                   </Link>
-                </motion.div>
-              </div>
+              </motion.div>
+              <motion.a
+                href={SCHOOL_FACEBOOK_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={SCHOOL_FACEBOOK_LABEL}
+                {...buttonPop}
+                className="flex h-[3.25rem] w-[3.25rem] shrink-0 items-center justify-center rounded-full bg-[#1877F2] text-white shadow-md hover:bg-[#166fe5] hover:shadow-lg"
+              >
+                <FacebookIcon className="h-6 w-6" />
+              </motion.a>
             </motion.div>
           </div>
 
