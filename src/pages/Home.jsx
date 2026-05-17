@@ -11,6 +11,7 @@ import {
   MessageCircle
 } from 'lucide-react'
 import gradesData from '../data/grades.json'
+import schoolLogo from '../assets/CSJS.png'
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -39,6 +40,37 @@ const features = [
   { icon: Users, title: 'Grade 7-10 Focus', desc: 'Aligned with DepEd curriculum' }
 ]
 
+const logoCardVariants = {
+  rest: {
+    scale: 1,
+    y: 0,
+    rotate: 0,
+    boxShadow: '0 4px 14px -2px rgba(15, 23, 42, 0.08)',
+  },
+  hover: {
+    scale: 1.07,
+    y: -8,
+    rotate: -1.5,
+    boxShadow: '0 22px 45px -14px rgba(59, 130, 246, 0.35)',
+    transition: { type: 'spring', stiffness: 380, damping: 18 },
+  },
+  tap: { scale: 0.97, y: 0, rotate: 0 },
+}
+
+const logoGlowVariants = {
+  rest: { opacity: 0 },
+  hover: { opacity: 1, transition: { duration: 0.2 } },
+}
+
+const logoImageVariants = {
+  rest: { scale: 1, rotate: 0 },
+  hover: {
+    scale: 1.05,
+    rotate: 2,
+    transition: { type: 'spring', stiffness: 400, damping: 16 },
+  },
+}
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-sky-50 via-white to-cyan-50 pb-20">
@@ -51,6 +83,37 @@ export default function Home() {
             transition={{ duration: 0.6 }}
             className="text-center"
           >
+            {/* School logo */}
+            <motion.div
+              initial={{ opacity: 0, scale: 0.92 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: 0.1, duration: 0.5 }}
+              className="mb-8 flex justify-center"
+            >
+              <motion.div
+                className="group relative cursor-pointer rounded-2xl bg-white/90 p-3 ring-1 ring-slate-200/80 transition-[box-shadow,ring-color] hover:ring-blue-300/70 sm:p-4"
+                initial="rest"
+                whileHover="hover"
+                whileTap="tap"
+                variants={logoCardVariants}
+              >
+                <motion.div
+                  className="pointer-events-none absolute inset-0 rounded-2xl"
+                  variants={logoGlowVariants}
+                  style={{
+                    background:
+                      'linear-gradient(135deg, rgba(59,130,246,0.14), rgba(34,211,238,0.1))',
+                  }}
+                />
+                <motion.img
+                  src={schoolLogo}
+                  alt="Colegio de San Juan Samar logo"
+                  className="relative z-10 h-20 w-auto max-w-[220px] object-contain sm:h-24 sm:max-w-[260px] md:h-28 md:max-w-[300px]"
+                  variants={logoImageVariants}
+                />
+              </motion.div>
+            </motion.div>
+
             {/* Badge */}
             <motion.div
               initial={{ opacity: 0, scale: 0.9 }}
@@ -211,7 +274,7 @@ export default function Home() {
           <div className="rounded-3xl border border-slate-100 bg-white p-8 md:p-12">
             <div className="grid gap-8 md:grid-cols-3">
               <div className="text-center">
-                <div className="text-4xl font-extrabold text-blue-500">8</div>
+                <div className="text-4xl font-extrabold text-blue-500">4</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Subjects Available</div>
               </div>
               <div className="text-center">
