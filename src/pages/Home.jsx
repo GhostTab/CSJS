@@ -8,10 +8,11 @@ import {
   Zap,
   Award,
   Users,
-  MessageCircle
 } from 'lucide-react'
 import gradesData from '../data/grades.json'
 import schoolLogo from '../assets/CSJS.png'
+import FacebookIcon from '../components/FacebookIcon'
+import { SCHOOL_FACEBOOK_LABEL, SCHOOL_FACEBOOK_URL } from '../constants/schoolLinks'
 import { buttonPop, cardHover, fabPop, statPop } from '../utils/motionPresets'
 
 const containerVariants = {
@@ -42,20 +43,13 @@ const features = [
 ]
 
 const logoCardVariants = {
-  rest: {
-    scale: 1,
-    y: 0,
-    rotate: 0,
-    boxShadow: '0 4px 14px -2px rgba(15, 23, 42, 0.08)',
-  },
+  rest: { scale: 1, y: 0 },
   hover: {
-    scale: 1.07,
-    y: -8,
-    rotate: -1.5,
-    boxShadow: '0 22px 45px -14px rgba(59, 130, 246, 0.35)',
+    scale: 1.05,
+    y: -6,
     transition: { type: 'spring', stiffness: 380, damping: 18 },
   },
-  tap: { scale: 0.97, y: 0, rotate: 0 },
+  tap: { scale: 0.98, y: 0 },
 }
 
 const logoGlowVariants = {
@@ -77,44 +71,13 @@ export default function Home() {
     <div className="min-h-screen pb-20">
       {/* Hero Section */}
       <section className="hero-mesh relative overflow-hidden px-4 pt-24 pb-16 md:px-8 md:pt-32 md:pb-24">
-        <div className="mx-auto max-w-6xl">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-            className="text-center"
-          >
-            {/* School logo */}
-            <motion.div
-              initial={{ opacity: 0, scale: 0.92 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: 0.1, duration: 0.5 }}
-              className="mb-8 flex justify-center"
-            >
-              <motion.div
-                className="group relative cursor-pointer rounded-2xl bg-white/90 p-3 ring-1 ring-slate-200/80 transition-[box-shadow,ring-color] hover:ring-blue-300/70 sm:p-4"
-                initial="rest"
-                whileHover="hover"
-                whileTap="tap"
-                variants={logoCardVariants}
-              >
-                <motion.div
-                  className="pointer-events-none absolute inset-0 rounded-2xl"
-                  variants={logoGlowVariants}
-                  style={{
-                    background:
-                      'linear-gradient(135deg, rgba(59,130,246,0.14), rgba(34,211,238,0.1))',
-                  }}
-                />
-                <motion.img
-                  src={schoolLogo}
-                  alt="Colegio de San Juan Samar logo"
-                  className="relative z-10 h-20 w-auto max-w-[220px] object-contain sm:h-24 sm:max-w-[260px] md:h-28 md:max-w-[300px]"
-                  variants={logoImageVariants}
-                />
-              </motion.div>
-            </motion.div>
-
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+          className="mx-auto grid max-w-6xl items-center gap-10 lg:grid-cols-2 lg:gap-14"
+        >
+          <div className="text-center lg:text-left">
             {/* Badge */}
             <motion.div
               initial={{ opacity: 0, scale: 0.9 }}
@@ -130,47 +93,88 @@ export default function Home() {
             </motion.div>
 
             {/* Main Headline */}
-            <h1 className="mx-auto max-w-4xl text-4xl font-extrabold tracking-tight text-slate-900 md:text-6xl">
+            <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 md:text-5xl lg:text-6xl">
               Learn with{' '}
               <span className="gradient-text">motion</span>
-              ,<br className="hidden sm:block" />
+              ,<br />
               remember with{' '}
               <span className="gradient-text">meaning</span>.
             </h1>
 
             {/* Subtitle */}
-            <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-600 md:text-xl">
+            <p className="mx-auto mt-6 max-w-xl text-lg text-slate-600 md:text-xl lg:mx-0">
               A learning experience for Grades 7-10 where each concept is delivered as an interactive scene, not a static lecture.
             </p>
 
-            {/* CTA Buttons */}
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4 }}
-              className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row"
+              className="mt-10 flex flex-col items-center gap-4 lg:items-start"
             >
-              <motion.div {...buttonPop}>
-                <Link
-                  to="/grade/7"
-                  className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
-                >
-                  Start Learning
-                  <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
-                </Link>
-              </motion.div>
-              <motion.div {...buttonPop}>
-                <Link
-                  to="/grade/7/math/fractions-and-decimals"
-                  className="btn-gradient-outline group flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
-                >
-                  <Play className="h-5 w-5 text-slate-500 transition-transform group-hover:scale-110" fill="currentColor" />
-                  View Demo
-                </Link>
-              </motion.div>
+              <a
+                href={SCHOOL_FACEBOOK_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 rounded-full bg-[#1877F2] px-4 py-2.5 text-sm font-semibold text-white shadow-md transition-transform hover:scale-105 hover:bg-[#166fe5]"
+              >
+                <FacebookIcon className="h-5 w-5" />
+                Follow CSJS on Facebook
+              </a>
+
+              <div className="flex flex-col items-center justify-center gap-4 sm:flex-row lg:justify-start">
+                <motion.div {...buttonPop}>
+                  <Link
+                    to="/grade/7"
+                    className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
+                  >
+                    Start Learning
+                    <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+                  </Link>
+                </motion.div>
+                <motion.div {...buttonPop}>
+                  <Link
+                    to="/grade/7/math/fractions-and-decimals"
+                    className="btn-gradient-outline group flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
+                  >
+                    <Play className="h-5 w-5 text-slate-500 transition-transform group-hover:scale-110" fill="currentColor" />
+                    View Demo
+                  </Link>
+                </motion.div>
+              </div>
+            </motion.div>
+          </div>
+
+          <motion.div
+            initial={{ opacity: 0, scale: 0.92 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ delay: 0.2, duration: 0.5 }}
+            className="flex justify-center lg:justify-end"
+          >
+            <motion.div
+              className="relative"
+              initial="rest"
+              whileHover="hover"
+              whileTap="tap"
+              variants={logoCardVariants}
+            >
+              <motion.div
+                className="pointer-events-none absolute inset-0 -z-10 rounded-full blur-3xl"
+                variants={logoGlowVariants}
+                style={{
+                  background:
+                    'radial-gradient(circle, rgba(59,130,246,0.22) 0%, transparent 70%)',
+                }}
+              />
+              <motion.img
+                src={schoolLogo}
+                alt="Colegio de San Juan Samar logo"
+                className="relative h-60 w-auto max-w-[min(100%,440px)] bg-transparent object-contain drop-shadow-[0_8px_24px_rgba(59,130,246,0.12)] sm:h-72 md:h-[22rem] lg:h-[26rem] lg:max-w-[520px]"
+                variants={logoImageVariants}
+              />
             </motion.div>
           </motion.div>
-        </div>
+        </motion.div>
       </section>
 
       {/* Features Section */}
@@ -308,16 +312,20 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Chat FAB */}
-      <motion.button
+      {/* Facebook FAB (home) */}
+      <motion.a
+        href={SCHOOL_FACEBOOK_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label={SCHOOL_FACEBOOK_LABEL}
         initial={{ opacity: 0, scale: 0 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ delay: 1 }}
         {...fabPop}
-        className="btn-gradient fixed bottom-6 right-6 flex h-14 w-14 items-center justify-center rounded-full text-white shadow-lg"
+        className="fixed bottom-6 right-6 z-[60] flex h-14 w-14 items-center justify-center rounded-full bg-[#1877F2] text-white shadow-lg ring-4 ring-white/80 hover:bg-[#166fe5] hover:shadow-xl"
       >
-        <MessageCircle className="h-6 w-6" />
-      </motion.button>
+        <FacebookIcon className="h-7 w-7" />
+      </motion.a>
     </div>
   )
 }
