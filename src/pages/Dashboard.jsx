@@ -113,7 +113,13 @@ export default function Dashboard() {
           animate="visible"
           className="mb-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4"
         >
-          <motion.div variants={itemVariants} className="glass-card rounded-2xl p-5">
+          <motion.div
+            variants={itemVariants}
+            whileHover={{ y: -5, scale: 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            transition={{ type: 'spring', stiffness: 420, damping: 22 }}
+            className="glass-card rounded-2xl p-5"
+          >
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-blue-400 to-blue-500 text-white">
                 <BookOpen className="h-6 w-6" />
@@ -125,7 +131,13 @@ export default function Dashboard() {
             </div>
           </motion.div>
 
-          <motion.div variants={itemVariants} className="glass-card rounded-2xl p-5">
+          <motion.div
+            variants={itemVariants}
+            whileHover={{ y: -5, scale: 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            transition={{ type: 'spring', stiffness: 420, damping: 22 }}
+            className="glass-card rounded-2xl p-5"
+          >
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-violet-400 to-violet-500 text-white">
                 <Target className="h-6 w-6" />
@@ -137,7 +149,13 @@ export default function Dashboard() {
             </div>
           </motion.div>
 
-          <motion.div variants={itemVariants} className="glass-card rounded-2xl p-5">
+          <motion.div
+            variants={itemVariants}
+            whileHover={{ y: -5, scale: 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            transition={{ type: 'spring', stiffness: 420, damping: 22 }}
+            className="glass-card rounded-2xl p-5"
+          >
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 text-white">
                 <Trophy className="h-6 w-6" />
@@ -149,7 +167,13 @@ export default function Dashboard() {
             </div>
           </motion.div>
 
-          <motion.div variants={itemVariants} className="glass-card rounded-2xl p-5">
+          <motion.div
+            variants={itemVariants}
+            whileHover={{ y: -5, scale: 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            transition={{ type: 'spring', stiffness: 420, damping: 22 }}
+            className="glass-card rounded-2xl p-5"
+          >
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-emerald-400 to-teal-500 text-white">
                 <Zap className="h-6 w-6" />
@@ -229,7 +253,11 @@ export default function Dashboard() {
                       violet: 'bg-violet-100 text-violet-600',
                     }
                     return (
-                      <div key={i} className="flex items-center gap-3 rounded-xl bg-slate-50 p-3">
+                      <motion.div
+                        key={i}
+                        className="flex items-center gap-3 rounded-xl bg-slate-50 p-3 transition-all hover:-translate-y-0.5 hover:bg-sky-50 hover:shadow-sm"
+                        whileHover={{ x: 4 }}
+                      >
                         <div className={`flex h-10 w-10 items-center justify-center rounded-lg ${colorClasses[activity.color] || 'bg-slate-200'}`}>
                           <Icon className="h-5 w-5" />
                         </div>
@@ -237,7 +265,7 @@ export default function Dashboard() {
                           <p className="font-medium text-slate-800">{activity.title}</p>
                           <p className="text-xs text-slate-500">{activity.time}</p>
                         </div>
-                      </div>
+                      </motion.div>
                     )
                   })}
                 </div>

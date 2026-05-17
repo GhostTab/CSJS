@@ -35,7 +35,7 @@ export default function Navbar() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2 rounded-lg px-1 py-1 transition-colors hover:bg-slate-100">
+          <Link to="/" className="nav-link-hover flex items-center gap-2 rounded-lg px-1 py-1 transition-colors hover:bg-sky-50">
             <div className="icon-gradient flex h-9 w-9 items-center justify-center rounded-lg shadow-sm">
               <GraduationCap className="h-5 w-5 text-white" />
             </div>
@@ -53,7 +53,7 @@ export default function Navbar() {
                 <Link
                   key={item.path}
                   to={item.path}
-                  className={`flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium transition-colors ${
+                  className={`nav-link-hover flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium transition-colors ${
                     isActive 
                       ? 'nav-gradient-active text-white' 
                       : 'text-slate-600 hover:bg-sky-50 hover:text-slate-900'

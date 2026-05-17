@@ -16,6 +16,7 @@ import {
 import gradesData from '../data/grades.json'
 import { getLessonsByGradeAndSubject } from '../data/lessonData'
 import { useProgress } from '../context/ProgressContext'
+import { cardHover } from '../utils/motionPresets'
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -143,9 +144,15 @@ export default function SubjectPage() {
                   to={`/grade/${gradeId}/${subjectId}/${lesson.id}`}
                   className="group block"
                 >
-                  <div className={`glass-card relative overflow-hidden rounded-2xl p-6 transition-colors duration-200 hover:border-blue-200 hover:bg-blue-50/30 ${
+                  <motion.div
+                    className={`glass-card relative overflow-hidden rounded-2xl p-6 ${
                     isCompleted ? 'border-emerald-200' : ''
-                  }`}>
+                  }`}
+                    initial="rest"
+                    whileHover="hover"
+                    whileTap="tap"
+                    variants={cardHover}
+                  >
                     {/* Completed Badge */}
                     {isCompleted && (
                       <div className="absolute right-4 top-4 flex items-center gap-1 rounded-full bg-emerald-100 px-2 py-1">
@@ -235,7 +242,7 @@ export default function SubjectPage() {
                         </span>
                       )}
                     </div>
-                  </div>
+                  </motion.div>
                 </Link>
               </motion.div>
             )

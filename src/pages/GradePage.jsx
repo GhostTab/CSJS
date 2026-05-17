@@ -19,6 +19,7 @@ import {
 import gradesData from '../data/grades.json'
 import { getLessonsByGradeAndSubject } from '../data/lessonData'
 import { useProgress } from '../context/ProgressContext'
+import { cardHover } from '../utils/motionPresets'
 
 const iconMap = {
   Calculator,
@@ -192,7 +193,13 @@ export default function GradePage() {
                   to={`/grade/${gradeId}/${subject.id}`}
                   className="group block h-full"
                 >
-                  <div className="glass-card relative h-full overflow-hidden rounded-2xl p-5 transition-colors duration-200 hover:border-blue-200 hover:bg-blue-50/30">
+                  <motion.div
+                    className="glass-card relative h-full overflow-hidden rounded-2xl p-5"
+                    initial="rest"
+                    whileHover="hover"
+                    whileTap="tap"
+                    variants={cardHover}
+                  >
                     {/* Icon Header */}
                     <div 
                       className="mb-4 flex h-14 w-14 items-center justify-center rounded-xl text-white"
@@ -264,10 +271,10 @@ export default function GradePage() {
 
                     {/* Decorative Elements */}
                     <div 
-                      className="absolute -right-4 -top-4 h-20 w-20 rounded-full opacity-20 blur-2xl"
+                      className="absolute -right-4 -top-4 h-20 w-20 rounded-full opacity-20 blur-2xl transition-transform duration-300 group-hover:scale-110"
                       style={{ background: subject.color }}
                     />
-                  </div>
+                  </motion.div>
                 </Link>
               </motion.div>
             )

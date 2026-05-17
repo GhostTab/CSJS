@@ -12,6 +12,7 @@ import {
 } from 'lucide-react'
 import gradesData from '../data/grades.json'
 import schoolLogo from '../assets/CSJS.png'
+import { buttonPop, cardHover, fabPop, statPop } from '../utils/motionPresets'
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -119,7 +120,8 @@ export default function Home() {
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.2 }}
-              className="mb-6 inline-flex items-center gap-2 rounded-full border border-blue-100/80 bg-gradient-to-r from-white to-sky-50/80 px-4 py-2 shadow-sm transition-colors hover:border-blue-200 hover:shadow-md"
+              whileHover={{ scale: 1.04, y: -2 }}
+              className="mb-6 inline-flex cursor-default items-center gap-2 rounded-full border border-blue-100/80 bg-gradient-to-r from-white to-sky-50/80 px-4 py-2 shadow-sm"
             >
               <Sparkles className="h-4 w-4 text-blue-500" />
               <span className="text-sm font-medium text-slate-700">
@@ -148,20 +150,24 @@ export default function Home() {
               transition={{ delay: 0.4 }}
               className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row"
             >
-              <Link
-                to="/grade/7"
-                className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
-              >
-                Start Learning
-                <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
-              </Link>
-              <Link
-                to="/grade/7/math/fractions-and-decimals"
-                className="btn-gradient-outline flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
-              >
-                <Play className="h-5 w-5 text-slate-500" fill="currentColor" />
-                View Demo
-              </Link>
+              <motion.div {...buttonPop}>
+                <Link
+                  to="/grade/7"
+                  className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
+                >
+                  Start Learning
+                  <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+                </Link>
+              </motion.div>
+              <motion.div {...buttonPop}>
+                <Link
+                  to="/grade/7/math/fractions-and-decimals"
+                  className="btn-gradient-outline group flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
+                >
+                  <Play className="h-5 w-5 text-slate-500 transition-transform group-hover:scale-110" fill="currentColor" />
+                  View Demo
+                </Link>
+              </motion.div>
             </motion.div>
           </motion.div>
         </div>
@@ -183,7 +189,10 @@ export default function Home() {
                 <motion.div
                   key={feature.title}
                   variants={itemVariants}
-                  className="surface-card rounded-2xl p-6"
+                  whileHover={{ y: -6, scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
+                  transition={{ type: 'spring', stiffness: 420, damping: 22 }}
+                  className="surface-card cursor-pointer rounded-2xl p-6"
                 >
                   <div className="icon-gradient mb-4 flex h-12 w-12 items-center justify-center rounded-xl shadow-sm">
                     <Icon className="h-6 w-6 text-white" />
@@ -228,7 +237,13 @@ export default function Home() {
                   onClick={() => localStorage.setItem('csjs-last-grade', grade.grade)}
                   className="group block"
                 >
-                  <div className="surface-card relative overflow-hidden rounded-2xl p-6">
+                  <motion.div
+                    className="surface-card relative overflow-hidden rounded-2xl p-6"
+                    initial="rest"
+                    whileHover="hover"
+                    whileTap="tap"
+                    variants={cardHover}
+                  >
                     {/* Grade Number */}
                     <div className="icon-gradient mb-4 flex h-16 w-16 items-center justify-center rounded-2xl text-2xl font-bold text-white shadow-md">
                       {grade.grade}
@@ -257,10 +272,13 @@ export default function Home() {
                     </div>
 
                     {/* Hover Arrow */}
-                    <div className="absolute right-4 top-4 opacity-0 transition-opacity group-hover:opacity-100">
-                      <ArrowRight className="h-5 w-5 text-blue-500" />
-                    </div>
-                  </div>
+                    <motion.div
+                      className="absolute right-4 top-4 text-blue-500 opacity-0 group-hover:opacity-100"
+                      transition={{ duration: 0.2 }}
+                    >
+                      <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+                    </motion.div>
+                  </motion.div>
                 </Link>
               </motion.div>
             ))}
@@ -273,18 +291,18 @@ export default function Home() {
         <div className="mx-auto max-w-6xl">
           <div className="stat-gradient rounded-3xl p-8 md:p-12">
             <div className="grid gap-8 md:grid-cols-3">
-              <div className="text-center">
+              <motion.div className="stat-item cursor-default text-center" initial="rest" whileHover="hover" variants={statPop}>
                 <div className="gradient-text text-4xl font-extrabold">4</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Subjects Available</div>
-              </div>
-              <div className="text-center">
+              </motion.div>
+              <motion.div className="stat-item cursor-default text-center" initial="rest" whileHover="hover" variants={statPop}>
                 <div className="gradient-text text-4xl font-extrabold">32+</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Interactive Lessons</div>
-              </div>
-              <div className="text-center">
+              </motion.div>
+              <motion.div className="stat-item cursor-default text-center" initial="rest" whileHover="hover" variants={statPop}>
                 <div className="gradient-text text-4xl font-extrabold">100+</div>
                 <div className="mt-2 text-sm font-medium text-slate-600">Practice Questions</div>
-              </div>
+              </motion.div>
             </div>
           </div>
         </div>
@@ -295,6 +313,7 @@ export default function Home() {
         initial={{ opacity: 0, scale: 0 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ delay: 1 }}
+        {...fabPop}
         className="btn-gradient fixed bottom-6 right-6 flex h-14 w-14 items-center justify-center rounded-full text-white shadow-lg"
       >
         <MessageCircle className="h-6 w-6" />
