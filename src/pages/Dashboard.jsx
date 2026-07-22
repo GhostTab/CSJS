@@ -366,6 +366,16 @@ export default function Dashboard() {
                   </div>
                   <ChevronRight className="h-5 w-5 text-slate-400" />
                 </Link>
+                <Link
+                  to="/rankings"
+                  className="flex items-center justify-between rounded-xl bg-amber-50 p-4 transition-colors hover:bg-amber-100"
+                >
+                  <div className="flex items-center gap-3">
+                    <Trophy className="h-5 w-5 text-amber-600" />
+                    <span className="font-medium text-slate-700">View Rankings</span>
+                  </div>
+                  <ChevronRight className="h-5 w-5 text-slate-400" />
+                </Link>
               </div>
             </motion.div>
           </div>

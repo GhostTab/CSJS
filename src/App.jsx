@@ -9,6 +9,9 @@ import LessonPage from './pages/LessonPage'
 import Dashboard from './pages/Dashboard'
 import QuizPractice from './pages/QuizPractice'
 import DevVideoReviewPage from './pages/DevVideoReviewPage'
+import Login from './pages/Login'
+import Register from './pages/Register'
+import Rankings from './pages/Rankings'
 
 function App() {
   return (
@@ -20,6 +23,9 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/rankings" element={<Rankings />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
             <Route path="/grade/:gradeId" element={<GradePage />} />
             <Route path="/grade/:gradeId/:subjectId" element={<SubjectPage />} />
             <Route path="/grade/:gradeId/:subjectId/:lessonId" element={<LessonPage />} />
@@ -35,4 +41,3 @@ function App() {
 }
 
 export default App
-

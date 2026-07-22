@@ -9,8 +9,13 @@ import {
   Menu,
   X,
   PlayCircle,
+  Trophy,
+  LogIn,
+  LogOut,
+  UserPlus,
 } from 'lucide-react'
 import { useProgress } from '../context/ProgressContext'
+import { useAuth } from '../context/AuthContext'
 import schoolLogo from '../assets/CSJS.png'
 import { SCHOOL_FACEBOOK_LABEL, SCHOOL_FACEBOOK_URL } from '../constants/schoolLinks'
 import FacebookIcon from './FacebookIcon'
@@ -18,6 +23,7 @@ import FacebookIcon from './FacebookIcon'
 const navItems = [
   { path: '/', label: 'Home', icon: Home },
   { path: '/dashboard', label: 'Dashboard', icon: LayoutDashboard },
+  { path: '/rankings', label: 'Rankings', icon: Trophy },
   { path: '/grade/7', label: 'Lessons', icon: BookOpen },
   { path: '/quiz-practice', label: 'Activities', icon: Activity },
 ]
@@ -43,9 +49,16 @@ export default function Navbar() {
   const [resumeOpen, setResumeOpen] = useState(false)
   const location = useLocation()
   const { progress } = useProgress()
+  const { user, isAuthenticated, signOut } = useAuth()
 
   const hasProgress = progress.completedLessons.length > 0
   const lastGrade = localStorage.getItem('csjs-last-grade')
+  const userLabel = user?.email?.split('@')[0] || 'Account'
+
+  const handleSignOut = async () => {
+    await signOut()
+    setMobileMenuOpen(false)
+  }
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 border-b border-slate-200/60 bg-gradient-to-r from-white/95 via-sky-50/90 to-white/95 backdrop-blur-md">
@@ -73,7 +86,8 @@ export default function Navbar() {
               const isActive =
                 location.pathname === item.path ||
                 (item.path === '/grade/7' && location.pathname.startsWith('/grade')) ||
-                (item.path === '/quiz-practice' && location.pathname === '/quiz-practice')
+                (item.path === '/quiz-practice' && location.pathname === '/quiz-practice') ||
+                (item.path === '/rankings' && location.pathname === '/rankings')
               return (
                 <Link
                   key={item.path}
@@ -91,12 +105,47 @@ export default function Navbar() {
             })}
           </div>
 
-          {/* Right: Facebook + Start/Resume + mobile menu */}
+          {/* Right: Auth + Facebook + Start/Resume + mobile menu */}
           <div className="flex shrink-0 items-center gap-2 sm:gap-3">
-            <FacebookLink className="h-10 w-10 justify-center p-0 md:hidden" />
-            <FacebookLink className="hidden h-9 px-3 py-2 md:inline-flex" showLabel />
+            <div className="hidden items-center gap-2 md:flex">
+              {isAuthenticated ? (
+                <>
+                  <span className="max-w-[120px] truncate text-sm font-medium text-slate-600" title={user?.email}>
+                    {userLabel}
+                  </span>
+                  <button
+                    type="button"
+                    onClick={handleSignOut}
+                    className="inline-flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50"
+                  >
+                    <LogOut className="h-4 w-4" />
+                    Logout
+                  </button>
+                </>
+              ) : (
+                <>
+                  <Link
+                    to="/login"
+                    className="inline-flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50"
+                  >
+                    <LogIn className="h-4 w-4" />
+                    Login
+                  </Link>
+                  <Link
+                    to="/register"
+                    className="btn-gradient inline-flex items-center gap-1.5 rounded-full px-3 py-2 text-sm font-semibold text-white"
+                  >
+                    <UserPlus className="h-4 w-4" />
+                    Register
+                  </Link>
+                </>
+              )}
+            </div>
 
-            <motion.div className="hidden items-center gap-3 md:flex">
+            <FacebookLink className="h-10 w-10 justify-center p-0 md:hidden" />
+            <FacebookLink className="hidden h-9 px-3 py-2 lg:inline-flex" showLabel />
+
+            <motion.div className="hidden items-center gap-3 lg:flex">
               {hasProgress && lastGrade ? (
                 <div className="relative">
                   <button
@@ -191,6 +240,35 @@ export default function Navbar() {
                     </Link>
                   )
                 })}
+                {isAuthenticated ? (
+                  <button
+                    type="button"
+                    onClick={handleSignOut}
+                    className="flex items-center gap-3 rounded-lg px-4 py-3 text-left text-sm font-medium text-slate-600 hover:bg-sky-50"
+                  >
+                    <LogOut className="h-4 w-4" />
+                    Logout ({userLabel})
+                  </button>
+                ) : (
+                  <>
+                    <Link
+                      to="/login"
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="flex items-center gap-3 rounded-lg px-4 py-3 text-sm font-medium text-slate-600 hover:bg-sky-50"
+                    >
+                      <LogIn className="h-4 w-4" />
+                      Login
+                    </Link>
+                    <Link
+                      to="/register"
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="flex items-center gap-3 rounded-lg px-4 py-3 text-sm font-medium text-slate-600 hover:bg-sky-50"
+                    >
+                      <UserPlus className="h-4 w-4" />
+                      Register
+                    </Link>
+                  </>
+                )}
                 {hasProgress && lastGrade && (
                   <Link
                     to={`/grade/${lastGrade}`}

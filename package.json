@@ -14,6 +14,7 @@
     "images:auto-match": "node scripts/autoMatchLessonImages.mjs"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.110.8",
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
     "lucide-react": "^1.11.0",

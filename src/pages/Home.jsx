@@ -13,6 +13,12 @@ import gradesData from '../data/grades.json'
 import schoolLogo from '../assets/CSJS.png'
 import { buttonPop, cardHover, statPop } from '../utils/motionPresets'
 
+const heroImageModules = import.meta.glob('../assets/school-hero.{jpg,jpeg,png,webp}', {
+  eager: true,
+  import: 'default',
+})
+const schoolHeroImage = Object.values(heroImageModules)[0] || null
+
 const containerVariants = {
   hidden: { opacity: 0 },
   visible: {
@@ -68,7 +74,16 @@ export default function Home() {
   return (
     <div className="min-h-screen pb-20">
       {/* Hero Section */}
-      <section className="hero-mesh relative overflow-hidden px-4 pt-24 pb-16 md:px-8 md:pt-32 md:pb-24">
+      <section
+        className={`hero-mesh relative overflow-hidden px-4 pt-24 pb-16 md:px-8 md:pt-32 md:pb-24 ${
+          schoolHeroImage ? 'hero-with-photo' : ''
+        }`}
+        style={
+          schoolHeroImage
+            ? { '--hero-photo': `url(${schoolHeroImage})` }
+            : undefined
+        }
+      >
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}

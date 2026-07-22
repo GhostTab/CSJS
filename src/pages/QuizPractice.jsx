@@ -228,6 +228,9 @@ export default function QuizPractice() {
               <p className="mt-2 text-slate-600">
                 You scored {finalScore} out of {activeQuiz.questions.length}
               </p>
+              <p className="mt-3 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-600">
+                Practice quiz — does not count toward ranking.
+              </p>
 
               <div className="mx-auto mt-6 max-w-xs">
                 <div className="h-4 overflow-hidden rounded-full bg-slate-200">
@@ -454,6 +457,10 @@ export default function QuizPractice() {
           <p className="mt-2 text-slate-600">
             Test your knowledge with interactive quizzes from all subjects
           </p>
+          <div className="mt-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+            <strong>Practice — does not count toward ranking.</strong> Only quizzes finished at the end
+            of a lesson add points to the student leaderboard.
+          </div>
         </motion.div>
 
         {/* Filters */}

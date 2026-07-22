@@ -242,6 +242,19 @@ body {
   pointer-events: none;
 }
 
+/* Full-bleed school photo when asset is present (src/assets/school-hero.*) */
+.hero-with-photo::before {
+  background:
+    linear-gradient(
+      105deg,
+      rgba(255, 255, 255, 0.92) 0%,
+      rgba(248, 250, 252, 0.82) 42%,
+      rgba(255, 255, 255, 0.55) 70%,
+      rgba(255, 255, 255, 0.35) 100%
+    ),
+    var(--hero-photo) center / cover no-repeat;
+}
+
 .stat-gradient {
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(239, 246, 255, 0.85) 100%);
   border: 1px solid rgba(226, 232, 240, 0.9);
