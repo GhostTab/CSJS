@@ -13,6 +13,7 @@ import {
   LogIn,
   LogOut,
   UserPlus,
+  Shield,
 } from 'lucide-react'
 import { useProgress } from '../context/ProgressContext'
 import { useAuth } from '../context/AuthContext'
@@ -49,11 +50,15 @@ export default function Navbar() {
   const [resumeOpen, setResumeOpen] = useState(false)
   const location = useLocation()
   const { progress } = useProgress()
-  const { user, isAuthenticated, signOut } = useAuth()
+  const { user, isAuthenticated, isTeacher, signOut } = useAuth()
 
   const hasProgress = progress.completedLessons.length > 0
   const lastGrade = localStorage.getItem('csjs-last-grade')
   const userLabel = user?.email?.split('@')[0] || 'Account'
+
+  const visibleNavItems = isTeacher
+    ? [...navItems.slice(0, 2), { path: '/teacher', label: 'Teacher', icon: Shield }, ...navItems.slice(2)]
+    : navItems
 
   const handleSignOut = async () => {
     await signOut()
@@ -81,13 +86,14 @@ export default function Navbar() {
 
           {/* Desktop nav — center */}
           <div className="hidden flex-1 items-center justify-center gap-1 lg:flex">
-            {navItems.map((item) => {
+            {visibleNavItems.map((item) => {
               const Icon = item.icon
               const isActive =
                 location.pathname === item.path ||
                 (item.path === '/grade/7' && location.pathname.startsWith('/grade')) ||
                 (item.path === '/quiz-practice' && location.pathname === '/quiz-practice') ||
-                (item.path === '/rankings' && location.pathname === '/rankings')
+                (item.path === '/rankings' && location.pathname === '/rankings') ||
+                (item.path === '/teacher' && location.pathname === '/teacher')
               return (
                 <Link
                   key={item.path}
@@ -221,7 +227,7 @@ export default function Navbar() {
               className="border-t border-slate-100 pb-3 lg:hidden"
             >
               <div className="flex flex-col gap-1 pt-3">
-                {navItems.map((item) => {
+                {visibleNavItems.map((item) => {
                   const Icon = item.icon
                   const isActive = location.pathname === item.path
                   return (

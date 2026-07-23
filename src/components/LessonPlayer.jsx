@@ -26,7 +26,12 @@ import {
   LESSON_OVERRIDES_EVENT,
   mergeLessonWithLocalOverrides,
 } from '../utils/lessonMediaOverrides'
-import { getEmbeddableVideoUrl } from '../utils/videoEmbed'
+import { resolvePlayableVideo } from '../utils/videoEmbed'
+import { supabase } from '../lib/supabase'
+import {
+  EXTRA_VIDEOS_EVENT,
+  fetchExtraVideosForLesson,
+} from '../utils/lessonExtraVideos'
 
 const sectionIcons = {
   'introduction': BookOpen,
@@ -166,9 +171,37 @@ function LessonImageBlock({ images = [] }) {
   )
 }
 
-function LessonVideoBlock({ lesson }) {
-  const videoUrl = lesson?.video?.url
-  if (!videoUrl) {
+function LessonVideoBlock({ lesson, extraVideos = [] }) {
+  const primaryPlayable =
+    isVideoApprovedForDisplay(lesson?.video) && resolvePlayableVideo(lesson?.video?.url)
+
+  const primary = primaryPlayable
+    ? {
+        key: 'primary',
+        url: lesson.video.url,
+        title: lesson.video.title || 'Lesson video',
+        badge: 'Curriculum video',
+        playable: primaryPlayable,
+      }
+    : null
+
+  const extras = (extraVideos || [])
+    .map((row) => {
+      const playable = resolvePlayableVideo(row.url)
+      if (!playable) return null
+      return {
+        key: row.id,
+        url: row.url,
+        title: row.title || 'Additional video',
+        badge: row.source_type === 'upload' ? 'Uploaded file' : 'Teacher added',
+        playable,
+      }
+    })
+    .filter(Boolean)
+
+  const playlist = [...(primary ? [primary] : []), ...extras]
+
+  if (playlist.length === 0) {
     return (
       <div className="space-y-3 rounded-xl border border-slate-200 bg-slate-50 p-4">
         <h4 className="flex items-center gap-2 text-sm font-semibold text-slate-700">
@@ -182,44 +215,68 @@ function LessonVideoBlock({ lesson }) {
     )
   }
 
-  const embeddableUrl = getEmbeddableVideoUrl(videoUrl)
-  if (!embeddableUrl) {
-    return (
-      <div className="space-y-3 rounded-xl border border-slate-200 bg-slate-50 p-4">
-        <h4 className="flex items-center gap-2 text-sm font-semibold text-slate-700">
-          <Video className="h-4 w-4 text-blue-600" />
-          Educational Video
-        </h4>
-        <p className="rounded-lg border border-dashed border-slate-300 bg-white p-3 text-sm text-slate-600">
-          No lesson-specific video available yet.
-        </p>
-      </div>
-    )
-  }
   return (
-    <div className="space-y-3 rounded-xl border border-slate-200 bg-slate-50 p-4">
+    <div className="space-y-4 rounded-xl border border-slate-200 bg-slate-50 p-4">
       <h4 className="flex items-center gap-2 text-sm font-semibold text-slate-700">
         <Video className="h-4 w-4 text-blue-600" />
-        Educational Video
+        Educational Videos
+        <span className="rounded-full bg-blue-100 px-2 py-0.5 text-xs font-medium text-blue-700">
+          {playlist.length}
+        </span>
       </h4>
-      <iframe
-        src={embeddableUrl}
-        title={lesson?.video?.title || 'Lesson video'}
-        className="h-64 w-full rounded-lg border border-slate-200 bg-black"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-      />
+      <div className="space-y-5">
+        {playlist.map((item) => (
+          <div key={item.key} className="space-y-2">
+            <div className="flex flex-wrap items-center gap-2">
+              <p className="text-sm font-medium text-slate-800">{item.title}</p>
+              <span
+                className={`rounded-full px-2 py-0.5 text-[11px] font-semibold ${
+                  item.badge === 'Curriculum video'
+                    ? 'bg-emerald-100 text-emerald-700'
+                    : item.badge === 'Uploaded file'
+                      ? 'bg-sky-100 text-sky-700'
+                      : 'bg-violet-100 text-violet-700'
+                }`}
+              >
+                {item.badge}
+              </span>
+            </div>
+            {item.playable.type === 'embed' ? (
+              <iframe
+                src={item.playable.src}
+                title={item.title}
+                className="aspect-video h-auto min-h-[12rem] w-full rounded-lg border border-slate-200 bg-black sm:min-h-[16rem]"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            ) : (
+              <video
+                src={item.playable.src}
+                title={item.title}
+                controls
+                playsInline
+                preload="metadata"
+                className="aspect-video h-auto min-h-[12rem] w-full rounded-lg border border-slate-200 bg-black sm:min-h-[16rem]"
+              >
+                Your browser does not support this video format.
+              </video>
+            )}
+          </div>
+        ))}
+      </div>
     </div>
   )
 }
 
-function MediaLearningHub({ displayLesson, section }) {
+function MediaLearningHub({ displayLesson, section, extraVideos = [] }) {
   const images = Array.isArray(section?.images) ? section.images : []
   const hasImages = images.length > 0
   const videoSrc = displayLesson?.video?.url
-  const hasStudentVideo =
-    Boolean(videoSrc && getEmbeddableVideoUrl(videoSrc)) &&
+  const hasPrimaryVideo =
+    Boolean(resolvePlayableVideo(videoSrc)) &&
     isVideoApprovedForDisplay(displayLesson.video)
+  const hasExtraVideos = (extraVideos || []).some((row) => resolvePlayableVideo(row.url))
+  const hasStudentVideo = hasPrimaryVideo || hasExtraVideos
 
   if (!hasImages && !hasStudentVideo) {
     return null
@@ -277,7 +334,9 @@ function MediaLearningHub({ displayLesson, section }) {
 
       <div className="min-h-[120px]">
         {resolvedTab === 'visual' && <LessonImageBlock images={images} />}
-        {resolvedTab === 'video' && <LessonVideoBlock lesson={displayLesson} />}
+        {resolvedTab === 'video' && (
+          <LessonVideoBlock lesson={displayLesson} extraVideos={extraVideos} />
+        )}
       </div>
     </div>
   )
@@ -309,12 +368,29 @@ export default function LessonPlayer({
     clearSectionImages,
   } = useVideoReview()
   const [approvalEpoch, setApprovalEpoch] = useState(0)
+  const [extraVideos, setExtraVideos] = useState([])
 
   useEffect(() => {
     const bump = () => setApprovalEpoch((n) => n + 1)
     window.addEventListener(LESSON_OVERRIDES_EVENT, bump)
-    return () => window.removeEventListener(LESSON_OVERRIDES_EVENT, bump)
+    window.addEventListener(EXTRA_VIDEOS_EVENT, bump)
+    return () => {
+      window.removeEventListener(LESSON_OVERRIDES_EVENT, bump)
+      window.removeEventListener(EXTRA_VIDEOS_EVENT, bump)
+    }
   }, [])
+
+  useEffect(() => {
+    let cancelled = false
+    async function loadExtras() {
+      const { data } = await fetchExtraVideosForLesson(supabase, gradeId, subjectId, lesson.id)
+      if (!cancelled) setExtraVideos(data || [])
+    }
+    loadExtras()
+    return () => {
+      cancelled = true
+    }
+  }, [gradeId, subjectId, lesson.id, approvalEpoch])
 
   const effectiveLesson = useMemo(
     () => mergeLessonWithLocalOverrides(lesson, gradeId, subjectId),
@@ -328,11 +404,13 @@ export default function LessonPlayer({
   const lessonContentIssues = getLessonTeachingContentErrors(effectiveLesson)
 
   const fileVideoUrl = String(lesson?.video?.url || '').trim()
-  const fileHasEmbeddableVideo = Boolean(fileVideoUrl && getEmbeddableVideoUrl(fileVideoUrl))
+  const fileHasEmbeddableVideo = Boolean(fileVideoUrl && resolvePlayableVideo(fileVideoUrl))
+  const hasPlayableExtras = extraVideos.some((row) => resolvePlayableVideo(row.url))
   const showVideoUnavailableMessage =
     fileHasEmbeddableVideo &&
     !isVideoApprovedForDisplay(effectiveLesson.video) &&
-    !(isReviewEnabled && reviewMode)
+    !(isReviewEnabled && reviewMode) &&
+    !hasPlayableExtras
   const hasCompleteLessonContent = lessonContentIssues.length === 0
   const lessonCompleted = completedLessonId === lesson.id || getLessonProgress(lesson.id)
   const totalSteps = Math.max(sections.length + (hasCompleteLessonContent ? 2 : 0), 1)
@@ -341,17 +419,6 @@ export default function LessonPlayer({
     totalSteps,
   )
   const progress = Math.round((currentStep / totalSteps) * 100)
-
-  console.log('[lesson-video-debug]', {
-    grade: gradeId,
-    subject: subjectId,
-    lessonId: lesson?.id,
-    lessonTitle: lesson?.title,
-    videoUrl: lesson?.video?.url || '',
-    approvedFile: lesson?.video?.approved,
-    approvedEffective: effectiveLesson?.video?.approved,
-  })
-
   const handleNext = () => {
     if (activeSection < sections.length - 1) {
       setActiveSection(prev => prev + 1)
@@ -551,6 +618,7 @@ export default function LessonPlayer({
                       key={`${lesson.id}-${activeSection}`}
                       displayLesson={effectiveLesson}
                       section={sections[activeSection]}
+                      extraVideos={extraVideos}
                     />
 
                     {showVideoUnavailableMessage && (

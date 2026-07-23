@@ -12,6 +12,7 @@ import DevVideoReviewPage from './pages/DevVideoReviewPage'
 import Login from './pages/Login'
 import Register from './pages/Register'
 import Rankings from './pages/Rankings'
+import TeacherAdmin from './pages/TeacherAdmin'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/rankings" element={<Rankings />} />
+            <Route path="/teacher" element={<TeacherAdmin />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/grade/:gradeId" element={<GradePage />} />

@@ -11,7 +11,8 @@
     "preview": "vite preview",
     "videos:migrate-approval": "node scripts/migrateVideoApproved.mjs",
     "videos:auto-match": "node scripts/autoMatchLessonVideos.mjs",
-    "images:auto-match": "node scripts/autoMatchLessonImages.mjs"
+    "images:auto-match": "node scripts/autoMatchLessonImages.mjs",
+    "seed:leaderboard": "node scripts/seedLeaderboard.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.8",

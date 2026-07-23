@@ -25,3 +25,41 @@ export function getEmbeddableVideoUrl(src) {
   }
   return null
 }
+
+const VIDEO_EXT_RE = /\.(mp4|webm|ogg|ogv|mov|m4v)(\?|#|$)/i
+
+/**
+ * True for direct video file URLs (uploaded files, CDN, Supabase Storage).
+ */
+export function isDirectVideoFileUrl(src) {
+  if (!src || typeof src !== 'string') return false
+  try {
+    const url = new URL(src.trim())
+    if (url.protocol !== 'http:' && url.protocol !== 'https:') return false
+    if (VIDEO_EXT_RE.test(url.pathname)) return true
+    // Supabase public storage objects for our lesson-videos bucket
+    if (
+      url.pathname.includes('/storage/v1/object/public/lesson-videos/') ||
+      url.pathname.includes('/storage/v1/object/sign/lesson-videos/')
+    ) {
+      return true
+    }
+    return false
+  } catch {
+    return false
+  }
+}
+
+/**
+ * @returns {{ type: 'embed'|'file', src: string } | null}
+ */
+export function resolvePlayableVideo(src) {
+  const embed = getEmbeddableVideoUrl(src)
+  if (embed) return { type: 'embed', src: embed }
+  if (isDirectVideoFileUrl(src)) return { type: 'file', src: String(src).trim() }
+  return null
+}
+
+export function isPlayableVideoUrl(src) {
+  return Boolean(resolvePlayableVideo(src))
+}
