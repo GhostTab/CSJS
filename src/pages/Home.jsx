@@ -11,6 +11,8 @@ import {
 } from 'lucide-react'
 import gradesData from '../data/grades.json'
 import schoolLogo from '../assets/CSJS.png'
+import FacebookIcon from '../components/FacebookIcon'
+import { SCHOOL_FACEBOOK_LABEL, SCHOOL_FACEBOOK_URL } from '../constants/schoolLinks'
 import { buttonPop, cardHover, statPop } from '../utils/motionPresets'
 
 const heroImageModules = import.meta.glob('../assets/school-hero.{jpg,jpeg,png,webp}', {
@@ -123,26 +125,44 @@ export default function Home() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4 }}
-              className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row sm:flex-wrap lg:justify-start"
+              className="mt-10 flex flex-col items-center gap-3 sm:flex-row sm:flex-wrap sm:gap-4 lg:justify-start"
             >
-              <motion.div {...buttonPop}>
-                  <Link
-                    to="/grade/7"
-                    className="btn-gradient group flex items-center gap-2 rounded-full px-8 py-4 text-lg font-semibold text-white"
-                  >
-                    Start Learning
-                    <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
-                  </Link>
-              </motion.div>
-              <motion.div {...buttonPop}>
+              <motion.div {...buttonPop} className="w-full sm:w-auto">
                 <Link
-                  to="/grade/7/math/fractions-and-decimals"
-                    className="btn-gradient-outline group flex items-center gap-2 rounded-full px-6 py-4 text-lg font-semibold text-slate-700"
+                  to="/grade/7"
+                  className="btn-gradient group flex w-full items-center justify-center gap-2 rounded-full px-6 py-3.5 text-base font-semibold text-white sm:w-auto sm:px-8 sm:py-4 sm:text-lg"
+                >
+                  Start Learning
+                  <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
+                </Link>
+              </motion.div>
+
+              {/* View Demo (+ Facebook on sm+ only; mobile FB is in hamburger) */}
+              <div className="flex w-full items-center justify-center gap-2.5 sm:w-auto sm:gap-3 lg:justify-start">
+                <motion.div {...buttonPop} className="w-full sm:w-auto">
+                  <Link
+                    to="/grade/7/math/fractions-and-decimals"
+                    className="btn-gradient-outline group flex w-full items-center justify-center gap-2 rounded-full px-4 py-2.5 text-sm font-semibold text-slate-700 sm:px-6 sm:py-4 sm:text-lg"
                   >
-                    <Play className="h-5 w-5 text-slate-500 transition-transform group-hover:scale-110" fill="currentColor" />
+                    <Play
+                      className="h-4 w-4 shrink-0 text-slate-500 transition-transform group-hover:scale-110 sm:h-5 sm:w-5"
+                      fill="currentColor"
+                    />
                     View Demo
                   </Link>
-              </motion.div>
+                </motion.div>
+                <motion.div {...buttonPop} className="hidden shrink-0 sm:block">
+                  <a
+                    href={SCHOOL_FACEBOOK_URL}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={SCHOOL_FACEBOOK_LABEL}
+                    className="inline-flex h-[3.5rem] w-[3.5rem] items-center justify-center rounded-full bg-[#1877F2] text-white shadow-sm transition-colors hover:bg-[#166fe5]"
+                  >
+                    <FacebookIcon className="h-6 w-6" />
+                  </a>
+                </motion.div>
+              </div>
             </motion.div>
           </div>
 
