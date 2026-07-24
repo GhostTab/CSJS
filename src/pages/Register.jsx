@@ -12,6 +12,7 @@ export default function Register() {
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
   const [info, setInfo] = useState('')
+  const [acceptedTerms, setAcceptedTerms] = useState(false)
   const [submitting, setSubmitting] = useState(false)
 
   if (!loading && isAuthenticated) {
@@ -22,6 +23,10 @@ export default function Register() {
     event.preventDefault()
     setError('')
     setInfo('')
+    if (!acceptedTerms) {
+      setError('Please agree to the Terms and Conditions to create an account.')
+      return
+    }
     setSubmitting(true)
     const result = await signUp(email.trim(), password)
     setSubmitting(false)
@@ -125,6 +130,32 @@ export default function Register() {
                 <p className="mt-1.5 text-xs text-slate-500">Use at least 6 characters.</p>
               </div>
 
+              <label
+                htmlFor="register-terms"
+                className="flex cursor-pointer items-start gap-3 rounded-2xl border border-slate-200 bg-slate-50/80 px-3.5 py-3.5"
+              >
+                <input
+                  id="register-terms"
+                  type="checkbox"
+                  checked={acceptedTerms}
+                  onChange={(e) => setAcceptedTerms(e.target.checked)}
+                  className="mt-0.5 h-4 w-4 shrink-0 rounded border-slate-300 text-blue-600 focus:ring-sky-200"
+                />
+                <span className="text-sm leading-snug text-slate-600">
+                  I agree to the{' '}
+                  <Link
+                    to="/terms"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold text-blue-600 hover:underline"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Terms and Conditions
+                  </Link>{' '}
+                  of CSJS Learn.
+                </span>
+              </label>
+
               {error && (
                 <p className="rounded-xl border border-rose-200 bg-rose-50 px-3 py-2.5 text-sm text-rose-700">
                   {error}
@@ -138,7 +169,7 @@ export default function Register() {
 
               <button
                 type="submit"
-                disabled={submitting || !isConfigured}
+                disabled={submitting || !isConfigured || !acceptedTerms}
                 className="btn-gradient group flex w-full items-center justify-center gap-2 rounded-full px-6 py-3.5 text-sm font-semibold text-white disabled:opacity-60"
               >
                 {submitting ? (

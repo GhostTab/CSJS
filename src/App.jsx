@@ -11,6 +11,7 @@ import QuizPractice from './pages/QuizPractice'
 import DevVideoReviewPage from './pages/DevVideoReviewPage'
 import Login from './pages/Login'
 import Register from './pages/Register'
+import Terms from './pages/Terms'
 import Rankings from './pages/Rankings'
 import TeacherAdmin from './pages/TeacherAdmin'
 
@@ -28,6 +29,7 @@ function App() {
             <Route path="/teacher" element={<TeacherAdmin />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
+            <Route path="/terms" element={<Terms />} />
             <Route path="/grade/:gradeId" element={<GradePage />} />
             <Route path="/grade/:gradeId/:subjectId" element={<SubjectPage />} />
             <Route path="/grade/:gradeId/:subjectId/:lessonId" element={<LessonPage />} />
